@@ -1,11 +1,10 @@
 # Welcome
 
-I am an associate professor in Business Analytics, currently at [Norwich Business School](http://business.uea.ac.uk), [University of East Anglia](http://www.uea.ac.uk) (Norwich, UK). I work and consult in various areas of analytics. You can read more about my teaching and research at my github profile and about my consulting activities at [NKResearch](http://www.nkresearch.co.uk). I also colaborate with [Adastra](http://www.adastragrp.com) as a data scientist in residense working on R&D activities in analytics and data engineering. 
+I am an associate professor in Business Analytics at the [Norwich Business School](http://business.uea.ac.uk){:target="_blank"}, [University of East Anglia](http://www.uea.ac.uk){:target="_blank"}, located in Norwich, UK. In addition to my academic work, I also consult in various areas of analytics and collaborate with Adastra as a data scientist in residence, working on R&D activities in analytics and data engineering. You can find more information about my teaching and research on my [GitHub profile](http://nkorf.github.io){:target="_blank"}, and about my consulting activities on the NKResearch website.
 
-Feel free to contact me regarding: 
+If you are interested in any of the following, please don't hesitate to contact me:
 
-* Research Collaboration 
-* Data Science and Analytics Training including upskilling and re-skilling. 
-* Consulting 
-
+Research collaboration
+Data science and analytics training, including upskilling and reskilling
+Consulting
 
