@@ -9,4 +9,12 @@ If you are interested in any of the following, please don't hesitate to contact 
 * Data science and analytics training, including upskilling and reskilling
 * Consulting
 
+---
+My most recent research papers: 
+
+* Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & Korfiatis, N. (2023). Making supply chains great again: examining structural changes to US manufacturing supply chains. _International Journal of Operations & Production Management_ (Forthcoming).
+
+* Yang, N., Korfiatis, N., Zissis, D., & Spanaki, K. (2023). Incorporating topic membership in review rating prediction from unstructured data: a gradient boosting approach. _Annals of Operations Research_, (Forthcoming).
+
+* Karatzas, A., Papadopoulos, G., Stamolampros, P., Raja, J. Z., & Korfiatis, N. (2023). Front-and back-end employee satisfaction during service transition. _International Journal of Operations & Production Management_ (Forthcoming).
 
