@@ -9,6 +9,7 @@ If you are interested in any of the following, please don't hesitate to contact 
 * Data science and analytics training, including upskilling and reskilling
 * Consulting
 
+[Education](edu.md)
 ---
 Recent research papers: 
 
