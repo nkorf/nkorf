@@ -10,6 +10,7 @@ If you are interested in any of the following, please don't hesitate to contact 
 * Consulting
 
 [Education](edu.md)
+
 ---
 Recent research papers: 
 
