@@ -1,3 +1,5 @@
+[[Publications List]](publications.md)  
+
 # CABS Ranked Publications (Current REF Period)
 
 ## CABS 4
