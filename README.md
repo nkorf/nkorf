@@ -2,6 +2,8 @@
 
 [[Publications List]](publications.md)  [[CABS Ranked - Current REF]](ref.md)
 
+---
+
 I am an associate professor in Business Analytics at the [Norwich Business School](http://business.uea.ac.uk), [University of East Anglia](http://www.uea.ac.uk), located in Norwich, UK. My main research area is concerned on the analytics of semistructured and unstructured data. I have extensive knowledge of Data Engineering techniques and methods as well as Advanced Statistical Programming and Machine Learning Techniques in various domains. In addition to my academic work, I also consult in various areas of analytics and collaborate with [Adastra](http://www.adastragrp.com) as a data scientist in residence, working on R&D activities in analytics, data engineering and applications of AI in business contexts including generative and inferential. 
 You can see a partial list of my publications in my [Google Scholar Profile](https://scholar.google.com/citations?user=T4VGRUIAAAAJ&hl=en).
 
@@ -10,8 +12,6 @@ If you are interested in any of the following, please don't hesitate to contact 
 * Research collaboration
 * Data science and analytics training, including upskilling and reskilling
 * Consulting
-
-
 
 ---
 Recent research papers: 
