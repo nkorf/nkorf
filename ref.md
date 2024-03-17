@@ -9,7 +9,7 @@
 
 ## CABS 3
 
-7.Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. * Business Strategy and the Environment (Forthcoming)* ***(CABS 3)***
+7. Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. * Business Strategy and the Environment (Forthcoming)* ***(CABS 3)***
 6. Yan, N., Korfiatis, N., Zissis, D., Spanaki K. (2023). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A radient Boosting Approach. *Annals of Operational Research (Forthcoming)* ***(CABS 3)***
 5. Aykol, B., Leonidou L., Samiee S., Korfiatis, N. (2022) A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review, 62, 741–784*  ***(CABS 3)***
 4. Leonidou, L, Eteokleous P., Christofi, A.M, Korfiatis, N. (2022). Drivers, outcomes, and moderators of consumer intention to buy organic goods: Meta-analysis, implications, and future agenda. *Journal of Business Research, 151, 339-354 **(CABS 3)***
