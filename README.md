@@ -16,7 +16,7 @@ If you are interested in any of the following, please don't hesitate to contact 
 ---
 ## Forthcoming Publications 
 
-* Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. * Business Strategy and the Environment (Forthcoming)* **(CABS 3)**
+* Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. _Business Strategy and the Environment (Forthcoming)_ 
   
 * Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & Korfiatis, N. (2023). Making supply chains great again: examining structural changes to US manufacturing supply chains. _International Journal of Operations & Production Management_ (Forthcoming).
 
