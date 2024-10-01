@@ -8,7 +8,7 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Journal Articles 
 
-<ol reversed>
+<ol reversed="true">
 
 
 <li> 
