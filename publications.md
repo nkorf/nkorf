@@ -8,9 +8,9 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Journal Articles 
 
-Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. *Business Strategy and the Environment (Forthcoming)* **(CABS 3)**
+0. Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. *Business Strategy and the Environment (Forthcoming)* **(CABS 3)**
 
-Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & Korfiatis, N. (2023). Making supply chains great again: examining structural changes to US manufacturing supply chains. *International Journal of Operations & Production Management (Forthcoming)* **(CABS 4)***
+0. Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & Korfiatis, N. (2023). Making supply chains great again: examining structural changes to US manufacturing supply chains. *International Journal of Operations & Production Management (Forthcoming)* **(CABS 4)***
 
 Yang, N., Korfiatis, N., Zissis, D., Spanaki K. (2023). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operational Research (Forthcoming) (**CABS 3)***
 
@@ -81,3 +81,5 @@ Poulos, M., Papavlasopoulos, S., Belesiotis, V. S., Korfiatis, N. (2009). A sema
 Korfiatis, N., Poulos, M., Bokos, G. (2007). Social metadata for the impact factor. *The Electronic Library*, *25(2)*, 166-175. *– Impact Factor:* *1.50*
 
 Korfiatis, N., Poulos, M., & Bokos, G. (2007). Evaluating authoritative sources using social networks: an insight from Wikipedia. *Online Information Review*, *30*(3), 252–262. ***(CABS 1)***
+
+{: reversed="reversed"}
