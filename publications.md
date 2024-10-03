@@ -12,7 +12,7 @@ _Note: CABS denotes classification from CABS Ranking_
 
 2. Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & Korfiatis, N. (2023). Making supply chains great again: examining structural changes to US manufacturing supply chains. *International Journal of Operations & Production Management*, 44 (5), **(CABS 4)***
 
-35. Yang, N., Korfiatis, N., Zissis, D., Spanaki K. (2023). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operational Research (Forthcoming) (**CABS 3)***
+35. Yang, N., Korfiatis, N., Zissis, D., Spanaki K. (2023). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operational Research* 339, 631–662 **(CABS 3)**
 
 34. Karatzas, A., Papadopoulos, G., Stamolampros, P., Raja, J., Korfiatis, N. (2023). Front- and back-end employee satisfaction during service transition. *International Journal of Operations and Production Management (Forthcoming) **(CABS 4)***
 
