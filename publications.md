@@ -8,15 +8,15 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Journal Articles 
 
-1. Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. *Business Strategy and the Environment*, 33 (6) **(CABS 3)**
+1. Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. *Business Strategy and the Environment*, 33 (6), **(CABS 3)**
 
 2. Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & Korfiatis, N. (2023). Making supply chains great again: examining structural changes to US manufacturing supply chains. *International Journal of Operations & Production Management*, 44 (5), **(CABS 4)***
 
-35. Yang, N., Korfiatis, N., Zissis, D., Spanaki K. (2023). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operational Research* 339, 631–662 **(CABS 3)**
+35. Yang, N., Korfiatis, N., Zissis, D., Spanaki K. (2023). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operational Research* 339, 631–662, **(CABS 3)**
 
-34. Karatzas, A., Papadopoulos, G., Stamolampros, P., Raja, J., Korfiatis, N. (2023). Front- and back-end employee satisfaction during service transition. *International Journal of Operations and Production Management (Forthcoming) **(CABS 4)***
+34. Karatzas, A., Papadopoulos, G., Stamolampros, P., Raja, J., Korfiatis, N. (2023). Front- and back-end employee satisfaction during service transition. *International Journal of Operations and Production Management (Forthcoming), **(CABS 4)***
 
-33. Aykol, B., Leonidou L., Samiee S., Korfiatis, N. (2022) A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review, 62, 741–784*  ***(CABS 3)***
+33. Aykol, B., Leonidou L., Samiee S., Korfiatis, N. (2022) A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review*, 62, 741–784  ***(CABS 3)***
 
 32. Leonidou, L, Eteokleous P., Christofi, A.M, Korfiatis, N. (2022). Drivers, outcomes, and moderators of consumer intention to buy organic goods: Meta-analysis, implications, and future agenda. *Journal of Business Research*, 151, 339-354 **(CABS 3)***
 
