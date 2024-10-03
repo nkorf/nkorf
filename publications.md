@@ -8,9 +8,9 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Journal Articles 
 
-37. Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. *Business Strategy and the Environment (Forthcoming)* **(CABS 3)**
+1. Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. *Business Strategy and the Environment (Forthcoming)* **(CABS 3)**
 
-36. Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & Korfiatis, N. (2023). Making supply chains great again: examining structural changes to US manufacturing supply chains. *International Journal of Operations & Production Management (Forthcoming)* **(CABS 4)***
+2. Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & Korfiatis, N. (2023). Making supply chains great again: examining structural changes to US manufacturing supply chains. *International Journal of Operations & Production Management (Forthcoming)* **(CABS 4)***
 
 35. Yang, N., Korfiatis, N., Zissis, D., Spanaki K. (2023). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operational Research (Forthcoming) (**CABS 3)***
 
