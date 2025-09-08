@@ -4,7 +4,7 @@
 
 ---
 ## About
-I am an AI architect and Academic affiliated with Ionian University and the University of Warwick, working in various various areas of analytics and collaborate with [Adastra](http://www.adastragrp.com) as a data scientist in residence, working on R&D activities in analytics, data engineering and applications of AI in business contexts including generative and inferential. I also colaborate as an external raporteur with [OECD](oecd.ai)
+I am an AI architect and Academic affiliated with Ionian University and colaborate as an external raporteur with [OECD](oecd.ai). Ι work in various various areas of analytics and collaborate with [Adastra](http://www.adastragrp.com) as a data scientist in residence, working on R&D activities in analytics, data engineering and applications of AI in business contexts including generative and inferential. I am also a professional clinical research statistician and I am affiliated with HECOG (Hellenic Cooperative Oncology Group) as a Senior Statistician.   
 You can see a partial list of my publications in my [Google Scholar Profile](https://scholar.google.com/citations?user=T4VGRUIAAAAJ&hl=en).
 
 If you are interested in any of the following, please don't hesitate to contact me:
