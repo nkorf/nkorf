@@ -14,7 +14,7 @@ If you are interested in any of the following, please don't hesitate to contact 
 * Consulting
 
 ---
-## Clinical Trials
+## Clinical Trials (Most Recent)
 
 ClinicalTrials.gov Identifier: **[NCT03568097](https://clinicaltrials.gov/study/NCT03568097)** - PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer
    * Mountzios, G., Papadopoulou, K., Korfiatis, N., Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G.-A., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A.V., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P.A., Fountzilas, G., & Linardou, H. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final Outcome, Immunophenotypic and biomarker analysis. *European Journal of Cancer*, 228, 115660.
