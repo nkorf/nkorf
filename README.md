@@ -14,12 +14,12 @@ If you are interested in any of the following, please don't hesitate to contact 
 * Consulting
 
 ---
-## Forthcoming Publications 
+## Recent and Forthcoming Publications
 
-* Yan, N., Dousios, D., Korfiatis, N., Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modelling approach. _Business Strategy and the Environment (Forthcoming)_ 
-  
-* Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & Korfiatis, N. (2023). Making supply chains great again: examining structural changes to US manufacturing supply chains. _International Journal of Operations & Production Management_ (Forthcoming).
+* Dousios, D., Korfiatis, N., & Spanaki, K. (2025). The Persuasive Impact of Text and Audio Features on Technology Crowdfunding Campaigns. _IEEE Transactions on Engineering Management_, 72, 2049-2064.
 
-* Yan, N., Korfiatis, N., Zissis, D., & Spanaki, K. (2023). Incorporating topic membership in review rating prediction from unstructured data: a gradient boosting approach. _Annals of Operations Research_, (Forthcoming).
+* Kleitsikas, C., Korfiatis, N., Leonardos, S., & Ventre, C. (2025). Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data. _IEEE International Conference on Blockchain and Cryptocurrency 2025_.
+
+* Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., et al. (2025). SNF-CLIMEDIN: A HECOG prospective randomized trial of digital support and intervention in patients with advanced NSCLC. _Journal of Clinical Oncology_, 43(16_suppl), 1515-1515.
 
 [See Full List](publications.md)
