@@ -1,4 +1,4 @@
-[[CABS Ranked - Current REF]](ref.md)
+[[CABS Ranked]](ref.md)
 
 # Full List of Publications (Chronological Order)
 
