@@ -14,7 +14,7 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Dissertations
 
-**[2]** Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *Doctoral Dissertation, PhD School in Information Management and Accounting, Department of Informatics, Copenhagen Business School*. (Supervisor: Professor Volker Mahnke)
+**[2]** Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *Doctoral Dissertation, PhD School in Information Management and Accounting, Department of Informatics, Copenhagen Business School*. (Supervisor: Professor Volker Mahnke) [CBS Bibliotek](https://research.cbs.dk/en/publications/information-exchange-and-behavior-a-multi-method-inquiry-on-onlin) | [EKT](https://www.didaktorika.gr/eadd/handle/10442/22529)
 
 **[1]** Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *MSc Dissertation, School of Electrical Engineering and Computer Science, Royal Institute of Technology (KTH), Sweden*. (Supervisor: Dr Ambjoern Naeve)
 
@@ -128,49 +128,55 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Conference Proceedings
 
-**[22]** Kleitsikas, C., Korfiatis, N., Leonardos, S., & Ventre, C. (2025). Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data. *IEEE International Conference on Blockchain and Cryptocurrency 2025*.
+**[25]** Kleitsikas, C., Korfiatis, N., Leonardos, S., & Ventre, C. (2025). Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data. *IEEE International Conference on Blockchain and Cryptocurrency 2025*.
 
-**[21]** Palla, G., Korfiatis, N., Hatzithomas, L., Palla, P., & Lekakos, G. (2024). The Device Effect on Visitor Critique: A Study of Mobile and Desktop Museum Reviews on TripAdvisor. *Proceedings of 26th International Conference on Human Computer Interaction*.
+**[24]** Palla, G., Korfiatis, N., Hatzithomas, L., Palla, P., & Lekakos, G. (2024). The Device Effect on Visitor Critique: A Study of Mobile and Desktop Museum Reviews on TripAdvisor. *Proceedings of 26th International Conference on Human Computer Interaction*.
 
-**[20]** Yang, N., Korfiatis, N., Karatzas, A., & Zissis, D. (2023). Identifying Latent Service Dimensions in Service Supply Chains Using Topic Modelling: An Analysis of Franchised and Independent Businesses. *Available at SSRN 4227662*.
+**[23]** Yang, N., Korfiatis, N., Karatzas, A., & Zissis, D. (2023). Identifying Latent Service Dimensions in Service Supply Chains Using Topic Modelling: An Analysis of Franchised and Independent Businesses. *Available at SSRN 4227662*.
 
-**[19]** Leonidou, L.C., Katsikeas, C.S., Aykol, B., & Korfiatis, N. (2018). A Meta-Analysis of Power in Buyer-Seller Relationships: An Abstract. *Academy of Marketing Science World Marketing Congress*, 731-732.
+**[22]** Leonidou, L.C., Katsikeas, C.S., Aykol, B., & Korfiatis, N. (2018). A Meta-Analysis of Power in Buyer-Seller Relationships: An Abstract. *Academy of Marketing Science World Marketing Congress*, 731-732.
 
-**[18]** Karatzas, A., Stamolampros, P., Daskalakis, G., & Korfiatis, N. (2018). The effect of manufacturers' service transition on employee job satisfaction. *Proceedings of the 2018 European Conference on Operations Management (EUROMA)*.
+**[21]** Leonidou, L., Aykol, B., & Korfiatis, N. (2018). A meta-analysis of the link between power, conflict, opportunism, and satisfaction in business-to-business relationships. *European Marketing Academic Annual Conference (EMAC 2018)*. Glasgow, United Kingdom.
 
-**[17]** Mertz, M., Korfiatis, N., & Zicari, R. (2014). Using Dependency Bigrams and Discourse Connectives for Predicting the Helpfulness of Online Reviews. *EC-WEB Proceedings, Lecture Notes in Business Information Processing*, 188, 146-152.
+**[20]** Karatzas, A., Stamolampros, P., Daskalakis, G., & Korfiatis, N. (2018). The effect of manufacturers' service transition on employee job satisfaction. *Proceedings of the 25th International EurOMA Conference 2018*. Budapest, Hungary.
 
-**[16]** Korfiatis, N. (2013). Big Data for Enhanced Learning Analytics: A Case for Large-Scale Comparative Assessments. *Proceedings of the 7th International Conference on Metadata and Semantics Research*.
+**[19]** Huang, G.-H., & Korfiatis, N. (2017). To Abandon or Not to Abandon a Mobile Shopping Cart: The Role of Ambivalence. *Proceedings of the American Marketing Association Winter Educators Conference 2017*. Orlando, Florida.
 
-**[15]** Niemann, R., Korfiatis, N., Zicari, R., & Göbel, R. (2013). Evaluating the Energy Efficiency of OLTP Operations. *Availability, Reliability, and Security in Information Systems and HCI*, 28-43.
+**[18]** Mertz, M., Korfiatis, N., & Zicari, R.V. (2014). Using Dependency Bigrams and Discourse Connectives for Predicting the Helpfulness of Online Reviews. *E-Commerce and Web Technologies (EC-Web 2014), Lecture Notes in Business Information Processing*, 188, 146-152. Springer.
 
-**[14]** Rill, S., Adolph, S., Drescher, J., Reinel, D., Scheidt, J., Schütz, O., Wogenstein, F., Zicari, R., & Korfiatis, N. (2012). A Phrase-Based Opinion List for the German Language. *Proceedings of the 11th Conference on Natural Language Processing (KONVENS)*.
+**[17]** Korfiatis, N. (2013). Big Data for Enhanced Learning Analytics: A Case for Large-Scale Comparative Assessments. *Proceedings of the 7th International Conference on Metadata and Semantics Research*. Thessaloniki, Greece.
 
-**[13]** Korfiatis, N., Loebbecke, C., & Cremer, S. (2012). Successfully Bidding for Online Projects: The Impact of Project-Focused Messages. *Proceedings of the 11th International Workshop on e-Business (Web 2012)*.
+**[16]** Niemann, R., Korfiatis, N., Zicari, R.V., & Göbel, R. (2013). Evaluating the Energy Efficiency of OLTP Operations. *Availability, Reliability, and Security in Information Systems and HCI, Lecture Notes in Computer Science*, 8127, 28-43. Regensburg, Germany.
 
-**[12]** Wu, P.F., Van der Heijden, H., & Korfiatis, N. (2011). The Influences of Negativity and Review Quality on the Helpfulness of Online Reviews. *International Conference on Information Systems (ICIS)*.
+**[15]** Rill, S., Adolph, S., Drescher, J., Reinel, D., Scheidt, J., Schütz, O., Wogenstein, F., Korfiatis, N., & Zicari, R.V. (2012). A Phrase-Based Opinion List for the German Language. *Proceedings of the 11th Conference on Natural Language Processing (KONVENS)*, 305-313. Vienna, Austria.
 
-**[11]** Poulos, M., & Korfiatis, N. (2010). Developing a Diagnosis Aiding Ontology Based on Hysteroscopy Image Processing. *Metadata and Semantics Research, Communications in Computer and Information Science*.
+**[14]** Korfiatis, N., Loebbecke, C., & Cremer, S. (2012). Successfully Bidding for Online Projects: The Impact of Project-Focused Messages. *International Workshop on e-Business (WEB 2012), Pre-ICIS Workshop*. Orlando, Florida.
 
-**[10]** García-Barriocanal, E., Sicilia, M.A., & Korfiatis, N. (2010). Exploring hotel service quality experience indicators in user-generated content: A case using TripAdvisor data. *Mediterranean Conference on Information Systems (MCIS)*, 33.
+**[13]** Wu, P.F., Van der Heijden, H., & Korfiatis, N. (2011). The Influences of Negativity and Review Quality on the Helpfulness of Online Reviews. *International Conference on Information Systems (ICIS)*. Shanghai, China.
 
-**[9]** Sicilia, M.A., García-Barriocanal, E., & Korfiatis, N. (2008). Using Imperfect Information in Online Social Systems: Applications and Measures of Betweenness. *Proceedings of the 12th International Conference on Information Processing and Management of Uncertainty*.
+**[12]** Poulos, M., & Korfiatis, N. (2010). Developing a Diagnosis Aiding Ontology Based on Hysteroscopy Image Processing. *Proceedings of the 4th International Conference on Metadata and Semantics Research, Communications in Computer and Information Science*. Alcala de Henares, Spain.
 
-**[8]** Korfiatis, N., Rodríguez, D., & Sicilia, M.A. (2008). The impact of readability on the usefulness of online product reviews. *Emerging Technologies and Information Systems for the Knowledge Society*, 423-432.
+**[11]** García-Barriocanal, E., Sicilia, M.A., & Korfiatis, N. (2010). Exploring hotel service quality experience indicators in user-generated content: A case using TripAdvisor data. *Mediterranean Conference on Information Systems (MCIS)*. Tel-Aviv, Israel.
 
-**[7]** Poulos, M., Korfiatis, N., & Bokos, G. (2007). Towards the Construction of a Global Bibliometric Indicator. *Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics*.
+**[10]** Sicilia, M.A., García-Barriocanal, E., & Korfiatis, N. (2008). Using Imperfect Information in Online Social Systems: Applications and Measures of Betweenness. *Proceedings of the 12th International Conference on Information Processing and Management of Uncertainty (IPMU 2008)*. Malaga, Spain.
 
-**[6]** Korfiatis, N., & Sicilia, M.A. (2007). Social Measures and Flexible Navigation on Online Contact Networks. *IEEE International Fuzzy Systems Conference (FUZZ-IEEE)*, 1-6.
+**[9]** Korfiatis, N., Rodríguez, D., & Sicilia, M.A. (2008). The impact of readability on the usefulness of online product reviews: A case study on an online bookstore. *Proceedings of WSKS 2008, Lecture Notes in Computer Science*, 5288, 423-432. Springer.
 
-**[5]** Korfiatis, N. (2007). Social and Economic Incentives in Online Social Interactions: A Model and Typology. *30th Information Systems Research Seminar in Scandinavia (IRIS)*.
+**[8]** Poulos, M., Korfiatis, N., & Bokos, G. (2007). Towards the Construction of a Global Bibliometric Indicator. *Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics (ISSI)*. Madrid, Spain.
 
-**[4]** Korfiatis, N., & Constantiou, I.D. (2006). Socially targeted mobile services: towards an upper level ontology of social roles for mobile environments. *European Conference on Information Systems (ECIS)*.
+**[7]** Korfiatis, N., Poulos, M., & Bokos, G. (2007). Analyzing Scientific Networks using Conflict of Interest. *Sunbelt XXVII International Conference on Social Network Analysis*. Corfu, Greece.
 
-**[3]** Korfiatis, N., & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Microlearning 2006: Micromedia and E-Learning*, 304-313.
+**[6]** Korfiatis, N., & Sicilia, M.A. (2007). Social Measures and Flexible Navigation on Online Contact Networks. *IEEE International Fuzzy Systems Conference (FUZZ-IEEE)*, 1-6. Imperial College, London, UK.
+
+**[5]** Korfiatis, N. (2007). Social and Economic Incentives in Online Social Interactions: A Model and Typology. *30th Information Systems Research Seminar in Scandinavia (IRIS)*. University of Tampere, Finland.
+
+**[4]** Korfiatis, N., & Constantiou, I.D. (2006). Socially targeted mobile services: towards an upper level ontology of social roles for mobile environments. *14th European Conference on Information Systems (ECIS 2006)*. Gothenburg, Sweden.
+
+**[3]** Korfiatis, N., & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Microlearning 2006: Micromedia and E-Learning*, 304-313. Innsbruck, Austria.
 
 **[2]** Korfiatis, N., & Naeve, A. (2005). Evaluating wiki contributions using social networks: A case study on Wikipedia. *Proceedings of the First International Conference on Metadata and Semantics Research*.
 
-**[1]** Lytras, M.D., Pouloudi, A., & Korfiatis, N. (2003). An ontological oriented approach on e-learning: integrating semantics for adaptive e-learning systems. *New Paradigms in Organizations, Markets and Society, Proceedings of the 11th European Conference on Information Systems*.
+**[1]** Lytras, M.D., Pouloudi, A., & Korfiatis, N. (2003). An ontological oriented approach on e-learning: integrating semantics for adaptive e-learning systems. *New Paradigms in Organizations, Markets and Society, Proceedings of the 11th European Conference on Information Systems (ECIS 2003)*. Naples, Italy.
 
 ---
 
