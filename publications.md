@@ -44,17 +44,17 @@ _Note: CABS denotes classification from CABS Ranking_
 
 **[41]** Yan, N., Dousios, D., <ins>Korfiatis, N.</ins>, & Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modeling approach. *Business Strategy and the Environment*, 33(6), 5405-5422. **(CABS 3)**
 
-**[40]** Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & <ins>Korfiatis, N.</ins> (2024). Making Supply Chains Great Again: Examining structural changes to US manufacturing supply chains. *International Journal of Operations and Production Management*, 44(5), 1083--1108. **(CABS 4)**
+**[40]** Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & <ins>Korfiatis, N.</ins> (2024). Making Supply Chains Great Again: Examining structural changes to US manufacturing supply chains. *International Journal of Operations and Production Management*, 44(5), 1083–1108. **(CABS 4)**
 
-**[39]** Yang, N., <ins>Korfiatis, N.</ins>, Zissis, D., & Spanaki, K. (2024). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operations Research*, 339, 631--662. **(CABS 3)**
+**[39]** Yang, N., <ins>Korfiatis, N.</ins>, Zissis, D., & Spanaki, K. (2024). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operations Research*, 339, 631–662. **(CABS 3)**
 
 **[38]** Linardou, H., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Vozikis, A., Fountzilas, G., & Kosmidis, P. (2023). Clinical and molecular study with digital support of advanced non-small cell lung cancer patients: SNF-CLIMEDIN, a prospective randomized Hellenic Cooperative Oncology Group study. *Annals of Oncology*, 34, S816-S817. **(NCT05372081)**
 
-**[37]** Karatzas, A., Papadopoulos, G., Stamolampros, P., Raja, J., & <ins>Korfiatis, N.</ins> (2023). Front- and back-end employee satisfaction during service transition. *International Journal of Operations and Production Management*, 43(7), 1121--1147. **(CABS 4)**
+**[37]** Karatzas, A., Papadopoulos, G., Stamolampros, P., Raja, J., & <ins>Korfiatis, N.</ins> (2023). Front- and back-end employee satisfaction during service transition. *International Journal of Operations and Production Management*, 43(7), 1121–1147. **(CABS 4)**
 
-**[36]** Argyropoulou, M., Zissis, D., <ins>Korfiatis, N.</ins>, & Zampou, E. (2023). Horizontal collaboration in the last mile distribution: Gauging managerial response to disruption and abnormal demand. *Benchmarking: An International Journal*, 30(2), 460--474. **(CABS 1)**
+**[36]** Argyropoulou, M., Zissis, D., <ins>Korfiatis, N.</ins>, & Zampou, E. (2023). Horizontal collaboration in the last mile distribution: Gauging managerial response to disruption and abnormal demand. *Benchmarking: An International Journal*, 30(2), 460–474. **(CABS 1)**
 
-**[35]** Aykol, B., Leonidou, L., Samiee, S., & <ins>Korfiatis, N.</ins> (2022). A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review*, 62, 741--784. **(CABS 3)**
+**[35]** Aykol, B., Leonidou, L., Samiee, S., & <ins>Korfiatis, N.</ins> (2022). A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review*, 62, 741–784. **(CABS 3)**
 
 **[34]** Leonidou, L., Eteokleous, P., Christofi, A., & <ins>Korfiatis, N.</ins> (2022). Drivers, outcomes, and moderators of consumer intention to buy organic goods: Meta-analysis, implications, and future agenda. *Journal of Business Research*, 151, 339-354. **(CABS 3)**
 
@@ -92,13 +92,13 @@ _Note: CABS denotes classification from CABS Ranking_
 
 **[17]** Lavranos, C., Kostagiolas, P., <ins>Korfiatis, N.</ins>, & Papadatos, J. (2016). Information seeking for musical creativity: A systematic literature review. *Journal of the American Society for Information Science and Technology*, 67(9), 2105-2117. **(CABS 3)**
 
-**[16]** <ins>Korfiatis, N.</ins>, Lytras, M., & Zicari, R. (2015). Gender Effects and Cooperation Styles in the Facebook Community: A Quasi-Experimental Assessment. *Computers in Human Behavior*, 48, 44--50. **(CABS 2)**
+**[16]** <ins>Korfiatis, N.</ins>, Lytras, M., & Zicari, R. (2015). Gender Effects and Cooperation Styles in the Facebook Community: A Quasi-Experimental Assessment. *Computers in Human Behavior*, 48, 44–50. **(CABS 2)**
 
 **[15]** Huang, G., & <ins>Korfiatis, N.</ins> (2015). Trying before buying: The moderating role of online reviews in trial attitude formation towards mobile apps. *International Journal of Electronic Commerce*, 19(4), 77-111. **(CABS 3)**
 
 **[14]** Kostagiolas, P., Lavranos, C., Papavlasopoulos, S., <ins>Korfiatis, N.</ins>, & Papadatos, J. (2015). Music, Musicians, and Information Seeking Behavior: A Case Study on a Community Concert Band. *Journal of Documentation*, 71(1), 3-24.
 
-**[13]** Kostagiolas, P., <ins>Korfiatis, N.</ins>, Kourouthanassis, P., & Alexias, G. (2014). Work-related factors influencing doctors search behaviours and trust towards medical information resources. *International Journal of Information Management*, 34(2), 80--88. **(CABS 2)**
+**[13]** Kostagiolas, P., <ins>Korfiatis, N.</ins>, Kourouthanassis, P., & Alexias, G. (2014). Work-related factors influencing doctors search behaviours and trust towards medical information resources. *International Journal of Information Management*, 34(2), 80–88. **(CABS 2)**
 
 **[12]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, 40(14), 5507-5515. **(CABS 3)**
 

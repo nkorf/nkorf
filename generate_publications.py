@@ -76,7 +76,7 @@ def format_entry_apa(entry):
     booktitle = entry.get('booktitle', '')
     volume = entry.get('volume', '')
     number = entry.get('number', '')
-    pages = entry.get('pages', '')
+    pages = entry.get('pages', '').replace('--', '–')  # Convert LaTeX dash to en-dash
     publisher = entry.get('publisher', '')
     address = entry.get('address', '')
     doi = entry.get('doi', '')
