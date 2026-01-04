@@ -172,16 +172,20 @@ _Note: CABS denotes classification from CABS Ranking_
 
 1. Kouroupis, M., Korfiatis, N., & Cornford, J. (2020). Artificial Intelligence assisted detection of Diabetic Retinopathy on Digital Fundus Images: Concepts and Applications in the NHS. In *Sustainable Innovation in Medical Informatics - A Smart Healthcare Primer*.
 
-2. Li, Y., Mariuzzo, F., Korfiatis, N., & Xiong, Y. (2017). Information Strategies of New Product Introduction in Vertical Markets. *Center for Competition Policy (CCP) Working Paper*, 17(3).
+2. Ivanov, T., Izberovic, S., & Korfiatis, N. (2016). The Heterogeneity Paradigm in Big Data Architectures. In *Managing and Processing Big Data in Cloud Computing*, 218.
 
-3. Ivanov, T., Izberovic, S., & Korfiatis, N. (2016). The Heterogeneity Paradigm in Big Data Architectures. In *Managing and Processing Big Data in Cloud Computing*, 218.
+3. Zicari, R.V., Rosselli, M., Ivanov, T., Korfiatis, N., Tolle, K., Niemann, R., et al. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In *Big Data Optimization: Recent Developments and Challenges*, 17-47.
 
-4. Zicari, R.V., Rosselli, M., Ivanov, T., Korfiatis, N., Tolle, K., Niemann, R., et al. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In *Big Data Optimization: Recent Developments and Challenges*, 17-47.
+4. Korfiatis, N. (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
 
-5. Korfiatis, N. (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
+5. Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In *Social Information Retrieval Systems: Emerging Technologies and Applications*.
 
-6. Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In *Social Information Retrieval Systems: Emerging Technologies and Applications*.
+6. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *Royal Institute of Technology (KTH), Sweden*.
 
-7. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *Royal Institute of Technology (KTH), Sweden*.
+---
 
-8. Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., Korfiatis, N., et al. (2005). A conceptual modelling approach to studying the learning process with a special focus on knowledge creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*.
+## Deliverables and Project Related Publications
+
+1. Li, Y., Mariuzzo, F., Korfiatis, N., & Xiong, Y. (2017). Information Strategies of New Product Introduction in Vertical Markets. *Center for Competition Policy (CCP) Working Paper*, 17(3).
+
+2. Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., Korfiatis, N., et al. (2005). A conceptual modelling approach to studying the learning process with a special focus on knowledge creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*.
