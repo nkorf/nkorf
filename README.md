@@ -1,6 +1,6 @@
 # Welcome
 
-[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)
+[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)
 
 ---
 ## About

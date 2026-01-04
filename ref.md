@@ -1,4 +1,4 @@
-[[Publications List]](publications.md)
+[[Publications List]](publications.md)  [[Clinical Trials]](clinical_trials.md)
 
 # CABS Ranked Publications
 
