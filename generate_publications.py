@@ -69,7 +69,7 @@ def format_entry_apa(entry):
 
     authors = format_authors_apa(entry.get('author', ''))
     year = entry.get('year', '')
-    title = entry.get('title', '').replace('{', '').replace('}', '')
+    title = entry.get('title', '').replace('{', '').replace('}', '').replace('---', '—').replace('--', '–')
 
     # Get optional fields
     journal = entry.get('journal', '')
