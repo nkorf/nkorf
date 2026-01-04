@@ -51,9 +51,9 @@ def format_authors_apa(authors_str, highlight_author="Korfiatis"):
         else:
             author_formatted = last
 
-        # Highlight the specified author with underline
+        # Highlight the specified author with bold
         if highlight_author and highlight_author.lower() in last.lower():
-            author_formatted = f"<ins>{author_formatted}</ins>"
+            author_formatted = f"**{author_formatted}**"
 
         formatted.append(author_formatted)
 
