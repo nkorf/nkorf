@@ -168,7 +168,7 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ---
 
-## Contributions in Edited Volumes
+## Contributions in Books and Edited Volumes
 
 1. Kouroupis, M., Korfiatis, N., & Cornford, J. (2020). Artificial Intelligence assisted detection of Diabetic Retinopathy on Digital Fundus Images: Concepts and Applications in the NHS. In *Sustainable Innovation in Medical Informatics - A Smart Healthcare Primer*.
 
