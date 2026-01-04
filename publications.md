@@ -178,18 +178,22 @@ _Note: CABS denotes classification from CABS Ranking_
 
 **[4]** Kouroupis, M., Korfiatis, N., & Cornford, J. (2020). Artificial Intelligence assisted detection of Diabetic Retinopathy on Digital Fundus Images: Concepts and Applications in the NHS. In *Sustainable Innovation in Medical Informatics - A Smart Healthcare Primer*.
 
-**[3]** Ivanov, T., Izberovic, S., & Korfiatis, N. (2016). The Heterogeneity Paradigm in Big Data Architectures. In *Managing and Processing Big Data in Cloud Computing*, 218.
+**[3]** Ivanov, T., Izberovic, S., & Korfiatis, N. (2016). The Heterogeneity Paradigm in Big Data Architectures. In Rajkumar, K., Raihan Ur, R., Hai, J., & Balasundaram, S. (Eds.), *Managing and Processing Big Data in Cloud Computing, Advances in Data Mining and Database Management (ADMDM)*, 218-245. Idea Group Publishing.
 
-**[2]** Zicari, R.V., Rosselli, M., Ivanov, T., Korfiatis, N., Tolle, K., Niemann, R., & Reichenbach, C. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In *Big Data Optimization: Recent Developments and Challenges*, 17-47.
+**[2]** Zicari, R.V., Rosselli, M., Ivanov, T., Korfiatis, N., Tolle, K., Niemann, R., & Reichenbach, C. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In Emrouznejad, A. (Ed.), *Big Data Optimization: Recent Developments and Challenges, Studies in Big Data Series*, 17-45. Springer.
 
-**[1]** Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In *Social Information Retrieval Systems: Emerging Technologies and Applications*.
+**[1]** Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In Goh, D. & Foo, S. (Eds.), *Social Information Retrieval Systems: Emerging Technologies and Applications for Searching the Web Effectively*. Idea Group Publishing.
 
 ---
 
 ## Deliverables and Project Related Publications
 
-**[3]** Li, Y., Mariuzzo, F., Korfiatis, N., & Xiong, Y. (2017). Information Strategies of New Product Introduction in Vertical Markets. *Center for Competition Policy (CCP) Working Paper*, 17(3).
+**[5]** Li, Y., Mariuzzo, F., Korfiatis, N., & Xiong, Y. (2017). Information Strategies of New Product Introduction in Vertical Markets. *Center for Competition Policy (CCP) Working Paper*, 17(3).
 
-**[2]** Korfiatis, N. (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
+**[4]** Korfiatis, N. (2015). The sharing economy: A theme for regulation in the digital age. *CCP Research Bulletin, ESRC Centre for Competition Policy*, 29, 5-6.
 
-**[1]** Naeve, A., Nilsson, M., Palmér, M., Wessblad, R., Lindegren, M., Lytras, M., Korfiatis, N., Simon, B., Wild, F., Kieslinger, B., Yli-Luoma, P., Kravcik, M., Kamtsiou, V., & Pappa, D. (2005). A conceptual modelling approach to studying the learning process with a special focus on knowledge creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*.
+**[3]** Korfiatis, N. (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
+
+**[2]** Sicilia, M.A., Sanchez, S., Barriocanal-Garcia, E., Fernandez-Rebollo, R., Gomez-Cano, R., Belmonte Abian, A., Ruiz Rodriguez, E., Lezcano, L., Arroyo, S., & Korfiatis, N. (2009). LOMR reference implementation report and full documentation. *Technical Report, Information Engineering Research Unit Deliverable D4.8, LUISA Learning Content Management System Using Innovative Semantic Web Services Architecture*, IST-FP6-027149.
+
+**[1]** Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., & Korfiatis, N. (2005). A Conceptual Modelling Approach to Studying the Learning Process with a Special Focus on Knowledge Creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*, IST 507310.
