@@ -16,20 +16,20 @@ If you are interested in any of the following, please don't hesitate to contact 
 ---
 ## Clinical Trials (Statistical Coordination)
 
-**[NCT03568097](https://clinicaltrials.gov/study/NCT03568097)** - PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer
-  - Mountzios, G., et al. (2025). *European Journal of Cancer*, 228, 115660.
+**[NCT03568097](https://clinicaltrials.gov/study/NCT03568097)** - PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer
+   * Mountzios, G., et al. (2025). *European Journal of Cancer*, 228, 115660.
 
 **[NCT05372081](https://clinicaltrials.gov/study/NCT05372081)** - SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC
-  - Kosmidis, P.A., et al. (2025). *Journal of Clinical Oncology*, 43(16_suppl), 1515-1515.
+   * Kosmidis, P.A., et al. (2025). *Journal of Clinical Oncology*, 43(16_suppl), 1515-1515.
 
 **[NCT03311750](https://clinicaltrials.gov/study/NCT03311750)** - A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer
-  - Sgouros, J., et al. (2025). *ESMO Gastrointestinal Oncology*, 7, 100120.
+   * Sgouros, J., et al. (2025). *ESMO Gastrointestinal Oncology*, 7, 100120.
 
 **[NCT02512458](https://clinicaltrials.gov/study/NCT02512458)** - CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases
-  - Liontos, M., et al. (2025). *Clinical Genitourinary Cancer*, 23(1), 102253.
+   * Liontos, M., et al. (2025). *Clinical Genitourinary Cancer*, 23(1), 102253.
 
 **[NCT04829890](https://clinicaltrials.gov/study/NCT04829890)** - Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer
-  - Goussia, A., et al. (2025). *ESMO Open*, 10.
+   * Goussia, A., et al. (2025). *ESMO Open*, 10.
 
 ---
 ## Recent and Forthcoming Publications
