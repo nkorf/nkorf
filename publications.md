@@ -160,7 +160,11 @@ _Note: CABS denotes classification from CABS Ranking_
 
 20. Korfiatis, N., & Constantiou, I.D. (2006). Socially targeted mobile services: towards an upper level ontology of social roles for mobile environments. *European Conference on Information Systems (ECIS)*.
 
-21. Korfiatis, N., & Naeve, A. (2005). Evaluating wiki contributions using social networks: A case study on Wikipedia. *Proceedings of the First International Conference on Metadata and Semantics Research*.
+21. Korfiatis, N., & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Microlearning 2006: Micromedia and E-Learning*, 304-313.
+
+22. Korfiatis, N., & Naeve, A. (2005). Evaluating wiki contributions using social networks: A case study on Wikipedia. *Proceedings of the First International Conference on Metadata and Semantics Research*.
+
+23. Lytras, M.D., Pouloudi, A., & Korfiatis, N. (2003). An ontological oriented approach on e-learning: integrating semantics for adaptive e-learning systems. *New Paradigms in Organizations, Markets and Society, Proceedings of the 11th European Conference on Information Systems*.
 
 ---
 
@@ -178,10 +182,6 @@ _Note: CABS denotes classification from CABS Ranking_
 
 6. Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In *Social Information Retrieval Systems: Emerging Technologies and Applications*.
 
-7. Korfiatis, N., & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Microlearning 2006: Micromedia and E-Learning*, 304-313.
+7. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *Royal Institute of Technology (KTH), Sweden*.
 
-8. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *Royal Institute of Technology (KTH), Sweden*.
-
-9. Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., Korfiatis, N., et al. (2005). A conceptual modelling approach to studying the learning process with a special focus on knowledge creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*.
-
-10. Lytras, M.D., Pouloudi, A., & Korfiatis, N. (2003). An ontological oriented approach on e-learning: integrating semantics for adaptive e-learning systems. *New Paradigms in Organizations, Markets and Society, Proceedings of the 11th European Conference on Information Systems*.
+8. Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., Korfiatis, N., et al. (2005). A conceptual modelling approach to studying the learning process with a special focus on knowledge creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*.
