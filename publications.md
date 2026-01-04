@@ -14,7 +14,7 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Dissertations
 
-**[2]** Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *Doctoral Dissertation, PhD School in Information Management and Accounting, Department of Informatics, Copenhagen Business School*. (Supervisor: Professor Volker Mahnke) [CBS Bibliotek](https://research.cbs.dk/en/publications/information-exchange-and-behavior-a-multi-method-inquiry-on-onlin) | [EKT](https://www.didaktorika.gr/eadd/handle/10442/22529)
+**[2]** Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *Doctoral Dissertation, PhD School in Information Management and Accounting, Department of Informatics, Copenhagen Business School*. (Supervisor: Professor Volker Mahnke) [CBS Bibliotek](https://hdl.handle.net/10398/7797) | [EKT](https://www.didaktorika.gr/eadd/handle/10442/22529)
 
 **[1]** Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *MSc Dissertation, School of Electrical Engineering and Computer Science, Royal Institute of Technology (KTH), Sweden*. (Supervisor: Dr Ambjoern Naeve)
 
