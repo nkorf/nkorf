@@ -25,6 +25,9 @@ If you are interested in any of the following, please don't hesitate to contact 
 **[NCT03311750](https://clinicaltrials.gov/study/NCT03311750)** - A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer
   - Sgouros, J., et al. (2025). *ESMO Gastrointestinal Oncology*, 7, 100120.
 
+**[NCT02512458](https://clinicaltrials.gov/study/NCT02512458)** - CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases
+  - Liontos, M., et al. (2025). *Clinical Genitourinary Cancer*, 23(1), 102253.
+
 **[NCT04829890](https://clinicaltrials.gov/study/NCT04829890)** - Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer
   - Goussia, A., et al. (2025). *ESMO Open*, 10.
 
