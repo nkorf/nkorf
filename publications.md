@@ -8,200 +8,200 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Released Software
 
-**[1]** <u>Korfiatis, N.</u> (2026). grangersearch: An R Package for Granger Causality Testing with Tidyverse Integration. *arXiv Preprint*. [GitHub](https://github.com/nkorf/grangersearch)
+**[1]** <ins>Korfiatis, N.</ins> (2026). grangersearch: An R Package for Granger Causality Testing with Tidyverse Integration. *arXiv Preprint*. [GitHub](https://github.com/nkorf/grangersearch)
 
 ---
 
 ## Dissertations
 
-**[2]** <u>Korfiatis, N.</u> (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. Frederiksberg, Copenhagen, Denmark: *Copenhagen Business School (PhD series; No. 13.2009)*, 305 p. (Supervisor: Professor Volker Mahnke) [CBS Bibliotek](https://hdl.handle.net/10398/7797) | [EKT](https://www.didaktorika.gr/eadd/handle/10442/39986)
+**[2]** <ins>Korfiatis, N.</ins> (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. Frederiksberg, Copenhagen, Denmark: *Copenhagen Business School (PhD series; No. 13.2009)*, 305 p. (Supervisor: Professor Volker Mahnke) [CBS Bibliotek](https://hdl.handle.net/10398/7797) | [EKT](https://www.didaktorika.gr/eadd/handle/10442/39986)
 
-**[1]** <u>Korfiatis, N.</u> (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. Stockholm, Sweden: *MSc Dissertation, School of Electrical Engineering and Computer Science, Royal Institute of Technology (KTH)*. (Supervisor: Dr Ambjoern Naeve)
+**[1]** <ins>Korfiatis, N.</ins> (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. Stockholm, Sweden: *MSc Dissertation, School of Electrical Engineering and Computer Science, Royal Institute of Technology (KTH)*. (Supervisor: Dr Ambjoern Naeve)
 
 ---
 
 ## Journal Articles
 
-**[51]** Dousios, D., <u>Korfiatis, N.</u>, & Spanaki, K. (2025). The Persuasive Impact of Text and Audio Features on Technology Crowdfunding Campaigns: An empirical study on Kickstarter. *IEEE Transactions on Engineering Management*, 72, 2049-2064. **(CABS 3)**
+**[51]** Dousios, D., <ins>Korfiatis, N.</ins>, & Spanaki, K. (2025). The Persuasive Impact of Text and Audio Features on Technology Crowdfunding Campaigns: An empirical study on Kickstarter. *IEEE Transactions on Engineering Management*, 72, 2049-2064. **(CABS 3)**
 
-**[50]** Mountzios, G., Papadopoulou, K., <u>Korfiatis, N.</u>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final Outcome, Immunophenotypic and biomarker analysis. *European Journal of Cancer*, 228, 115660. **(NCT03568097)**
+**[50]** Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final Outcome, Immunophenotypic and biomarker analysis. *European Journal of Cancer*, 228, 115660. **(NCT03568097)**
 
-**[49]** Liontos, M., Goussia, A., <u>Korfiatis, N.</u>, Papadopoulou, K., Kanellis, G., Visvikis, A., Petrakis, G., Tsiatas, M., Fountzilas, E., Samantas, E., Fountzilas, G., & Efstathiou, E. (2025). The role of Cabazitaxel in Patients With Castration-Resistant and Osseous Metastases Prostate Cancer: A Hellenic Cooperative Oncology Group Phase II Study. *Clinical Genitourinary Cancer*, 23(1), 102253. **(NCT02512458)**
+**[49]** Liontos, M., Goussia, A., <ins>Korfiatis, N.</ins>, Papadopoulou, K., Kanellis, G., Visvikis, A., Petrakis, G., Tsiatas, M., Fountzilas, E., Samantas, E., Fountzilas, G., & Efstathiou, E. (2025). The role of Cabazitaxel in Patients With Castration-Resistant and Osseous Metastases Prostate Cancer: A Hellenic Cooperative Oncology Group Phase II Study. *Clinical Genitourinary Cancer*, 23(1), 102253. **(NCT02512458)**
 
-**[48]** Sgouros, J., Eliades, A., Papadopoulou, K., <u>Korfiatis, N.</u>, Papamichael, D., Fountzilas, E., Tsolaki, E., Achilleos, A., Tsangaras, K., Loizides, C., Oikonomopoulos, G., Makatsoris, T., Kypri, E., Ioannides, M., Koumbaris, G., Fountzilas, G., Patsalis, P., & Pentheroudakis, G. (2025). Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer (A-REPEAT study): efficacy and correlations with tissue and plasma genotyping. *ESMO Gastrointestinal Oncology*, 7, 100120. **(NCT03311750)**
+**[48]** Sgouros, J., Eliades, A., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Papamichael, D., Fountzilas, E., Tsolaki, E., Achilleos, A., Tsangaras, K., Loizides, C., Oikonomopoulos, G., Makatsoris, T., Kypri, E., Ioannides, M., Koumbaris, G., Fountzilas, G., Patsalis, P., & Pentheroudakis, G. (2025). Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer (A-REPEAT study): efficacy and correlations with tissue and plasma genotyping. *ESMO Gastrointestinal Oncology*, 7, 100120. **(NCT03311750)**
 
-**[47]** Goussia, A., Dimitrakopoulos, F., <u>Korfiatis, N.</u>, Koletsa, T., Batistatou, A., Kourea, H., Bobos, M., Papadopoulou, K., Charchanti, A., Bai, M., Tzaida, O., Petraki, K., Arapantoni-Dadioti, P., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2025). Clinical outcomes and important prognostic biomarkers following dose-dense sequential adjuvant chemotherapy (dds-CT) in early breast cancer (eBC): Pooled-analysis of individual patient data. *ESMO Open*, 10. **(NCT04829890)**
+**[47]** Goussia, A., Dimitrakopoulos, F., <ins>Korfiatis, N.</ins>, Koletsa, T., Batistatou, A., Kourea, H., Bobos, M., Papadopoulou, K., Charchanti, A., Bai, M., Tzaida, O., Petraki, K., Arapantoni-Dadioti, P., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2025). Clinical outcomes and important prognostic biomarkers following dose-dense sequential adjuvant chemotherapy (dds-CT) in early breast cancer (eBC): Pooled-analysis of individual patient data. *ESMO Open*, 10. **(NCT04829890)**
 
-**[46]** Kosmidis, P., Kosmidis, T., Papadopoulou, K., <u>Korfiatis, N.</u>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2025). SNF-CLIMEDIN: A HECOG prospective randomized trial of digital support and intervention in patients with advanced NSCLC---Final results. *Journal of Clinical Oncology*, 43(16_suppl), 1515-1515. **(NCT05372081)**
+**[46]** Kosmidis, P., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2025). SNF-CLIMEDIN: A HECOG prospective randomized trial of digital support and intervention in patients with advanced NSCLC---Final results. *Journal of Clinical Oncology*, 43(16_suppl), 1515-1515. **(NCT05372081)**
 
-**[45]** Kosmidis, P., Kosmidis, T., Papadopoulou, K., <u>Korfiatis, N.</u>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2025). Frequency of Adverse Events Reported Digitally by Patients with Advanced NSCLC: Analysis From CLIMEDIN, a HeCOG Study. *Journal of Thoracic Oncology*, 20(10), S392. **(NCT05372081)**
+**[45]** Kosmidis, P., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2025). Frequency of Adverse Events Reported Digitally by Patients with Advanced NSCLC: Analysis From CLIMEDIN, a HeCOG Study. *Journal of Thoracic Oncology*, 20(10), S392. **(NCT05372081)**
 
-**[44]** Mountzios, G., Papadopoulou, K., <u>Korfiatis, N.</u>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2024). Final outcome, immunophenotypic and biomarker analysis of intercalated avelumab plus platinum-based chemotherapy in patients with extensive-stage small cell lung cancer (PAVE). *ESMO Open*, 9. **(NCT03568097)**
+**[44]** Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2024). Final outcome, immunophenotypic and biomarker analysis of intercalated avelumab plus platinum-based chemotherapy in patients with extensive-stage small cell lung cancer (PAVE). *ESMO Open*, 9. **(NCT03568097)**
 
-**[43]** Linardou, H., Kosmidis, T., Papadopoulou, K., <u>Korfiatis, N.</u>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Kosmidis, P. (2024). Analysis of evolution of patient reported side effects during treatment for advanced NSCLC. *Annals of Oncology*, 35, S863-S864. **(NCT05372081)**
+**[43]** Linardou, H., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Kosmidis, P. (2024). Analysis of evolution of patient reported side effects during treatment for advanced NSCLC. *Annals of Oncology*, 35, S863-S864. **(NCT05372081)**
 
-**[42]** Kosmidis, P., Kosmidis, T., Papadopoulou, K., <u>Korfiatis, N.</u>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2024). SNF-CLIMEDIN: A prospective randomized trial of digital intervention in patients with advanced NSCLC---A HeCOG study. *Journal of Clinical Oncology*, 42(16_suppl), 1520-1520. **(NCT05372081)**
+**[42]** Kosmidis, P., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2024). SNF-CLIMEDIN: A prospective randomized trial of digital intervention in patients with advanced NSCLC---A HeCOG study. *Journal of Clinical Oncology*, 42(16_suppl), 1520-1520. **(NCT05372081)**
 
-**[41]** Yan, N., Dousios, D., <u>Korfiatis, N.</u>, & Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modeling approach. *Business Strategy and the Environment*, 33(6), 5405-5422. **(CABS 3)**
+**[41]** Yan, N., Dousios, D., <ins>Korfiatis, N.</ins>, & Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modeling approach. *Business Strategy and the Environment*, 33(6), 5405-5422. **(CABS 3)**
 
-**[40]** Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & <u>Korfiatis, N.</u> (2024). Making Supply Chains Great Again: Examining structural changes to US manufacturing supply chains. *International Journal of Operations and Production Management*, 44(5), 1083--1108. **(CABS 4)**
+**[40]** Chakkol, M., Johnson, M., Karatzas, A., Papadopoulos, G., & <ins>Korfiatis, N.</ins> (2024). Making Supply Chains Great Again: Examining structural changes to US manufacturing supply chains. *International Journal of Operations and Production Management*, 44(5), 1083--1108. **(CABS 4)**
 
-**[39]** Yang, N., <u>Korfiatis, N.</u>, Zissis, D., & Spanaki, K. (2024). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operations Research*, 339, 631--662. **(CABS 3)**
+**[39]** Yang, N., <ins>Korfiatis, N.</ins>, Zissis, D., & Spanaki, K. (2024). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operations Research*, 339, 631--662. **(CABS 3)**
 
-**[38]** Linardou, H., Kosmidis, T., Papadopoulou, K., <u>Korfiatis, N.</u>, Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Vozikis, A., Fountzilas, G., & Kosmidis, P. (2023). Clinical and molecular study with digital support of advanced non-small cell lung cancer patients: SNF-CLIMEDIN, a prospective randomized Hellenic Cooperative Oncology Group study. *Annals of Oncology*, 34, S816-S817. **(NCT05372081)**
+**[38]** Linardou, H., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Vozikis, A., Fountzilas, G., & Kosmidis, P. (2023). Clinical and molecular study with digital support of advanced non-small cell lung cancer patients: SNF-CLIMEDIN, a prospective randomized Hellenic Cooperative Oncology Group study. *Annals of Oncology*, 34, S816-S817. **(NCT05372081)**
 
-**[37]** Karatzas, A., Papadopoulos, G., Stamolampros, P., Raja, J., & <u>Korfiatis, N.</u> (2023). Front- and back-end employee satisfaction during service transition. *International Journal of Operations and Production Management*, 43(7), 1121--1147. **(CABS 4)**
+**[37]** Karatzas, A., Papadopoulos, G., Stamolampros, P., Raja, J., & <ins>Korfiatis, N.</ins> (2023). Front- and back-end employee satisfaction during service transition. *International Journal of Operations and Production Management*, 43(7), 1121--1147. **(CABS 4)**
 
-**[36]** Argyropoulou, M., Zissis, D., <u>Korfiatis, N.</u>, & Zampou, E. (2023). Horizontal collaboration in the last mile distribution: Gauging managerial response to disruption and abnormal demand. *Benchmarking: An International Journal*, 30(2), 460--474. **(CABS 1)**
+**[36]** Argyropoulou, M., Zissis, D., <ins>Korfiatis, N.</ins>, & Zampou, E. (2023). Horizontal collaboration in the last mile distribution: Gauging managerial response to disruption and abnormal demand. *Benchmarking: An International Journal*, 30(2), 460--474. **(CABS 1)**
 
-**[35]** Aykol, B., Leonidou, L., Samiee, S., & <u>Korfiatis, N.</u> (2022). A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review*, 62, 741--784. **(CABS 3)**
+**[35]** Aykol, B., Leonidou, L., Samiee, S., & <ins>Korfiatis, N.</ins> (2022). A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review*, 62, 741--784. **(CABS 3)**
 
-**[34]** Leonidou, L., Eteokleous, P., Christofi, A., & <u>Korfiatis, N.</u> (2022). Drivers, outcomes, and moderators of consumer intention to buy organic goods: Meta-analysis, implications, and future agenda. *Journal of Business Research*, 151, 339-354. **(CABS 3)**
+**[34]** Leonidou, L., Eteokleous, P., Christofi, A., & <ins>Korfiatis, N.</ins> (2022). Drivers, outcomes, and moderators of consumer intention to buy organic goods: Meta-analysis, implications, and future agenda. *Journal of Business Research*, 151, 339-354. **(CABS 3)**
 
-**[33]** Chopdar, P., Paul, J., <u>Korfiatis, N.</u>, & Lytras, M. (2022). Examining the role of consumer impulsiveness in multiple app usage behavior among mobile shoppers. *Journal of Business Research*, 140, 657-669. **(CABS 3)**
+**[33]** Chopdar, P., Paul, J., <ins>Korfiatis, N.</ins>, & Lytras, M. (2022). Examining the role of consumer impulsiveness in multiple app usage behavior among mobile shoppers. *Journal of Business Research*, 140, 657-669. **(CABS 3)**
 
-**[32]** Tsolakis, N., Zissis, D., Papaeuthimiou, S., & <u>Korfiatis, N.</u> (2022). Towards AI driven environmental sustainability: an application of automated logistics in container port terminals. *International Journal of Production Research*, 60(14), 4508-4528. **(CABS 3)**
+**[32]** Tsolakis, N., Zissis, D., Papaeuthimiou, S., & <ins>Korfiatis, N.</ins> (2022). Towards AI driven environmental sustainability: an application of automated logistics in container port terminals. *International Journal of Production Research*, 60(14), 4508-4528. **(CABS 3)**
 
-**[31]** Symitsi, E., Stamolampros, P., Daskalakis, G., & <u>Korfiatis, N.</u> (2021). The informational value of employee online reviews. *European Journal of Operational Research*, 288(2), 605-619. **(CABS 4)**
+**[31]** Symitsi, E., Stamolampros, P., Daskalakis, G., & <ins>Korfiatis, N.</ins> (2021). The informational value of employee online reviews. *European Journal of Operational Research*, 288(2), 605-619. **(CABS 4)**
 
-**[30]** Stamolampros, P., Dousios, D., & <u>Korfiatis, N.</u> (2020). Evaluating Domestic Bias on Airline Passengers' Online Reviews: The Moderating Effect of Cultural Value Orientation. *International Journal of Hospitality Management*, 87, 102466. **(CABS 3)**
+**[30]** Stamolampros, P., Dousios, D., & <ins>Korfiatis, N.</ins> (2020). Evaluating Domestic Bias on Airline Passengers' Online Reviews: The Moderating Effect of Cultural Value Orientation. *International Journal of Hospitality Management*, 87, 102466. **(CABS 3)**
 
-**[29]** Stamolampros, P., Dousios, D., <u>Korfiatis, N.</u>, & Symitsi, E. (2020). The Joint Effect of Consumer and Service Providers' Culture on Online Service Evaluations: A Response Surface Analysis. *Tourism Management*, 78, 104057. **(CABS 4)**
+**[29]** Stamolampros, P., Dousios, D., <ins>Korfiatis, N.</ins>, & Symitsi, E. (2020). The Joint Effect of Consumer and Service Providers' Culture on Online Service Evaluations: A Response Surface Analysis. *Tourism Management*, 78, 104057. **(CABS 4)**
 
-**[28]** Poulos, M., <u>Korfiatis, N.</u>, & Papavlassopoulos, S. (2020). Assessing Stationarity in Web Analytics: A study of Bounce Rates. *Expert Systems*, 37(3), e12502. **(CABS 2)**
+**[28]** Poulos, M., <ins>Korfiatis, N.</ins>, & Papavlassopoulos, S. (2020). Assessing Stationarity in Web Analytics: A study of Bounce Rates. *Expert Systems*, 37(3), e12502. **(CABS 2)**
 
-**[27]** Stamolampros, P., <u>Korfiatis, N.</u>, Chalvatzis, K., & Buhalis, D. (2020). Harnessing the Wisdom of Employees from Online Reviews. *Annals of Tourism Research*, 80, 102694. **(CABS 4)**
+**[27]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Chalvatzis, K., & Buhalis, D. (2020). Harnessing the Wisdom of Employees from Online Reviews. *Annals of Tourism Research*, 80, 102694. **(CABS 4)**
 
-**[26]** Kostagiolas, P., Lavranos, C., & <u>Korfiatis, N.</u> (2019). Learning analytics: Survey data for measuring the impact of study satisfaction on students' academic self-efficacy and performance. *Data in Brief*, 25, 104051.
+**[26]** Kostagiolas, P., Lavranos, C., & <ins>Korfiatis, N.</ins> (2019). Learning analytics: Survey data for measuring the impact of study satisfaction on students' academic self-efficacy and performance. *Data in Brief*, 25, 104051.
 
-**[25]** Stamolampros, P., <u>Korfiatis, N.</u>, Chalvatzis, K., & Buhalis, D. (2019). Job Satisfaction and Employee Turnover Determinants in High Contact Services: Insights from Employees' Online Reviews. *Tourism Management*, 75, 130-147. **(CABS 4)**
+**[25]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Chalvatzis, K., & Buhalis, D. (2019). Job Satisfaction and Employee Turnover Determinants in High Contact Services: Insights from Employees' Online Reviews. *Tourism Management*, 75, 130-147. **(CABS 4)**
 
-**[24]** Stamolampros, P., & <u>Korfiatis, N.</u> (2019). Airline service quality and economic factors: An ARDL approach on US airlines. *Journal of Air Transport Management*, 77, 24-31. **(CABS 1)**
+**[24]** Stamolampros, P., & <ins>Korfiatis, N.</ins> (2019). Airline service quality and economic factors: An ARDL approach on US airlines. *Journal of Air Transport Management*, 77, 24-31. **(CABS 1)**
 
-**[23]** <u>Korfiatis, N.</u>, Stamolampros, P., Kourouthanassis, P., & Sagiadinos, V. (2019). Measuring service quality from unstructured data: A topic modeling application on airline passengers' online reviews. *Expert Systems with Applications*, 116, 472-486. **(CABS 1)**
+**[23]** <ins>Korfiatis, N.</ins>, Stamolampros, P., Kourouthanassis, P., & Sagiadinos, V. (2019). Measuring service quality from unstructured data: A topic modeling application on airline passengers' online reviews. *Expert Systems with Applications*, 116, 472-486. **(CABS 1)**
 
-**[22]** Stamolampros, P., <u>Korfiatis, N.</u>, Kourouthanassis, P., & Symitsi, E. (2019). Flying to Quality: Cultural Influences on Online Reviews. *Journal of Travel Research*, 58(3), 496-511. **(CABS 4)**
+**[22]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Kourouthanassis, P., & Symitsi, E. (2019). Flying to Quality: Cultural Influences on Online Reviews. *Journal of Travel Research*, 58(3), 496-511. **(CABS 4)**
 
-**[21]** Chopdar, P., <u>Korfiatis, N.</u>, Sivakumar, V., & Lytras, M. (2018). Mobile shopping apps adoption and perceived risks: A cross-country perspective utilising the Unified Theory of Acceptance and Use of Technology. *Computers in Human Behavior*, 86, 109-128. **(CABS 2)**
+**[21]** Chopdar, P., <ins>Korfiatis, N.</ins>, Sivakumar, V., & Lytras, M. (2018). Mobile shopping apps adoption and perceived risks: A cross-country perspective utilising the Unified Theory of Acceptance and Use of Technology. *Computers in Human Behavior*, 86, 109-128. **(CABS 2)**
 
-**[20]** Kostagiolas, P., Kourouthanassis, P., Martzoukou, K., <u>Korfiatis, N.</u>, & Niakas, D. (2018). Information seeking behavioural paths of physicians for diabetes mellitus care: a qualitative comparative analysis of information needs, sources, and barriers. *Health Systems*, 7(1), 13-28. **(CABS 2)**
+**[20]** Kostagiolas, P., Kourouthanassis, P., Martzoukou, K., <ins>Korfiatis, N.</ins>, & Niakas, D. (2018). Information seeking behavioural paths of physicians for diabetes mellitus care: a qualitative comparative analysis of information needs, sources, and barriers. *Health Systems*, 7(1), 13-28. **(CABS 2)**
 
-**[19]** Huang, G., <u>Korfiatis, N.</u>, & Chang, C. (2018). Mobile Shopping Cart Abandonment: The role of Conflicts, Ambivalence and Hesitation. *Journal of Business Research*, 85(C), 165-174. **(CABS 3)**
+**[19]** Huang, G., <ins>Korfiatis, N.</ins>, & Chang, C. (2018). Mobile Shopping Cart Abandonment: The role of Conflicts, Ambivalence and Hesitation. *Journal of Business Research*, 85(C), 165-174. **(CABS 3)**
 
-**[18]** Stamolampros, P., <u>Korfiatis, N.</u>, & Symitsi, E. (2018). Exploring the Behavioral Drivers of Review Valence: The Direct and Indirect Effects of Multiple Psychological Distances. *International Journal of Contemporary Hospitality Management*, 30(10), 3083-3099. **(CABS 3)**
+**[18]** Stamolampros, P., <ins>Korfiatis, N.</ins>, & Symitsi, E. (2018). Exploring the Behavioral Drivers of Review Valence: The Direct and Indirect Effects of Multiple Psychological Distances. *International Journal of Contemporary Hospitality Management*, 30(10), 3083-3099. **(CABS 3)**
 
-**[17]** Lavranos, C., Kostagiolas, P., <u>Korfiatis, N.</u>, & Papadatos, J. (2016). Information seeking for musical creativity: A systematic literature review. *Journal of the American Society for Information Science and Technology*, 67(9), 2105-2117. **(CABS 3)**
+**[17]** Lavranos, C., Kostagiolas, P., <ins>Korfiatis, N.</ins>, & Papadatos, J. (2016). Information seeking for musical creativity: A systematic literature review. *Journal of the American Society for Information Science and Technology*, 67(9), 2105-2117. **(CABS 3)**
 
-**[16]** <u>Korfiatis, N.</u>, Lytras, M., & Zicari, R. (2015). Gender Effects and Cooperation Styles in the Facebook Community: A Quasi-Experimental Assessment. *Computers in Human Behavior*, 48, 44--50. **(CABS 2)**
+**[16]** <ins>Korfiatis, N.</ins>, Lytras, M., & Zicari, R. (2015). Gender Effects and Cooperation Styles in the Facebook Community: A Quasi-Experimental Assessment. *Computers in Human Behavior*, 48, 44--50. **(CABS 2)**
 
-**[15]** Huang, G., & <u>Korfiatis, N.</u> (2015). Trying before buying: The moderating role of online reviews in trial attitude formation towards mobile apps. *International Journal of Electronic Commerce*, 19(4), 77-111. **(CABS 3)**
+**[15]** Huang, G., & <ins>Korfiatis, N.</ins> (2015). Trying before buying: The moderating role of online reviews in trial attitude formation towards mobile apps. *International Journal of Electronic Commerce*, 19(4), 77-111. **(CABS 3)**
 
-**[14]** Kostagiolas, P., Lavranos, C., Papavlasopoulos, S., <u>Korfiatis, N.</u>, & Papadatos, J. (2015). Music, Musicians, and Information Seeking Behavior: A Case Study on a Community Concert Band. *Journal of Documentation*, 71(1), 3-24.
+**[14]** Kostagiolas, P., Lavranos, C., Papavlasopoulos, S., <ins>Korfiatis, N.</ins>, & Papadatos, J. (2015). Music, Musicians, and Information Seeking Behavior: A Case Study on a Community Concert Band. *Journal of Documentation*, 71(1), 3-24.
 
-**[13]** Kostagiolas, P., <u>Korfiatis, N.</u>, Kourouthanassis, P., & Alexias, G. (2014). Work-related factors influencing doctors search behaviours and trust towards medical information resources. *International Journal of Information Management*, 34(2), 80--88. **(CABS 2)**
+**[13]** Kostagiolas, P., <ins>Korfiatis, N.</ins>, Kourouthanassis, P., & Alexias, G. (2014). Work-related factors influencing doctors search behaviours and trust towards medical information resources. *International Journal of Information Management*, 34(2), 80--88. **(CABS 2)**
 
-**[12]** <u>Korfiatis, N.</u>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, 40(14), 5507-5515. **(CABS 3)**
+**[12]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, 40(14), 5507-5515. **(CABS 3)**
 
-**[11]** Wu, P., & <u>Korfiatis, N.</u> (2013). You Scratch Someone's Back and We'll Scratch Yours: Collective Reciprocity in Social Q&A Communities. *Journal of the American Society for Information Science and Technology (JASIST)*, 64(10), 2069-2077. **(CABS 3)**
+**[11]** Wu, P., & <ins>Korfiatis, N.</ins> (2013). You Scratch Someone's Back and We'll Scratch Yours: Collective Reciprocity in Social Q&A Communities. *Journal of the American Society for Information Science and Technology (JASIST)*, 64(10), 2069-2077. **(CABS 3)**
 
-**[10]** Kostagiolas, P., Samioti, F., Alexias, G., <u>Korfiatis, N.</u>, & Niakas, D. (2012). Examining patterns of information behavior among healthcare professionals: a case study on health psychologists. *New Review of Information Networking*, 17(2), 108-119.
+**[10]** Kostagiolas, P., Samioti, F., Alexias, G., <ins>Korfiatis, N.</ins>, & Niakas, D. (2012). Examining patterns of information behavior among healthcare professionals: a case study on health psychologists. *New Review of Information Networking*, 17(2), 108-119.
 
-**[9]** Poulos, M., & <u>Korfiatis, N.</u> (2012). A methodology for binary encoding of citation metadata. *International Journal of Metadata, Semantics and Ontologies*, 7(4), 295-301.
+**[9]** Poulos, M., & <ins>Korfiatis, N.</ins> (2012). A methodology for binary encoding of citation metadata. *International Journal of Metadata, Semantics and Ontologies*, 7(4), 295-301.
 
-**[8]** Kostagiolas, P., <u>Korfiatis, N.</u>, & Poulos, M. (2012). A long-tail inspired measure to assess resource use in information services. *Library & Information Science Research*, 34(4), 317-323.
+**[8]** Kostagiolas, P., <ins>Korfiatis, N.</ins>, & Poulos, M. (2012). A long-tail inspired measure to assess resource use in information services. *Library & Information Science Research*, 34(4), 317-323.
 
-**[7]** <u>Korfiatis, N.</u>, García-Bariocanal, E., & Sánchez-Alonso, S. (2012). Evaluating content quality and helpfulness of online product reviews: The interplay of review helpfulness vs. review content. *Electronic Commerce Research and Applications*, 11(3), 205-217. **(CABS 2)**
+**[7]** <ins>Korfiatis, N.</ins>, García-Bariocanal, E., & Sánchez-Alonso, S. (2012). Evaluating content quality and helpfulness of online product reviews: The interplay of review helpfulness vs. review content. *Electronic Commerce Research and Applications*, 11(3), 205-217. **(CABS 2)**
 
-**[6]** Poulos, M., <u>Korfiatis, N.</u>, & Bokos, G. (2011). Towards text copyright detection using metadata in web applications. *Program: Electronic library and Information Systems*, 45(4), 439-451.
+**[6]** Poulos, M., <ins>Korfiatis, N.</ins>, & Bokos, G. (2011). Towards text copyright detection using metadata in web applications. *Program: Electronic library and Information Systems*, 45(4), 439-451.
 
-**[5]** Papavlasopoulos, S., Poulos, M., <u>Korfiatis, N.</u>, & Bokos, G. (2010). A non-linear index to evaluate a journal's scientific impact. *Information Sciences*, 180(11), 2156-2175.
+**[5]** Papavlasopoulos, S., Poulos, M., <ins>Korfiatis, N.</ins>, & Bokos, G. (2010). A non-linear index to evaluate a journal's scientific impact. *Information Sciences*, 180(11), 2156-2175.
 
-**[4]** Poulos, M., Papavlasopoulos, S., Belesiotis, V., & <u>Korfiatis, N.</u> (2009). A semantic self-organising webpage-ranking algorithm using computational geometry across different knowledge domains. *International Journal of Knowledge and Web Intelligence*, 1(1-2), 24-47.
+**[4]** Poulos, M., Papavlasopoulos, S., Belesiotis, V., & <ins>Korfiatis, N.</ins> (2009). A semantic self-organising webpage-ranking algorithm using computational geometry across different knowledge domains. *International Journal of Knowledge and Web Intelligence*, 1(1-2), 24-47.
 
-**[3]** <u>Korfiatis, N.</u>, Poulos, M., & Bokos, G. (2007). Social metadata for the impact factor. *The Electronic Library*, 25(2), 166-175.
+**[3]** <ins>Korfiatis, N.</ins>, Poulos, M., & Bokos, G. (2007). Social metadata for the impact factor. *The Electronic Library*, 25(2), 166-175.
 
-**[2]** <u>Korfiatis, N.</u>, Poulos, M., & Bokos, G. (2006). Evaluating authoritative sources using social networks: an insight from Wikipedia. *Online Information Review*, 30(3), 252-262. **(CABS 1)**
+**[2]** <ins>Korfiatis, N.</ins>, Poulos, M., & Bokos, G. (2006). Evaluating authoritative sources using social networks: an insight from Wikipedia. *Online Information Review*, 30(3), 252-262. **(CABS 1)**
 
-**[1]** Poulos, M., <u>Korfiatis, N.</u>, & Papavlassopoulos, S. (2004). Anti-Spam Filtering using Computational Geometry. *WSEAS Transactions on Information Science and Applications*, 1(2), 747-751.
+**[1]** Poulos, M., <ins>Korfiatis, N.</ins>, & Papavlassopoulos, S. (2004). Anti-Spam Filtering using Computational Geometry. *WSEAS Transactions on Information Science and Applications*, 1(2), 747-751.
 
 ---
 
 ## Conference Proceedings
 
-**[25]** Kleitsikas, C., <u>Korfiatis, N.</u>, Leonardos, S., & Ventre, C. (2025). Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data. *IEEE International Conference on Blockchain and Cryptocurrency 2025*.
+**[25]** Kleitsikas, C., <ins>Korfiatis, N.</ins>, Leonardos, S., & Ventre, C. (2025). Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data. *IEEE International Conference on Blockchain and Cryptocurrency 2025*.
 
-**[24]** Palla, G., <u>Korfiatis, N.</u>, Hatzithomas, L., Palla, P., & Lekakos, G. (2024). The Device Effect on Visitor Critique: A Study of Mobile and Desktop Museum Reviews on TripAdvisor. *Proceedings of 26th International Conference on Human Computer Interaction*.
+**[24]** Palla, G., <ins>Korfiatis, N.</ins>, Hatzithomas, L., Palla, P., & Lekakos, G. (2024). The Device Effect on Visitor Critique: A Study of Mobile and Desktop Museum Reviews on TripAdvisor. *Proceedings of 26th International Conference on Human Computer Interaction*.
 
-**[23]** Yang, N., <u>Korfiatis, N.</u>, Karatzas, A., & Zissis, D. (2023). Identifying Latent Service Dimensions in Service Supply Chains Using Topic Modelling: An Analysis of Franchised and Independent Businesses. *Available at SSRN 4227662*.
+**[23]** Yang, N., <ins>Korfiatis, N.</ins>, Karatzas, A., & Zissis, D. (2023). Identifying Latent Service Dimensions in Service Supply Chains Using Topic Modelling: An Analysis of Franchised and Independent Businesses. *Available at SSRN 4227662*.
 
-**[22]** Leonidou, L., Katsikeas, C., Aykol, B., & <u>Korfiatis, N.</u> (2018). A Meta-Analysis of Power in Buyer-Seller Relationships: An Abstract. *Academy of Marketing Science World Marketing Congress*, 731-732.
+**[22]** Leonidou, L., Katsikeas, C., Aykol, B., & <ins>Korfiatis, N.</ins> (2018). A Meta-Analysis of Power in Buyer-Seller Relationships: An Abstract. *Academy of Marketing Science World Marketing Congress*, 731-732.
 
-**[21]** Leonidou, L., Aykol, B., & <u>Korfiatis, N.</u> (2018). A meta-analysis of the link between power, conflict, opportunism, and satisfaction in business-to-business relationships. *European Marketing Academic Annual Conference (EMAC 2018)*. Glasgow, United Kingdom.
+**[21]** Leonidou, L., Aykol, B., & <ins>Korfiatis, N.</ins> (2018). A meta-analysis of the link between power, conflict, opportunism, and satisfaction in business-to-business relationships. *European Marketing Academic Annual Conference (EMAC 2018)*. Glasgow, United Kingdom.
 
-**[20]** Karatzas, A., Stamolampros, P., Daskalakis, G., & <u>Korfiatis, N.</u> (2018). The effect of manufacturers' service transition on employee job satisfaction. *Proceedings of the 25th International EurOMA Conference 2018*. Budapest, Hungary.
+**[20]** Karatzas, A., Stamolampros, P., Daskalakis, G., & <ins>Korfiatis, N.</ins> (2018). The effect of manufacturers' service transition on employee job satisfaction. *Proceedings of the 25th International EurOMA Conference 2018*. Budapest, Hungary.
 
-**[19]** Huang, G., & <u>Korfiatis, N.</u> (2017). To Abandon or Not to Abandon a Mobile Shopping Cart: The Role of Ambivalence. *Proceedings of the American Marketing Association Winter Educators Conference 2017*. Orlando, Florida.
+**[19]** Huang, G., & <ins>Korfiatis, N.</ins> (2017). To Abandon or Not to Abandon a Mobile Shopping Cart: The Role of Ambivalence. *Proceedings of the American Marketing Association Winter Educators Conference 2017*. Orlando, Florida.
 
-**[18]** Mertz, M., <u>Korfiatis, N.</u>, & Zicari, R. (2014). Using Dependency Bigrams and Discourse Connectives for Predicting the Helpfulness of Online Reviews. *E-Commerce and Web Technologies (EC-Web 2014), Lecture Notes in Business Information Processing*, 146-152.
+**[18]** Mertz, M., <ins>Korfiatis, N.</ins>, & Zicari, R. (2014). Using Dependency Bigrams and Discourse Connectives for Predicting the Helpfulness of Online Reviews. *E-Commerce and Web Technologies (EC-Web 2014), Lecture Notes in Business Information Processing*, 146-152.
 
-**[17]** Niemann, R., <u>Korfiatis, N.</u>, Zicari, R., & Göbel, R. (2013). Evaluating the Energy Efficiency of OLTP Operations. *Availability, Reliability, and Security in Information Systems and HCI, Lecture Notes in Computer Science*, 28-43. Regensburg, Germany.
+**[17]** Niemann, R., <ins>Korfiatis, N.</ins>, Zicari, R., & Göbel, R. (2013). Evaluating the Energy Efficiency of OLTP Operations. *Availability, Reliability, and Security in Information Systems and HCI, Lecture Notes in Computer Science*, 28-43. Regensburg, Germany.
 
-**[16]** <u>Korfiatis, N.</u> (2013). Big Data for Enhanced Learning Analytics: A Case for Large-Scale Comparative Assessments. *Proceedings of the 7th International Conference on Metadata and Semantics Research*. Thessaloniki, Greece.
+**[16]** <ins>Korfiatis, N.</ins> (2013). Big Data for Enhanced Learning Analytics: A Case for Large-Scale Comparative Assessments. *Proceedings of the 7th International Conference on Metadata and Semantics Research*. Thessaloniki, Greece.
 
-**[15]** Rill, S., Adolph, S., Drescher, J., Reinel, D., Scheidt, J., Schütz, O., Wogenstein, F., <u>Korfiatis, N.</u>, & Zicari, R. (2012). A Phrase-Based Opinion List for the German Language. *Proceedings of the 11th Conference on Natural Language Processing (KONVENS)*, 305-313. Vienna, Austria.
+**[15]** Rill, S., Adolph, S., Drescher, J., Reinel, D., Scheidt, J., Schütz, O., Wogenstein, F., <ins>Korfiatis, N.</ins>, & Zicari, R. (2012). A Phrase-Based Opinion List for the German Language. *Proceedings of the 11th Conference on Natural Language Processing (KONVENS)*, 305-313. Vienna, Austria.
 
-**[14]** <u>Korfiatis, N.</u>, Loebbecke, C., & Cremer, S. (2012). Successfully Bidding for Online Projects: The Impact of Project-Focused Messages. *International Workshop on e-Business (WEB 2012), Pre-ICIS Workshop*. Orlando, Florida.
+**[14]** <ins>Korfiatis, N.</ins>, Loebbecke, C., & Cremer, S. (2012). Successfully Bidding for Online Projects: The Impact of Project-Focused Messages. *International Workshop on e-Business (WEB 2012), Pre-ICIS Workshop*. Orlando, Florida.
 
-**[13]** Wu, P., Van der Heijden, H., & <u>Korfiatis, N.</u> (2011). The Influences of Negativity and Review Quality on the Helpfulness of Online Reviews. *International Conference on Information Systems (ICIS)*. Shanghai, China.
+**[13]** Wu, P., Van der Heijden, H., & <ins>Korfiatis, N.</ins> (2011). The Influences of Negativity and Review Quality on the Helpfulness of Online Reviews. *International Conference on Information Systems (ICIS)*. Shanghai, China.
 
-**[12]** Poulos, M., & <u>Korfiatis, N.</u> (2010). Developing a Diagnosis Aiding Ontology Based on Hysteroscopy Image Processing. *Proceedings of the 4th International Conference on Metadata and Semantics Research, Communications in Computer and Information Science*. Alcala de Henares, Spain.
+**[12]** Poulos, M., & <ins>Korfiatis, N.</ins> (2010). Developing a Diagnosis Aiding Ontology Based on Hysteroscopy Image Processing. *Proceedings of the 4th International Conference on Metadata and Semantics Research, Communications in Computer and Information Science*. Alcala de Henares, Spain.
 
-**[11]** García-Barriocanal, E., Sicilia, M., & <u>Korfiatis, N.</u> (2010). Exploring hotel service quality experience indicators in user-generated content: A case using TripAdvisor data. *Mediterranean Conference on Information Systems (MCIS)*. Tel-Aviv, Israel.
+**[11]** García-Barriocanal, E., Sicilia, M., & <ins>Korfiatis, N.</ins> (2010). Exploring hotel service quality experience indicators in user-generated content: A case using TripAdvisor data. *Mediterranean Conference on Information Systems (MCIS)*. Tel-Aviv, Israel.
 
-**[10]** Sicilia, M., García-Barriocanal, E., & <u>Korfiatis, N.</u> (2008). Using Imperfect Information in Online Social Systems: Applications and Measures of Betweenness. *Proceedings of the 12th International Conference on Information Processing and Management of Uncertainty (IPMU 2008)*. Malaga, Spain.
+**[10]** Sicilia, M., García-Barriocanal, E., & <ins>Korfiatis, N.</ins> (2008). Using Imperfect Information in Online Social Systems: Applications and Measures of Betweenness. *Proceedings of the 12th International Conference on Information Processing and Management of Uncertainty (IPMU 2008)*. Malaga, Spain.
 
-**[9]** <u>Korfiatis, N.</u>, Rodríguez, D., & Sicilia, M. (2008). The impact of readability on the usefulness of online product reviews: A case study on an online bookstore. *Proceedings of WSKS 2008, Lecture Notes in Computer Science*, 423-432.
+**[9]** <ins>Korfiatis, N.</ins>, Rodríguez, D., & Sicilia, M. (2008). The impact of readability on the usefulness of online product reviews: A case study on an online bookstore. *Proceedings of WSKS 2008, Lecture Notes in Computer Science*, 423-432.
 
-**[8]** Poulos, M., <u>Korfiatis, N.</u>, & Bokos, G. (2007). Towards the Construction of a Global Bibliometric Indicator. *Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics (ISSI)*. Madrid, Spain.
+**[8]** Poulos, M., <ins>Korfiatis, N.</ins>, & Bokos, G. (2007). Towards the Construction of a Global Bibliometric Indicator. *Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics (ISSI)*. Madrid, Spain.
 
-**[7]** <u>Korfiatis, N.</u>, & Sicilia, M. (2007). Social Measures and Flexible Navigation on Online Contact Networks. *IEEE International Fuzzy Systems Conference (FUZZ-IEEE)*, 1-6. Imperial College, London, UK.
+**[7]** <ins>Korfiatis, N.</ins>, & Sicilia, M. (2007). Social Measures and Flexible Navigation on Online Contact Networks. *IEEE International Fuzzy Systems Conference (FUZZ-IEEE)*, 1-6. Imperial College, London, UK.
 
-**[6]** <u>Korfiatis, N.</u> (2007). Social and Economic Incentives in Online Social Interactions: A Model and Typology. *30th Information Systems Research Seminar in Scandinavia (IRIS)*. University of Tampere, Finland.
+**[6]** <ins>Korfiatis, N.</ins> (2007). Social and Economic Incentives in Online Social Interactions: A Model and Typology. *30th Information Systems Research Seminar in Scandinavia (IRIS)*. University of Tampere, Finland.
 
-**[5]** <u>Korfiatis, N.</u>, Poulos, M., & Bokos, G. (2007). Analyzing Scientific Networks using Conflict of Interest. *Sunbelt XXVII International Conference on Social Network Analysis*. Corfu, Greece.
+**[5]** <ins>Korfiatis, N.</ins>, Poulos, M., & Bokos, G. (2007). Analyzing Scientific Networks using Conflict of Interest. *Sunbelt XXVII International Conference on Social Network Analysis*. Corfu, Greece.
 
-**[4]** <u>Korfiatis, N.</u>, & Constantiou, I. (2006). Socially targeted mobile services: towards an upper level ontology of social roles for mobile environments. *14th European Conference on Information Systems (ECIS 2006)*. Gothenburg, Sweden.
+**[4]** <ins>Korfiatis, N.</ins>, & Constantiou, I. (2006). Socially targeted mobile services: towards an upper level ontology of social roles for mobile environments. *14th European Conference on Information Systems (ECIS 2006)*. Gothenburg, Sweden.
 
-**[3]** <u>Korfiatis, N.</u>, & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Microlearning 2006: Micromedia and E-Learning*, 304-313. Innsbruck, Austria.
+**[3]** <ins>Korfiatis, N.</ins>, & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Microlearning 2006: Micromedia and E-Learning*, 304-313. Innsbruck, Austria.
 
-**[2]** <u>Korfiatis, N.</u>, & Naeve, A. (2005). Evaluating wiki contributions using social networks: A case study on Wikipedia. *Proceedings of the First International Conference on Metadata and Semantics Research*.
+**[2]** <ins>Korfiatis, N.</ins>, & Naeve, A. (2005). Evaluating wiki contributions using social networks: A case study on Wikipedia. *Proceedings of the First International Conference on Metadata and Semantics Research*.
 
-**[1]** Lytras, M., Pouloudi, A., & <u>Korfiatis, N.</u> (2003). An ontological oriented approach on e-learning: integrating semantics for adaptive e-learning systems. *New Paradigms in Organizations, Markets and Society, Proceedings of the 11th European Conference on Information Systems (ECIS 2003)*. Naples, Italy.
+**[1]** Lytras, M., Pouloudi, A., & <ins>Korfiatis, N.</ins> (2003). An ontological oriented approach on e-learning: integrating semantics for adaptive e-learning systems. *New Paradigms in Organizations, Markets and Society, Proceedings of the 11th European Conference on Information Systems (ECIS 2003)*. Naples, Italy.
 
 ---
 
 ## Contributions in Books and Edited Volumes
 
-**[4]** Kouroupis, M., <u>Korfiatis, N.</u>, & Cornford, J. (2020). Artificial Intelligence assisted detection of Diabetic Retinopathy on Digital Fundus Images: Concepts and Applications in the NHS. In *Sustainable Innovation in Medical Informatics - A Smart Healthcare Primer*.
+**[4]** Kouroupis, M., <ins>Korfiatis, N.</ins>, & Cornford, J. (2020). Artificial Intelligence assisted detection of Diabetic Retinopathy on Digital Fundus Images: Concepts and Applications in the NHS. In *Sustainable Innovation in Medical Informatics - A Smart Healthcare Primer*.
 
-**[3]** Ivanov, T., Izberovic, S., & <u>Korfiatis, N.</u> (2016). The Heterogeneity Paradigm in Big Data Architectures. In Rajkumar, K., Raihan Ur, R., Hai, J., & Balasundaram, S. (Eds.), *Managing and Processing Big Data in Cloud Computing, Advances in Data Mining and Database Management (ADMDM)*, 218-245. Idea Group Publishing.
+**[3]** Ivanov, T., Izberovic, S., & <ins>Korfiatis, N.</ins> (2016). The Heterogeneity Paradigm in Big Data Architectures. In Rajkumar, K., Raihan Ur, R., Hai, J., & Balasundaram, S. (Eds.), *Managing and Processing Big Data in Cloud Computing, Advances in Data Mining and Database Management (ADMDM)*, 218-245. Idea Group Publishing.
 
-**[2]** Zicari, R., Rosselli, M., Ivanov, T., <u>Korfiatis, N.</u>, Tolle, K., Niemann, R., & Reichenbach, C. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In Emrouznejad, A. (Ed.), *Big Data Optimization: Recent Developments and Challenges, Studies in Big Data Series*, 17-45. Springer.
+**[2]** Zicari, R., Rosselli, M., Ivanov, T., <ins>Korfiatis, N.</ins>, Tolle, K., Niemann, R., & Reichenbach, C. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In Emrouznejad, A. (Ed.), *Big Data Optimization: Recent Developments and Challenges, Studies in Big Data Series*, 17-45. Springer.
 
-**[1]** <u>Korfiatis, N.</u>, Sicilia, M., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In Goh, D., & Foo, S. (Eds.), *Social Information Retrieval Systems: Emerging Technologies and Applications for Searching the Web Effectively*. Idea Group Publishing.
+**[1]** <ins>Korfiatis, N.</ins>, Sicilia, M., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In Goh, D., & Foo, S. (Eds.), *Social Information Retrieval Systems: Emerging Technologies and Applications for Searching the Web Effectively*. Idea Group Publishing.
 
 ---
 
 ## Deliverables and Project Related Publications
 
-**[6]** Li, Y., Mariuzzo, F., <u>Korfiatis, N.</u>, & Xiong, Y. (2017). Information Strategies of New Product Introduction in Vertical Markets. *Center for Competition Policy (CCP) Working Paper*. (17(3)).
+**[6]** Li, Y., Mariuzzo, F., <ins>Korfiatis, N.</ins>, & Xiong, Y. (2017). Information Strategies of New Product Introduction in Vertical Markets. *Center for Competition Policy (CCP) Working Paper*. (17(3)).
 
-**[5]** <u>Korfiatis, N.</u> (2015). The sharing economy: A theme for regulation in the digital age. *CCP Research Bulletin, ESRC Centre for Competition Policy*, 29, 5-6.
+**[5]** <ins>Korfiatis, N.</ins> (2015). The sharing economy: A theme for regulation in the digital age. *CCP Research Bulletin, ESRC Centre for Competition Policy*, 29, 5-6.
 
-**[4]** <u>Korfiatis, N.</u> (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
+**[4]** <ins>Korfiatis, N.</ins> (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
 
-**[3]** Sicilia, M., Sanchez, S., Barriocanal-Garcia, E., Fernandez-Rebollo, R., Gomez-Cano, R., Belmonte Abian, A., Ruiz Rodriguez, E., Lezcano, L., Arroyo, S., & <u>Korfiatis, N.</u> (2009). LOMR reference implementation report and full documentation. *Technical Report, Information Engineering Research Unit Deliverable D4.8, LUISA Learning Content Management System Using Innovative Semantic Web Services Architecture*. (IST-FP6-027149).
+**[3]** Sicilia, M., Sanchez, S., Barriocanal-Garcia, E., Fernandez-Rebollo, R., Gomez-Cano, R., Belmonte Abian, A., Ruiz Rodriguez, E., Lezcano, L., Arroyo, S., & <ins>Korfiatis, N.</ins> (2009). LOMR reference implementation report and full documentation. *Technical Report, Information Engineering Research Unit Deliverable D4.8, LUISA Learning Content Management System Using Innovative Semantic Web Services Architecture*. (IST-FP6-027149).
 
-**[2]** <u>Korfiatis, N.</u> (2007). Hinsides branding. *Retorik magasinet*, Årg. 17, nr. 64, 22-25. In Danish
+**[2]** <ins>Korfiatis, N.</ins> (2007). Hinsides branding. *Retorik magasinet*, Årg. 17, nr. 64, 22-25. In Danish
 
-**[1]** Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., & <u>Korfiatis, N.</u> (2005). A Conceptual Modelling Approach to Studying the Learning Process with a Special Focus on Knowledge Creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*. (IST 507310).
+**[1]** Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., & <ins>Korfiatis, N.</ins> (2005). A Conceptual Modelling Approach to Studying the Learning Process with a Special Focus on Knowledge Creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*. (IST 507310).
