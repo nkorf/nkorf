@@ -92,23 +92,23 @@ _Note: CABS denotes classification from CABS Ranking_
 
 **[17]** Lavranos, C., Kostagiolas, P.A., Korfiatis, N., & Papadatos, J. (2016). Information seeking for musical creativity: A systematic literature review. *Journal of the American Society for Information Science and Technology*, 67(9), 2105-2117. **(CABS 3)**
 
-**[16]** Korfiatis, N., Lytras, M., & Zicari, R. (2015). Gender Effects and Cooperation Styles in the Facebook Community: A Quasi-Experimental Assessment. *Computers in Human Behavior*, 48, 44–50. **(CABS 2)**
+**[17]** Korfiatis, N., Lytras, M., & Zicari, R. (2015). Gender Effects and Cooperation Styles in the Facebook Community: A Quasi-Experimental Assessment. *Computers in Human Behavior*, 48, 44–50. **(CABS 2)**
 
-**[15]** Huang, G.H., & Korfiatis, N. (2015). Trying before buying: The moderating role of online reviews in trial attitude formation towards mobile apps. *International Journal of Electronic Commerce*, 19(4), 77-111. **(CABS 3)**
+**[16]** Huang, G.H., & Korfiatis, N. (2015). Trying before buying: The moderating role of online reviews in trial attitude formation towards mobile apps. *International Journal of Electronic Commerce*, 19(4), 77-111. **(CABS 3)**
 
-**[14]** Kostagiolas, P.A., Lavranos, C., Papavlasopoulos, S., Korfiatis, N., & Papadatos, J. (2015). Music, Musicians, and Information Seeking Behavior: A Case Study on a Community Concert Band. *Journal of Documentation*, 71(1), 3-24.
+**[15]** Kostagiolas, P.A., Lavranos, C., Papavlasopoulos, S., Korfiatis, N., & Papadatos, J. (2015). Music, Musicians, and Information Seeking Behavior: A Case Study on a Community Concert Band. *Journal of Documentation*, 71(1), 3-24.
 
-**[13]** Kostagiolas, P.A., Korfiatis, N., Kourouthanassis, P., & Alexias, G. (2014). Work-related factors influencing doctors search behaviours and trust towards medical information resources. *International Journal of Information Management*, 34(2), 80–88. **(CABS 2)**
+**[14]** Kostagiolas, P.A., Korfiatis, N., Kourouthanassis, P., & Alexias, G. (2014). Work-related factors influencing doctors search behaviours and trust towards medical information resources. *International Journal of Information Management*, 34(2), 80–88. **(CABS 2)**
 
-**[12]** Korfiatis, N., & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, 40(14), 5507-5515. **(CABS 3)**
+**[13]** Korfiatis, N., & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, 40(14), 5507-5515. **(CABS 3)**
 
-**[11]** Wu, P.F., & Korfiatis, N. (2013). You Scratch Someone's Back and We'll Scratch Yours: Collective Reciprocity in Social Q&A Communities. *Journal of the American Society for Information Science and Technology (JASIST)*, 64(10), 2069-2077. **(CABS 3)**
+**[12]** Wu, P.F., & Korfiatis, N. (2013). You Scratch Someone's Back and We'll Scratch Yours: Collective Reciprocity in Social Q&A Communities. *Journal of the American Society for Information Science and Technology (JASIST)*, 64(10), 2069-2077. **(CABS 3)**
 
-**[10]** Kostagiolas, P.A., Samioti, F., Alexias, G., Korfiatis, N., & Niakas, D. (2012). Examining patterns of information behavior among healthcare professionals: a case study on health psychologists. *New Review of Information Networking*, 17(2), 108-119.
+**[11]** Kostagiolas, P.A., Samioti, F., Alexias, G., Korfiatis, N., & Niakas, D. (2012). Examining patterns of information behavior among healthcare professionals: a case study on health psychologists. *New Review of Information Networking*, 17(2), 108-119.
 
-**[9]** Poulos, M., & Korfiatis, N. (2012). A methodology for binary encoding of citation metadata. *International Journal of Metadata, Semantics and Ontologies*, 7(4), 295-301.
+**[10]** Poulos, M., & Korfiatis, N. (2012). A methodology for binary encoding of citation metadata. *International Journal of Metadata, Semantics and Ontologies*, 7(4), 295-301.
 
-**[8]** Kostagiolas, P.A., Korfiatis, N., & Poulos, M. (2012). A long-tail inspired measure to assess resource use in information services. *Library & Information Science Research*, 34(4), 317-323.
+**[9]** Kostagiolas, P.A., Korfiatis, N., & Poulos, M. (2012). A long-tail inspired measure to assess resource use in information services. *Library & Information Science Research*, 34(4), 317-323.
 
 **[7]** Korfiatis, N., García-Bariocanal, E., & Sánchez-Alonso, S. (2012). Evaluating content quality and helpfulness of online product reviews: The interplay of review helpfulness vs. review content. *Electronic Commerce Research and Applications*, 11(3), 205-217. **(CABS 2)**
 
@@ -194,12 +194,14 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Deliverables and Project Related Publications
 
-**[5]** Li, Y., Mariuzzo, F., Korfiatis, N., & Xiong, Y. (2017). Information Strategies of New Product Introduction in Vertical Markets. *Center for Competition Policy (CCP) Working Paper*, 17(3).
+**[6]** Li, Y., Mariuzzo, F., Korfiatis, N., & Xiong, Y. (2017). Information Strategies of New Product Introduction in Vertical Markets. *Center for Competition Policy (CCP) Working Paper*, 17(3).
 
-**[4]** Korfiatis, N. (2015). The sharing economy: A theme for regulation in the digital age. *CCP Research Bulletin, ESRC Centre for Competition Policy*, 29, 5-6.
+**[5]** Korfiatis, N. (2015). The sharing economy: A theme for regulation in the digital age. *CCP Research Bulletin, ESRC Centre for Competition Policy*, 29, 5-6.
 
-**[3]** Korfiatis, N. (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
+**[4]** Korfiatis, N. (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
 
-**[2]** Sicilia, M.A., Sanchez, S., Barriocanal-Garcia, E., Fernandez-Rebollo, R., Gomez-Cano, R., Belmonte Abian, A., Ruiz Rodriguez, E., Lezcano, L., Arroyo, S., & Korfiatis, N. (2009). LOMR reference implementation report and full documentation. *Technical Report, Information Engineering Research Unit Deliverable D4.8, LUISA Learning Content Management System Using Innovative Semantic Web Services Architecture*, IST-FP6-027149.
+**[3]** Sicilia, M.A., Sanchez, S., Barriocanal-Garcia, E., Fernandez-Rebollo, R., Gomez-Cano, R., Belmonte Abian, A., Ruiz Rodriguez, E., Lezcano, L., Arroyo, S., & Korfiatis, N. (2009). LOMR reference implementation report and full documentation. *Technical Report, Information Engineering Research Unit Deliverable D4.8, LUISA Learning Content Management System Using Innovative Semantic Web Services Architecture*, IST-FP6-027149.
+
+**[2]** Korfiatis, N. (2007). Hinsides branding. *Retorik magasinet*, Årg. 17, nr. 64, 22-25. (In Danish)
 
 **[1]** Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., & Korfiatis, N. (2005). A Conceptual Modelling Approach to Studying the Learning Process with a Special Focus on Knowledge Creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*, IST 507310.
