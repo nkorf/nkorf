@@ -240,6 +240,80 @@ def generate_markdown(entries, output_file='publications.md'):
     print(f"Generated {output_file} with {len(entries)} entries")
 
 
+def generate_clinical_trials(entries, output_file='clinical_trials.md'):
+    """Generate clinical trials markdown file from BibTeX entries."""
+
+    # Clinical trial metadata: NCT ID -> (name, cancer type)
+    trial_info = {
+        '03568097': ('PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer', 'Lung Cancer'),
+        '05372081': ('SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC', 'Lung Cancer'),
+        '03311750': ('A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer', 'Colorectal Cancer'),
+        '02512458': ('CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases', 'Prostate Cancer'),
+        '04829890': ('Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer', 'Breast Cancer'),
+    }
+
+    # Group entries by NCT ID
+    trials = defaultdict(list)
+    for entry in entries:
+        nct = entry.get('nct', '')
+        if nct:
+            trials[nct].append(entry)
+
+    # Sort publications within each trial by year (descending)
+    for nct in trials:
+        trials[nct].sort(key=lambda x: int(x.get('year', '0')), reverse=True)
+
+    # Group trials by cancer type
+    cancer_types = defaultdict(list)
+    for nct, pubs in trials.items():
+        if nct in trial_info:
+            cancer_type = trial_info[nct][1]
+            cancer_types[cancer_type].append((nct, pubs))
+
+    # Order cancer types
+    cancer_order = ['Lung Cancer', 'Colorectal Cancer', 'Prostate Cancer', 'Breast Cancer']
+
+    lines = [
+        "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)",
+        "",
+        "# Clinical Trials",
+        "",
+        "_Clinical trials coordinated statistically as Senior Statistician at the Hellenic Cooperative Oncology Group (HeCOG)_",
+        "",
+    ]
+
+    trial_num = len(trials)
+    for cancer_type in cancer_order:
+        if cancer_type not in cancer_types:
+            continue
+
+        lines.append("---")
+        lines.append("")
+        lines.append(f"## {cancer_type}")
+        lines.append("")
+
+        for nct, pubs in cancer_types[cancer_type]:
+            trial_name = trial_info.get(nct, ('Unknown Trial', ''))[0]
+            lines.append(f"**[{trial_num}]** ClinicalTrials.gov Identifier: **[NCT{nct}](https://clinicaltrials.gov/study/NCT{nct})** - {trial_name}")
+            lines.append("")
+
+            # List all publications for this trial
+            for entry in pubs:
+                formatted = format_entry_apa(entry)
+                # Remove the NCT identifier from the formatted string since it's already in the header
+                formatted = formatted.replace(f" **(NCT{nct})**", "")
+                lines.append(f"   * {formatted}")
+                lines.append("")
+
+            trial_num -= 1
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+
+    print(f"Generated {output_file} with {len(trials)} clinical trials")
+
+
 if __name__ == '__main__':
     entries = load_bibtex('publications.bib')
     generate_markdown(entries)
+    generate_clinical_trials(entries)
