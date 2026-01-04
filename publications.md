@@ -14,9 +14,9 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ## Dissertations
 
-**[2]** Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *PhD Thesis, Copenhagen Business School*.
+**[2]** Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *Doctoral Dissertation, PhD School in Information Management and Accounting, Department of Informatics, Copenhagen Business School*. (Supervisor: Professor Volker Mahnke)
 
-**[1]** Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *MSc Dissertation, School of Electrical Engineering and Computer Science, Royal Institute of Technology (KTH), Sweden*.
+**[1]** Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *MSc Dissertation, School of Electrical Engineering and Computer Science, Royal Institute of Technology (KTH), Sweden*. (Supervisor: Dr Ambjoern Naeve)
 
 ---
 
@@ -24,23 +24,23 @@ _Note: CABS denotes classification from CABS Ranking_
 
 **[51]** Dousios, D., Korfiatis, N., & Spanaki, K. (2025). The Persuasive Impact of Text and Audio Features on Technology Crowdfunding Campaigns: An empirical study on Kickstarter. *IEEE Transactions on Engineering Management*, 72, 2049-2064. **(CABS 3)**
 
-**[50]** Mountzios, G., Papadopoulou, K., Korfiatis, N., Goussia, A., Samantas, E., et al. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final Outcome, Immunophenotypic and biomarker analysis. *European Journal of Cancer*, 228, 115660.
+**[50]** Mountzios, G., Papadopoulou, K., Korfiatis, N., Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G.-A., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A.V., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P.A., Fountzilas, G., & Linardou, H. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final Outcome, Immunophenotypic and biomarker analysis. *European Journal of Cancer*, 228, 115660. **(NCT03568097)**
 
-**[49]** Liontos, M., Goussia, A., Korfiatis, N., Papadopoulou, K., Kanellis, G., Visvikis, A., et al. (2025). The role of Cabazitaxel in Patients With Castration-Resistant and Osseous Metastases Prostate Cancer: A Hellenic Cooperative Oncology Group Phase II Study. *Clinical Genitourinary Cancer*, 23(1), 102253.
+**[49]** Liontos, M., Goussia, A., Korfiatis, N., Papadopoulou, K., Kanellis, G., Visvikis, A., Petrakis, G., Tsiatas, M., Fountzilas, E., Samantas, E., Fountzilas, G., & Efstathiou, E. (2025). The role of Cabazitaxel in Patients With Castration-Resistant and Osseous Metastases Prostate Cancer: A Hellenic Cooperative Oncology Group Phase II Study. *Clinical Genitourinary Cancer*, 23(1), 102253. **(NCT02512458)**
 
-**[48]** Sgouros, J., Eliades, A., Papadopoulou, K., Korfiatis, N., Papamichael, D., et al. (2025). Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer (A-REPEAT study): efficacy and correlations with tissue and plasma genotyping. *ESMO Gastrointestinal Oncology*, 7, 100120.
+**[48]** Sgouros, J., Eliades, A., Papadopoulou, K., Korfiatis, N., Papamichael, D., Fountzilas, E., Tsolaki, E., Achilleos, A., Tsangaras, K., Loizides, C., Oikonomopoulos, G., Makatsoris, T., Kypri, E., Ioannides, M., Koumbaris, G., Fountzilas, G., Patsalis, P.C., & Pentheroudakis, G. (2025). Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer (A-REPEAT study): efficacy and correlations with tissue and plasma genotyping. *ESMO Gastrointestinal Oncology*, 7, 100120. **(NCT03311750)**
 
-**[47]** Goussia, A., Dimitrakopoulos, F.I.D., Korfiatis, N., Koletsa, T., Batistatou, A., et al. (2025). Clinical outcomes and important prognostic biomarkers following dose-dense sequential adjuvant chemotherapy (dds-CT) in early breast cancer (eBC): Pooled-analysis of individual patient data. *ESMO Open*, 10.
+**[47]** Goussia, A., Dimitrakopoulos, F.I.D., Korfiatis, N., Koletsa, T., Batistatou, A., Kourea, H.P., Bobos, M., Papadopoulou, K., Charchanti, A.V., Bai, M., Tzaida, O., Petraki, K., Arapantoni-Dadioti, P., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2025). Clinical outcomes and important prognostic biomarkers following dose-dense sequential adjuvant chemotherapy (dds-CT) in early breast cancer (eBC): Pooled-analysis of individual patient data. *ESMO Open*, 10. **(NCT04829890)**
 
-**[46]** Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., et al. (2025). SNF-CLIMEDIN: A HECOG prospective randomized trial of digital support and intervention in patients with advanced NSCLC—Final results. *Journal of Clinical Oncology*, 43(16_suppl), 1515-1515.
+**[46]** Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Fountzilas, G., & Linardou, H. (2025). SNF-CLIMEDIN: A HECOG prospective randomized trial of digital support and intervention in patients with advanced NSCLC—Final results. *Journal of Clinical Oncology*, 43(16_suppl), 1515-1515. **(NCT05372081)**
 
-**[45]** Kosmidis, P., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., et al. (2025). Frequency of Adverse Events Reported Digitally by Patients with Advanced NSCLC: Analysis From CLIMEDIN, a HeCOG Study. *Journal of Thoracic Oncology*, 20(10), S392.
+**[45]** Kosmidis, P., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Fountzilas, G., & Linardou, H. (2025). Frequency of Adverse Events Reported Digitally by Patients with Advanced NSCLC: Analysis From CLIMEDIN, a HeCOG Study. *Journal of Thoracic Oncology*, 20(10), S392. **(NCT05372081)**
 
-**[44]** Mountzios, G., Papadopoulou, K., Korfiatis, N., Goussia, A., Samantas, E., et al. (2024). Final outcome, immunophenotypic and biomarker analysis of intercalated avelumab plus platinum-based chemotherapy in patients with extensive-stage small cell lung cancer (PAVE). *ESMO Open*, 9.
+**[44]** Mountzios, G., Papadopoulou, K., Korfiatis, N., Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G.-A., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A.V., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P.A., Fountzilas, G., & Linardou, H. (2024). Final outcome, immunophenotypic and biomarker analysis of intercalated avelumab plus platinum-based chemotherapy in patients with extensive-stage small cell lung cancer (PAVE). *ESMO Open*, 9. **(NCT03568097)**
 
-**[43]** Linardou, H., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., et al. (2024). Analysis of evolution of patient reported side effects during treatment for advanced NSCLC. *Annals of Oncology*, 35, S863-S864.
+**[43]** Linardou, H., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Fountzilas, G., & Kosmidis, P.A. (2024). Analysis of evolution of patient reported side effects during treatment for advanced NSCLC. *Annals of Oncology*, 35, S863-S864. **(NCT05372081)**
 
-**[42]** Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., et al. (2024). SNF-CLIMEDIN: A prospective randomized trial of digital intervention in patients with advanced NSCLC—A HeCOG study. *Journal of Clinical Oncology*, 42(16_suppl), 1520-1520.
+**[42]** Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Fountzilas, G., & Linardou, H. (2024). SNF-CLIMEDIN: A prospective randomized trial of digital intervention in patients with advanced NSCLC—A HeCOG study. *Journal of Clinical Oncology*, 42(16_suppl), 1520-1520. **(NCT05372081)**
 
 **[41]** Yan, N., Dousios, D., Korfiatis, N., & Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modeling approach. *Business Strategy and the Environment*, 33(6), 5405-5422. **(CABS 3)**
 
@@ -48,7 +48,7 @@ _Note: CABS denotes classification from CABS Ranking_
 
 **[39]** Yang, N., Korfiatis, N., Zissis, D., & Spanaki, K. (2024). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operations Research*, 339, 631–662. **(CABS 3)**
 
-**[38]** Linardou, H., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Lampaki, S., et al. (2023). Clinical and molecular study with digital support of advanced non-small cell lung cancer patients: SNF-CLIMEDIN, a prospective randomized Hellenic Cooperative Oncology Group study. *Annals of Oncology*, 34, S816-S817.
+**[38]** Linardou, H., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Vozikis, A., Fountzilas, G., & Kosmidis, P.A. (2023). Clinical and molecular study with digital support of advanced non-small cell lung cancer patients: SNF-CLIMEDIN, a prospective randomized Hellenic Cooperative Oncology Group study. *Annals of Oncology*, 34, S816-S817. **(NCT05372081)**
 
 **[37]** Karatzas, A., Papadopoulos, G., Stamolampros, P., Raja, J., & Korfiatis, N. (2023). Front- and back-end employee satisfaction during service transition. *International Journal of Operations and Production Management*, 43(7), 1121–1147. **(CABS 4)**
 
@@ -180,7 +180,7 @@ _Note: CABS denotes classification from CABS Ranking_
 
 **[3]** Ivanov, T., Izberovic, S., & Korfiatis, N. (2016). The Heterogeneity Paradigm in Big Data Architectures. In *Managing and Processing Big Data in Cloud Computing*, 218.
 
-**[2]** Zicari, R.V., Rosselli, M., Ivanov, T., Korfiatis, N., Tolle, K., Niemann, R., et al. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In *Big Data Optimization: Recent Developments and Challenges*, 17-47.
+**[2]** Zicari, R.V., Rosselli, M., Ivanov, T., Korfiatis, N., Tolle, K., Niemann, R., & Reichenbach, C. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In *Big Data Optimization: Recent Developments and Challenges*, 17-47.
 
 **[1]** Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In *Social Information Retrieval Systems: Emerging Technologies and Applications*.
 
@@ -192,4 +192,4 @@ _Note: CABS denotes classification from CABS Ranking_
 
 **[2]** Korfiatis, N. (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
 
-**[1]** Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., Korfiatis, N., et al. (2005). A conceptual modelling approach to studying the learning process with a special focus on knowledge creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*.
+**[1]** Naeve, A., Nilsson, M., Palmér, M., Wessblad, R., Lindegren, M., Lytras, M., Korfiatis, N., Simon, B., Wild, F., Kieslinger, B., Yli-Luoma, P., Kravcik, M., Kamtsiou, V., & Pappa, D. (2005). A conceptual modelling approach to studying the learning process with a special focus on knowledge creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*.
