@@ -176,11 +176,9 @@ _Note: CABS denotes classification from CABS Ranking_
 
 3. Zicari, R.V., Rosselli, M., Ivanov, T., Korfiatis, N., Tolle, K., Niemann, R., et al. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In *Big Data Optimization: Recent Developments and Challenges*, 17-47.
 
-4. Korfiatis, N. (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
+4. Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In *Social Information Retrieval Systems: Emerging Technologies and Applications*.
 
-5. Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In *Social Information Retrieval Systems: Emerging Technologies and Applications*.
-
-6. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *Royal Institute of Technology (KTH), Sweden*.
+5. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *Royal Institute of Technology (KTH), Sweden*.
 
 ---
 
@@ -188,4 +186,6 @@ _Note: CABS denotes classification from CABS Ranking_
 
 1. Li, Y., Mariuzzo, F., Korfiatis, N., & Xiong, Y. (2017). Information Strategies of New Product Introduction in Vertical Markets. *Center for Competition Policy (CCP) Working Paper*, 17(3).
 
-2. Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., Korfiatis, N., et al. (2005). A conceptual modelling approach to studying the learning process with a special focus on knowledge creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*.
+2. Korfiatis, N. (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
+
+3. Naeve, A., Yli-Luoma, P., Kravcik, M., Lytras, M., Simon, B., Lindegren, M., Korfiatis, N., et al. (2005). A conceptual modelling approach to studying the learning process with a special focus on knowledge creation. *Deliverable 5.3 of the Prolearn EU/FP6 Network of Excellence*.
