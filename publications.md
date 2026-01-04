@@ -12,6 +12,14 @@ _Note: CABS denotes classification from CABS Ranking_
 
 ---
 
+## Dissertations
+
+1. Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *PhD Thesis, Copenhagen Business School*.
+
+2. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *MSc Dissertation, School of Electrical Engineering and Computer Science, Royal Institute of Technology (KTH), Sweden*.
+
+---
+
 ## Journal Articles
 
 1. Dousios, D., Korfiatis, N., & Spanaki, K. (2025). The Persuasive Impact of Text and Audio Features on Technology Crowdfunding Campaigns: An empirical study on Kickstarter. *IEEE Transactions on Engineering Management*, 72, 2049-2064. **(CABS 3)**
@@ -175,14 +183,6 @@ _Note: CABS denotes classification from CABS Ranking_
 3. Zicari, R.V., Rosselli, M., Ivanov, T., Korfiatis, N., Tolle, K., Niemann, R., et al. (2016). Setting Up a Big Data Project: Challenges, Opportunities, Technologies and Optimization. In *Big Data Optimization: Recent Developments and Challenges*, 17-47.
 
 4. Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In *Social Information Retrieval Systems: Emerging Technologies and Applications*.
-
----
-
-## Dissertations
-
-1. Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *PhD Thesis, Copenhagen Business School*.
-
-2. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *MSc Dissertation, School of Electrical Engineering and Computer Science, Royal Institute of Technology (KTH), Sweden*.
 
 ---
 
