@@ -25,11 +25,7 @@ ClinicalTrials.gov Identifier: **[NCT05372081](https://clinicaltrials.gov/study/
 ClinicalTrials.gov Identifier: **[NCT03311750](https://clinicaltrials.gov/study/NCT03311750)** - A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer
    * Sgouros, J., Eliades, A., Papadopoulou, K., Korfiatis, N., Papamichael, D., et al. (2025). Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer (A-REPEAT study): efficacy and correlations with tissue and plasma genotyping. *ESMO Gastrointestinal Oncology*, 7, 100120.
 
-ClinicalTrials.gov Identifier: **[NCT02512458](https://clinicaltrials.gov/study/NCT02512458)** - CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases
-   * Liontos, M., Goussia, A., Korfiatis, N., Papadopoulou, K., Kanellis, G., Visvikis, A., et al. (2025). The role of Cabazitaxel in Patients With Castration-Resistant and Osseous Metastases Prostate Cancer: A Hellenic Cooperative Oncology Group Phase II Study. *Clinical Genitourinary Cancer*, 23(1), 102253.
-
-ClinicalTrials.gov Identifier: **[NCT04829890](https://clinicaltrials.gov/study/NCT04829890)** - Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer
-   * Goussia, A., Dimitrakopoulos, F.I.D., Korfiatis, N., Koletsa, T., Batistatou, A., et al. (2025). Clinical outcomes and important prognostic biomarkers following dose-dense sequential adjuvant chemotherapy (dds-CT) in early breast cancer (eBC): Pooled-analysis of individual patient data. *ESMO Open*, 10.
+[See Full List](clinical_trials.md)
 
 ---
 ## Recent and Forthcoming Publications
