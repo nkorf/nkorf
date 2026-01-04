@@ -146,25 +146,23 @@ _Note: CABS denotes classification from CABS Ranking_
 
 13. García-Barriocanal, E., Sicilia, M.A., & Korfiatis, N. (2010). Exploring hotel service quality experience indicators in user-generated content: A case using TripAdvisor data. *Mediterranean Conference on Information Systems (MCIS)*, 33.
 
-14. Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *Copenhagen Business School (PhD Thesis)*.
+14. Sicilia, M.A., García-Barriocanal, E., & Korfiatis, N. (2008). Using Imperfect Information in Online Social Systems: Applications and Measures of Betweenness. *Proceedings of the 12th International Conference on Information Processing and Management of Uncertainty*.
 
-15. Sicilia, M.A., García-Barriocanal, E., & Korfiatis, N. (2008). Using Imperfect Information in Online Social Systems: Applications and Measures of Betweenness. *Proceedings of the 12th International Conference on Information Processing and Management of Uncertainty*.
+15. Korfiatis, N., Rodríguez, D., & Sicilia, M.A. (2008). The impact of readability on the usefulness of online product reviews. *Emerging Technologies and Information Systems for the Knowledge Society*, 423-432.
 
-16. Korfiatis, N., Rodríguez, D., & Sicilia, M.A. (2008). The impact of readability on the usefulness of online product reviews. *Emerging Technologies and Information Systems for the Knowledge Society*, 423-432.
+16. Poulos, M., Korfiatis, N., & Bokos, G. (2007). Towards the Construction of a Global Bibliometric Indicator. *Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics*.
 
-17. Poulos, M., Korfiatis, N., & Bokos, G. (2007). Towards the Construction of a Global Bibliometric Indicator. *Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics*.
+17. Korfiatis, N., & Sicilia, M.A. (2007). Social Measures and Flexible Navigation on Online Contact Networks. *IEEE International Fuzzy Systems Conference (FUZZ-IEEE)*, 1-6.
 
-18. Korfiatis, N., & Sicilia, M.A. (2007). Social Measures and Flexible Navigation on Online Contact Networks. *IEEE International Fuzzy Systems Conference (FUZZ-IEEE)*, 1-6.
+18. Korfiatis, N. (2007). Social and Economic Incentives in Online Social Interactions: A Model and Typology. *30th Information Systems Research Seminar in Scandinavia (IRIS)*.
 
-19. Korfiatis, N. (2007). Social and Economic Incentives in Online Social Interactions: A Model and Typology. *30th Information Systems Research Seminar in Scandinavia (IRIS)*.
+19. Korfiatis, N., & Constantiou, I.D. (2006). Socially targeted mobile services: towards an upper level ontology of social roles for mobile environments. *European Conference on Information Systems (ECIS)*.
 
-20. Korfiatis, N., & Constantiou, I.D. (2006). Socially targeted mobile services: towards an upper level ontology of social roles for mobile environments. *European Conference on Information Systems (ECIS)*.
+20. Korfiatis, N., & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Microlearning 2006: Micromedia and E-Learning*, 304-313.
 
-21. Korfiatis, N., & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Microlearning 2006: Micromedia and E-Learning*, 304-313.
+21. Korfiatis, N., & Naeve, A. (2005). Evaluating wiki contributions using social networks: A case study on Wikipedia. *Proceedings of the First International Conference on Metadata and Semantics Research*.
 
-22. Korfiatis, N., & Naeve, A. (2005). Evaluating wiki contributions using social networks: A case study on Wikipedia. *Proceedings of the First International Conference on Metadata and Semantics Research*.
-
-23. Lytras, M.D., Pouloudi, A., & Korfiatis, N. (2003). An ontological oriented approach on e-learning: integrating semantics for adaptive e-learning systems. *New Paradigms in Organizations, Markets and Society, Proceedings of the 11th European Conference on Information Systems*.
+22. Lytras, M.D., Pouloudi, A., & Korfiatis, N. (2003). An ontological oriented approach on e-learning: integrating semantics for adaptive e-learning systems. *New Paradigms in Organizations, Markets and Society, Proceedings of the 11th European Conference on Information Systems*.
 
 ---
 
@@ -178,7 +176,13 @@ _Note: CABS denotes classification from CABS Ranking_
 
 4. Korfiatis, N., Sicilia, M.A., Hess, C., Stein, K., & Schlieder, C. (2007). Social Network Models for Enhancing Reference-Based Search Engine Rankings. In *Social Information Retrieval Systems: Emerging Technologies and Applications*.
 
-5. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *Royal Institute of Technology (KTH), Sweden*.
+---
+
+## Dissertations
+
+1. Korfiatis, N. (2009). Information Exchange and Behavior: A Multi-method Inquiry on Online Communities. *PhD Thesis, Copenhagen Business School*.
+
+2. Korfiatis, N. (2005). The Opinion Evaluation Network: Ranking Imprecise Social Interactions. *MSc Dissertation, School of Electrical Engineering and Computer Science, Royal Institute of Technology (KTH), Sweden*.
 
 ---
 
