@@ -1,6 +1,6 @@
 [[Publications List]](publications.md)  [[CABS Ranked]](ref.md)
 
-# Clinical Trials (Statistical Coordination)
+# Clinical Trials
 
 _Clinical trials coordinated statistically as Senior Statistician at the Hellenic Cooperative Oncology Group (HeCOG)_
 
