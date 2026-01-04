@@ -16,8 +16,11 @@ from collections import defaultdict
 import re
 
 
-def format_authors_apa(authors_str):
-    """Format authors in APA style: Last, F.I., Last, F.I., & Last, F.I."""
+def format_authors_apa(authors_str, highlight_author="Korfiatis"):
+    """Format authors in APA style: Last, F.I., Last, F.I., & Last, F.I.
+
+    Underlines the specified author name for highlighting.
+    """
     if not authors_str:
         return ""
 
@@ -44,9 +47,15 @@ def format_authors_apa(authors_str):
         # Get initials
         if first:
             initials = '.'.join([n[0].upper() for n in first.split() if n]) + '.'
-            formatted.append(f"{last}, {initials}")
+            author_formatted = f"{last}, {initials}"
         else:
-            formatted.append(last)
+            author_formatted = last
+
+        # Highlight the specified author with underline
+        if highlight_author and highlight_author.lower() in last.lower():
+            author_formatted = f"<u>{author_formatted}</u>"
+
+        formatted.append(author_formatted)
 
     # APA style: use & before last author
     if len(formatted) > 1:
