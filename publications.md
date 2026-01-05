@@ -198,7 +198,7 @@ _Note: CABS denotes classification from CABS Ranking_
 
 **[5]** <ins>Korfiatis, N.</ins> (2015). The sharing economy: A theme for regulation in the digital age. *CCP Research Bulletin, ESRC Centre for Competition Policy*, 29, 5-6.
 
-**[4]** <ins>Korfiatis, N.</ins> (2013). Big Data and Opinion Mining: Challenges and Opportunities. *University Frankfurt*.
+**[4]** <ins>Korfiatis, N.</ins> (2013). Big Data and Opinion Mining: Challenges and Opportunities. *Colloquium Report, Faculty of Informatics and Mathematics, Goethe University Frankfurt am Main*.
 
 **[3]** Sicilia, M., Sanchez, S., Barriocanal-Garcia, E., Fernandez-Rebollo, R., Gomez-Cano, R., Belmonte Abian, A., Ruiz Rodriguez, E., Lezcano, L., Arroyo, S., & <ins>Korfiatis, N.</ins> (2009). LOMR reference implementation report and full documentation. *Technical Report, Information Engineering Research Unit Deliverable D4.8, LUISA Learning Content Management System Using Innovative Semantic Web Services Architecture*. (IST-FP6-027149).
 
