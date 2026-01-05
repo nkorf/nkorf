@@ -2,7 +2,7 @@
 
 # Clinical Trials
 
-_The following is a list of Clinical trials by therepeutic areas which I have coordinated statistically as Senior Statistician at the Hellenic Cooperative Oncology Group (HeCOG). Clinicaltrials.gov identifier in brackets_
+_The following is a list of Clinical trials by therepeutic areas which I have coordinated as Senior Statistician at the Hellenic Cooperative Oncology Group (HeCOG). Clinicaltrials.gov identifier in brackets_
 
 ---
 
