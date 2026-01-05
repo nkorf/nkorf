@@ -2,7 +2,7 @@
 
 # Full List of Publications (Chronological Order)
 
-_Note: CABS denotes classification from CABS Ranking_
+_Note: CABS denotes classification ranked according to the Chartered Association of Business Schools (CABS) Academic Journal Guide_
 
 ---
 
