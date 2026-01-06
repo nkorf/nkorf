@@ -150,7 +150,7 @@ _Note: CABS denotes classification ranked according to the Chartered Association
 
 **[17]** Niemann, R., <ins>Korfiatis, N.</ins>, Zicari, R., & Göbel, R. (2013). Evaluating the Energy Efficiency of OLTP Operations. *Availability, Reliability, and Security in Information Systems and HCI, Lecture Notes in Computer Science*, 28-43. Regensburg, Germany. [DOI](https://doi.org/10.1007/978-3-642-40511-2_3)
 
-**[16]** <ins>Korfiatis, N.</ins> (2013). Big Data for Enhanced Learning Analytics: A Case for Large-Scale Comparative Assessments. *Proceedings of the 7th International Conference on Metadata and Semantics Research*. Thessaloniki, Greece. [DOI](https://doi.org/10.1007/978-3-319-03437-9_23)
+**[16]** <ins>Korfiatis, N.</ins> (2013). Big Data for Enhanced Learning Analytics: A Case for Large-Scale Comparative Assessments. *Metadata and Semantics Research (MTSR 2013), Communications in Computer and Information Science*, 225–233. Thessaloniki, Greece. [DOI](https://doi.org/10.1007/978-3-319-03437-9_23)
 
 **[15]** Rill, S., Adolph, S., Drescher, J., Reinel, D., Scheidt, J., Schütz, O., Wogenstein, F., <ins>Korfiatis, N.</ins>, & Zicari, R. (2012). A Phrase-Based Opinion List for the German Language. *Proceedings of the 11th Conference on Natural Language Processing (KONVENS)*, 305-313. Vienna, Austria.
 
