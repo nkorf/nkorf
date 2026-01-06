@@ -211,7 +211,7 @@ def generate_markdown(entries, output_file='publications.md'):
     ]
 
     lines = [
-        "[[CABS Ranked]](ref.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)",
+        "[[CABS Ranked]](ref.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)  [[Policy Impact]](policy_citations.md)",
         "",
         "# Full List of Publications (Chronological Order)",
         "",
@@ -277,7 +277,7 @@ def generate_clinical_trials(entries, output_file='clinical_trials.md'):
     cancer_order = ['Lung Cancer', 'Colorectal Cancer', 'Prostate Cancer', 'Breast Cancer']
 
     lines = [
-        "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[By Year]](by_year.md)",
+        "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[By Year]](by_year.md)  [[Policy Impact]](policy_citations.md)",
         "",
         "# Clinical Trials",
         "",
@@ -336,7 +336,7 @@ def generate_cabs_ranked(entries, output_file='ref.md'):
     cabs_order = ['4', '3', '2', '1']
 
     lines = [
-        "[[Publications List]](publications.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)",
+        "[[Publications List]](publications.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)  [[Policy Impact]](policy_citations.md)",
         "",
         "# CABS Ranked Publications",
         "",
@@ -383,7 +383,7 @@ def generate_by_year(entries, output_file='by_year.md'):
     sorted_years = sorted(year_groups.keys(), key=lambda x: int(x) if x.isdigit() else 0, reverse=True)
 
     lines = [
-        "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)",
+        "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)  [[Policy Impact]](policy_citations.md)",
         "",
         "# Publications by Year",
         "",
@@ -411,9 +411,85 @@ def generate_by_year(entries, output_file='by_year.md'):
     print(f"Generated {output_file} with publications across {len(sorted_years)} years")
 
 
+def generate_policy_citations(entries, output_file='policy_citations.md'):
+    """Generate policy citations markdown file from BibTeX entries."""
+
+    # Filter entries with policy citations
+    policy_entries = [e for e in entries if e.get('policycitation', '')]
+
+    # Parse all citations and get the max year for sorting
+    def get_max_citation_year(entry):
+        citations_str = entry.get('policycitation', '')
+        # Support multiple citations separated by ;;
+        citations = citations_str.split(';;')
+        max_year = 0
+        for citation in citations:
+            parts = citation.split('|')
+            if len(parts) >= 3:
+                try:
+                    year = int(parts[2].strip())
+                    max_year = max(max_year, year)
+                except ValueError:
+                    pass
+        return max_year
+
+    policy_entries.sort(key=get_max_citation_year, reverse=True)
+
+    # Count total citations
+    total_citations = 0
+    for entry in policy_entries:
+        citations_str = entry.get('policycitation', '')
+        citations = citations_str.split(';;')
+        total_citations += len(citations)
+
+    lines = [
+        "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)",
+        "",
+        "# Policy Impact",
+        "",
+        "_Research cited in policy documents and governmental/intergovernmental publications_",
+        "",
+        "---",
+        "",
+    ]
+
+    total = len(policy_entries)
+    for i, entry in enumerate(policy_entries):
+        num = total - i
+        # Format the cited publication
+        formatted = format_entry_apa(entry)
+
+        # Parse all policy citations (multiple separated by ;;)
+        citations_str = entry.get('policycitation', '')
+        citations = citations_str.split(';;')
+
+        lines.append(f"**[{num}]** {formatted}")
+        lines.append("")
+
+        for citation in citations:
+            parts = citation.split('|')
+            if len(parts) >= 3:
+                cite_title = parts[0].strip()
+                cite_source = parts[1].strip()
+                cite_year = parts[2].strip()
+            else:
+                cite_title = citation.strip()
+                cite_source = ""
+                cite_year = ""
+
+            lines.append(f"   * **Cited by:** {cite_title} ({cite_year}). *{cite_source}*")
+            lines.append("")
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+
+    print(f"Generated {output_file} with {total_citations} policy citations across {len(policy_entries)} publications")
+
+
 if __name__ == '__main__':
     entries = load_bibtex('publications.bib')
     generate_markdown(entries)
     generate_clinical_trials(entries)
     generate_cabs_ranked(entries)
     generate_by_year(entries)
+    generate_policy_citations(entries)

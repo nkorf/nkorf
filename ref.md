@@ -1,4 +1,4 @@
-[[Publications List]](publications.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)
+[[Publications List]](publications.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)  [[Policy Impact]](policy_citations.md)
 
 # CABS Ranked Publications
 

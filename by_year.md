@@ -1,4 +1,4 @@
-[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)
+[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)  [[Policy Impact]](policy_citations.md)
 
 # Publications by Year
 
@@ -224,21 +224,21 @@ _All publications grouped by year of publication_
 
 ## 2008
 
-**[2]** Sicilia, M., García-Barriocanal, E., & <ins>Korfiatis, N.</ins> (2008). Using Imperfect Information in Online Social Systems: Applications and Measures of Betweenness. *Proceedings of the 12th International Conference on Information Processing and Management of Uncertainty (IPMU 2008)*. Malaga, Spain.
+**[3]** Sicilia, M., García-Barriocanal, E., & <ins>Korfiatis, N.</ins> (2008). Using Imperfect Information in Online Social Systems: Applications and Measures of Betweenness. *Proceedings of IPMU '08, Torremolinos, (Malaga), June 22-27, 2008*, 1105–1112. Torremolinos, Spain.
 
-**[1]** <ins>Korfiatis, N.</ins>, Rodríguez, D., & Sicilia, M. (2008). The impact of readability on the usefulness of online product reviews: A case study on an online bookstore. *Proceedings of WSKS 2008, Lecture Notes in Computer Science*, 423-432. [DOI](https://doi.org/10.1007/978-3-540-87781-3_42)
+**[2]** <ins>Korfiatis, N.</ins>, Rodríguez, D., & Sicilia, M. (2008). The impact of readability on the usefulness of online product reviews: A case study on an online bookstore. *Proceedings of WSKS 2008, Lecture Notes in Computer Science*, 423-432. [DOI](https://doi.org/10.1007/978-3-540-87781-3_42)
+
+**[1]** Poulos, M., <ins>Korfiatis, N.</ins>, & Bokos, G. (2008). Towards the Construction of a Global Bibliometric Indicator. *Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics (ISSI), Madrid, Spain*. Madrid, Spain.
 
 ---
 
 ## 2007
 
-**[7]** <ins>Korfiatis, N.</ins>, Poulos, M., & Bokos, G. (2007). Social metadata for the impact factor. *The Electronic Library*, Vol. 25, No. 2, pp. 166-175. [DOI](https://doi.org/10.1108/02640470710741304)
-
-**[6]** Poulos, M., <ins>Korfiatis, N.</ins>, & Bokos, G. (2007). Towards the Construction of a Global Bibliometric Indicator. *Proceedings of the 11th International Conference of the International Society for Scientometrics and Informetrics (ISSI)*. Madrid, Spain.
+**[6]** <ins>Korfiatis, N.</ins>, Poulos, M., & Bokos, G. (2007). Social metadata for the impact factor. *The Electronic Library*, Vol. 25, No. 2, pp. 166-175. [DOI](https://doi.org/10.1108/02640470710741304)
 
 **[5]** <ins>Korfiatis, N.</ins>, & Sicilia, M. (2007). Social Measures and Flexible Navigation on Online Contact Networks. *IEEE International Fuzzy Systems Conference (FUZZ-IEEE)*, 1-6. Imperial College, London, UK. [DOI](https://doi.org/10.1109/FUZZY.2007.4295565)
 
-**[4]** <ins>Korfiatis, N.</ins> (2007). Social and Economic Incentives in Online Social Interactions: A Model and Typology. *30th Information Systems Research Seminar in Scandinavia (IRIS)*. University of Tampere, Finland.
+**[4]** <ins>Korfiatis, N.</ins> (2007). Social and Economic Incentives in Online Social Interactions: A Model and Typology. *Proceedings of 30th Information Systems Research Seminar in Scandinavia - IRIS30*, 1060–1077. Tampere, Finland.
 
 **[3]** <ins>Korfiatis, N.</ins>, Poulos, M., & Bokos, G. (2007). Analyzing Scientific Networks using Conflict of Interest. *Sunbelt XXVII International Conference on Social Network Analysis*. Corfu, Greece.
 
@@ -254,7 +254,7 @@ _All publications grouped by year of publication_
 
 **[2]** <ins>Korfiatis, N.</ins>, & Constantiou, I. (2006). Socially targeted mobile services: towards an upper level ontology of social roles for mobile environments. *14th European Conference on Information Systems (ECIS 2006)*. Gothenburg, Sweden.
 
-**[1]** <ins>Korfiatis, N.</ins>, & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Microlearning 2006: Micromedia and E-Learning*, 304-313. Innsbruck, Austria.
+**[1]** <ins>Korfiatis, N.</ins>, & Lytras, M. (2006). Deploying Recommender Systems for Microcontent: An approach using Social Network Theory. *Micromedia and e-Learning 2.0: Gaining the Big Picture: Proceedings of Microlearning Conference 2006*, 304–313. Innsbruck, Austria.
 
 ---
 
