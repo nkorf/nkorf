@@ -204,6 +204,7 @@ def generate_markdown(entries, output_file='publications.md'):
         ('software', 'Released Software'),
         ('dissertation', 'Dissertations'),
         ('journal', 'Journal Articles'),
+        ('workingpaper', 'Working Papers'),
         ('conference', 'Conference Proceedings'),
         ('book', 'Contributions in Books and Edited Volumes'),
         ('deliverable', 'Deliverables and Project Related Publications'),

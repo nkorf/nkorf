@@ -126,13 +126,17 @@ _Note: CABS denotes classification ranked according to the Chartered Association
 
 ---
 
+## Working Papers
+
+**[1]** Yang, N., <ins>Korfiatis, N.</ins>, Karatzas, A., & Zissis, D. (2023). Identifying Latent Service Dimensions in Service Supply Chains Using Topic Modelling: An Analysis of Franchised and Independent Businesses. *SSRN Working Paper 4227662*. [DOI](https://doi.org/10.2139/ssrn.4227662)
+
+---
+
 ## Conference Proceedings
 
-**[25]** Kleitsikas, C., <ins>Korfiatis, N.</ins>, Leonardos, S., & Ventre, C. (2025). Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data. *IEEE International Conference on Blockchain and Cryptocurrency 2025*.
+**[24]** Kleitsikas, C., <ins>Korfiatis, N.</ins>, Leonardos, S., & Ventre, C. (2025). Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data. *IEEE International Conference on Blockchain and Cryptocurrency 2025*.
 
-**[24]** Palla, G., <ins>Korfiatis, N.</ins>, Hatzithomas, L., Palla, P., & Lekakos, G. (2024). The Device Effect on Visitor Critique: A Study of Mobile and Desktop Museum Reviews on TripAdvisor. *Design, Operation and Evaluation of Mobile Communications. HCII 2024*, 290-300. [DOI](https://doi.org/10.1007/978-3-031-60487-4_22)
-
-**[23]** Yang, N., <ins>Korfiatis, N.</ins>, Karatzas, A., & Zissis, D. (2023). Identifying Latent Service Dimensions in Service Supply Chains Using Topic Modelling: An Analysis of Franchised and Independent Businesses. *Available at SSRN 4227662*. [DOI](https://doi.org/10.2139/ssrn.4227662)
+**[23]** Palla, G., <ins>Korfiatis, N.</ins>, Hatzithomas, L., Palla, P., & Lekakos, G. (2024). The Device Effect on Visitor Critique: A Study of Mobile and Desktop Museum Reviews on TripAdvisor. *Design, Operation and Evaluation of Mobile Communications. HCII 2024*, 290-300. [DOI](https://doi.org/10.1007/978-3-031-60487-4_22)
 
 **[22]** Leonidou, L., Katsikeas, C., Aykol, B., & <ins>Korfiatis, N.</ins> (2018). A Meta-Analysis of Power in Buyer-Seller Relationships: An Abstract. *Academy of Marketing Science World Marketing Congress*, 731-732. [DOI](https://doi.org/10.1007/978-3-030-02568-7_198)
 
