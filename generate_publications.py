@@ -211,7 +211,7 @@ def generate_markdown(entries, output_file='publications.md'):
     ]
 
     lines = [
-        "[[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)",
+        "[[CABS Ranked]](ref.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)",
         "",
         "# Full List of Publications (Chronological Order)",
         "",
@@ -277,7 +277,7 @@ def generate_clinical_trials(entries, output_file='clinical_trials.md'):
     cancer_order = ['Lung Cancer', 'Colorectal Cancer', 'Prostate Cancer', 'Breast Cancer']
 
     lines = [
-        "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)",
+        "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[By Year]](by_year.md)",
         "",
         "# Clinical Trials",
         "",
@@ -336,7 +336,7 @@ def generate_cabs_ranked(entries, output_file='ref.md'):
     cabs_order = ['4', '3', '2', '1']
 
     lines = [
-        "[[Publications List]](publications.md)  [[Clinical Trials]](clinical_trials.md)",
+        "[[Publications List]](publications.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)",
         "",
         "# CABS Ranked Publications",
         "",
@@ -370,8 +370,49 @@ def generate_cabs_ranked(entries, output_file='ref.md'):
     print(f"Generated {output_file} with {len(cabs_entries)} CABS ranked publications")
 
 
+def generate_by_year(entries, output_file='by_year.md'):
+    """Generate publications grouped by year markdown file from BibTeX entries."""
+
+    # Group entries by year
+    year_groups = defaultdict(list)
+    for entry in entries:
+        year = entry.get('year', 'Unknown')
+        year_groups[year].append(entry)
+
+    # Sort years descending
+    sorted_years = sorted(year_groups.keys(), key=lambda x: int(x) if x.isdigit() else 0, reverse=True)
+
+    lines = [
+        "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)",
+        "",
+        "# Publications by Year",
+        "",
+        "_All publications grouped by year of publication_",
+        "",
+    ]
+
+    for year in sorted_years:
+        lines.append("---")
+        lines.append("")
+        lines.append(f"## {year}")
+        lines.append("")
+
+        year_entries = year_groups[year]
+        # Sort by category within year
+        for entry in year_entries:
+            formatted = format_entry_apa(entry)
+            lines.append(f"* {formatted}")
+            lines.append("")
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+
+    print(f"Generated {output_file} with publications across {len(sorted_years)} years")
+
+
 if __name__ == '__main__':
     entries = load_bibtex('publications.bib')
     generate_markdown(entries)
     generate_clinical_trials(entries)
     generate_cabs_ranked(entries)
+    generate_by_year(entries)

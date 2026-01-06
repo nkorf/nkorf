@@ -1,4 +1,4 @@
-[[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)
+[[CABS Ranked]](ref.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)
 
 # Full List of Publications (Chronological Order)
 
