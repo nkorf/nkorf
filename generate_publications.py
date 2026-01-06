@@ -94,11 +94,11 @@ def format_entry_apa(entry):
         if journal:
             result += f" *{journal}*"
             if volume:
-                result += f", {volume}"
+                result += f", Vol. {volume}"
                 if number:
-                    result += f"({number})"
+                    result += f", No. {number}"
             if pages:
-                result += f", {pages}"
+                result += f", pp. {pages}"
             result += "."
 
     elif entry_type == 'inproceedings' or entry_type == 'conference':
