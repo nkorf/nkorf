@@ -398,10 +398,9 @@ def generate_by_year(entries, output_file='by_year.md'):
         lines.append("")
 
         year_entries = year_groups[year]
-        # Sort by category within year
-        for entry in year_entries:
+        for i, entry in enumerate(year_entries, 1):
             formatted = format_entry_apa(entry)
-            lines.append(f"* {formatted}")
+            lines.append(f"**[{i}]** {formatted}")
             lines.append("")
 
     with open(output_file, 'w', encoding='utf-8') as f:
