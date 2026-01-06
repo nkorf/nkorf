@@ -316,7 +316,62 @@ def generate_clinical_trials(entries, output_file='clinical_trials.md'):
     print(f"Generated {output_file} with {len(trials)} clinical trials")
 
 
+def generate_cabs_ranked(entries, output_file='ref.md'):
+    """Generate CABS ranked publications markdown file from BibTeX entries."""
+
+    # Filter entries with CABS ranking
+    cabs_entries = [e for e in entries if e.get('cabs', '')]
+
+    # Group by CABS ranking
+    cabs_groups = defaultdict(list)
+    for entry in cabs_entries:
+        cabs_rank = entry.get('cabs', '')
+        cabs_groups[cabs_rank].append(entry)
+
+    # Sort each group by year (descending)
+    for rank in cabs_groups:
+        cabs_groups[rank].sort(key=lambda x: int(x.get('year', '0')), reverse=True)
+
+    # CABS rankings in order (highest first)
+    cabs_order = ['4', '3', '2', '1']
+
+    lines = [
+        "[[Publications List]](publications.md)  [[Clinical Trials]](clinical_trials.md)",
+        "",
+        "# CABS Ranked Publications",
+        "",
+        "_Publications ranked according to the Chartered Association of Business Schools (CABS) Academic Journal Guide_",
+        "",
+    ]
+
+    for rank in cabs_order:
+        if rank not in cabs_groups:
+            continue
+
+        lines.append("---")
+        lines.append("")
+        lines.append(f"## CABS {rank}")
+        lines.append("")
+
+        rank_entries = cabs_groups[rank]
+        total = len(rank_entries)
+
+        for i, entry in enumerate(rank_entries):
+            num = total - i
+            formatted = format_entry_apa(entry)
+            # Remove the CABS indicator since it's already in the section header
+            formatted = formatted.replace(f" **(CABS {rank})**", "")
+            lines.append(f"**[{num}]** {formatted}")
+            lines.append("")
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+
+    print(f"Generated {output_file} with {len(cabs_entries)} CABS ranked publications")
+
+
 if __name__ == '__main__':
     entries = load_bibtex('publications.bib')
     generate_markdown(entries)
     generate_clinical_trials(entries)
+    generate_cabs_ranked(entries)
