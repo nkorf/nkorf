@@ -161,6 +161,8 @@ def format_entry_apa(entry):
 
     # Add URL links if present
     urls = []
+    if doi:
+        urls.append(f"[DOI](https://doi.org/{doi})")
     if url:
         urls.append(f"[{entry.get('urlname', 'Link')}]({url})")
     url2 = entry.get('url2', '')
@@ -212,7 +214,7 @@ def generate_markdown(entries, output_file='publications.md'):
         "",
         "# Full List of Publications (Chronological Order)",
         "",
-        "_Note: CABS denotes classification from CABS Ranking_",
+        "_Note: CABS denotes classification ranked according to the Chartered Association of Business Schools (CABS) Academic Journal Guide_",
         "",
     ]
 
@@ -278,7 +280,7 @@ def generate_clinical_trials(entries, output_file='clinical_trials.md'):
         "",
         "# Clinical Trials",
         "",
-        "_Clinical trials coordinated statistically as Senior Statistician at the Hellenic Cooperative Oncology Group (HeCOG)_",
+        "_The following is a list of Clinical trials by therapeutic areas which I have coordinated as Senior Statistician at the Hellenic Cooperative Oncology Group (HeCOG). Clinicaltrials.gov identifier in brackets_",
         "",
     ]
 

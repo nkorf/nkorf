@@ -2,7 +2,7 @@
 
 # Clinical Trials
 
-_The following is a list of Clinical trials by therepeutic areas which I have coordinated as Senior Statistician at the Hellenic Cooperative Oncology Group (HeCOG). Clinicaltrials.gov identifier in brackets_
+_The following is a list of Clinical trials by therapeutic areas which I have coordinated as Senior Statistician at the Hellenic Cooperative Oncology Group (HeCOG). Clinicaltrials.gov identifier in brackets_
 
 ---
 
@@ -12,7 +12,7 @@ _The following is a list of Clinical trials by therepeutic areas which I have co
 
    * Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final Outcome, Immunophenotypic and biomarker analysis. *European Journal of Cancer*, 228, 115660.
 
-   * Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2024). Final outcome, immunophenotypic and biomarker analysis of intercalated avelumab plus platinum-based chemotherapy in patients with extensive-stage small cell lung cancer (PAVE). *ESMO Open*, 9.
+   * Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2024). Final outcome, immunophenotypic and biomarker analysis of intercalated avelumab plus platinum-based chemotherapy in patients with extensive-stage small cell lung cancer (PAVE). *ESMO Open*, 9, 102770. [DOI](https://doi.org/10.1016/j.esmoop.2024.102770)
 
 **[4]** ClinicalTrials.gov Identifier: **[NCT05372081](https://clinicaltrials.gov/study/NCT05372081)** - SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC
 
@@ -32,7 +32,7 @@ _The following is a list of Clinical trials by therepeutic areas which I have co
 
 **[3]** ClinicalTrials.gov Identifier: **[NCT03311750](https://clinicaltrials.gov/study/NCT03311750)** - A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer
 
-   * Sgouros, J., Eliades, A., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Papamichael, D., Fountzilas, E., Tsolaki, E., Achilleos, A., Tsangaras, K., Loizides, C., Oikonomopoulos, G., Makatsoris, T., Kypri, E., Ioannides, M., Koumbaris, G., Fountzilas, G., Patsalis, P., & Pentheroudakis, G. (2025). Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer (A-REPEAT study): efficacy and correlations with tissue and plasma genotyping. *ESMO Gastrointestinal Oncology*, 7, 100120.
+   * Sgouros, J., Eliades, A., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Papamichael, D., Fountzilas, E., Tsolaki, E., Achilleos, A., Tsangaras, K., Loizides, C., Oikonomopoulos, G., Makatsoris, T., Kypri, E., Ioannides, M., Koumbaris, G., Fountzilas, G., Patsalis, P., & Pentheroudakis, G. (2025). Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer (A-REPEAT study): efficacy and correlations with tissue and plasma genotyping. *ESMO Gastrointestinal Oncology*, 7, 100120. [DOI](https://doi.org/10.1016/j.esmogo.2024.100120)
 
 ---
 
@@ -40,7 +40,7 @@ _The following is a list of Clinical trials by therepeutic areas which I have co
 
 **[2]** ClinicalTrials.gov Identifier: **[NCT02512458](https://clinicaltrials.gov/study/NCT02512458)** - CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases
 
-   * Liontos, M., Goussia, A., <ins>Korfiatis, N.</ins>, Papadopoulou, K., Kanellis, G., Visvikis, A., Petrakis, G., Tsiatas, M., Fountzilas, E., Samantas, E., Fountzilas, G., & Efstathiou, E. (2025). The role of Cabazitaxel in Patients With Castration-Resistant and Osseous Metastases Prostate Cancer: A Hellenic Cooperative Oncology Group Phase II Study. *Clinical Genitourinary Cancer*, 23(1), 102253.
+   * Liontos, M., Goussia, A., <ins>Korfiatis, N.</ins>, Papadopoulou, K., Kanellis, G., Visvikis, A., Petrakis, G., Tsiatas, M., Fountzilas, E., Samantas, E., Fountzilas, G., & Efstathiou, E. (2025). The role of Cabazitaxel in Patients With Castration-Resistant and Osseous Metastases Prostate Cancer: A Hellenic Cooperative Oncology Group Phase II Study. *Clinical Genitourinary Cancer*, 23(1), 102253. [DOI](https://doi.org/10.1016/j.clgc.2024.102253)
 
 ---
 
@@ -48,4 +48,4 @@ _The following is a list of Clinical trials by therepeutic areas which I have co
 
 **[1]** ClinicalTrials.gov Identifier: **[NCT04829890](https://clinicaltrials.gov/study/NCT04829890)** - Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer
 
-   * Goussia, A., Dimitrakopoulos, F., <ins>Korfiatis, N.</ins>, Koletsa, T., Batistatou, A., Kourea, H., Bobos, M., Papadopoulou, K., Charchanti, A., Bai, M., Tzaida, O., Petraki, K., Arapantoni-Dadioti, P., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2025). Clinical outcomes and important prognostic biomarkers following dose-dense sequential adjuvant chemotherapy (dds-CT) in early breast cancer (eBC): Pooled-analysis of individual patient data. *ESMO Open*, 10.
+   * Goussia, A., Dimitrakopoulos, F., <ins>Korfiatis, N.</ins>, Koletsa, T., Batistatou, A., Kourea, H., Bobos, M., Papadopoulou, K., Charchanti, A., Bai, M., Tzaida, O., Petraki, K., Arapantoni-Dadioti, P., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2025). Clinical outcomes and important prognostic biomarkers following dose-dense sequential adjuvant chemotherapy (dds-CT) in early breast cancer (eBC): Pooled-analysis of individual patient data. *ESMO Open*, 10, 104621. [DOI](https://doi.org/10.1016/j.esmoop.2025.104621)
