@@ -496,7 +496,7 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
                     cite_title = citation.strip()
                     cite_source = ""
                     cite_year = ""
-                lines.append(f"**[{num}]** The paper «{title}» published in *{journal}*{cabs_str} has been cited in the study «{cite_title}» ({cite_year}) by *{cite_source}*.{doi_link}")
+                lines.append(f"**[{num}]** The paper «{title}» published in *{journal}*{cabs_str} has been cited in the document «{cite_title}» ({cite_year}) by *{cite_source}*.{doi_link}")
                 lines.append("")
 
         # Parse all patent citations (format: title|company|patent_id|year)
