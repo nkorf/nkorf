@@ -412,78 +412,113 @@ def generate_by_year(entries, output_file='by_year.md'):
 
 
 def generate_policy_citations(entries, output_file='policy_citations.md'):
-    """Generate policy citations markdown file from BibTeX entries."""
+    """Generate policy and patent citations markdown file from BibTeX entries."""
 
-    # Filter entries with policy citations
-    policy_entries = [e for e in entries if e.get('policycitation', '')]
+    # Filter entries with policy citations or patent citations
+    impact_entries = [e for e in entries if e.get('policycitation', '') or e.get('patentcitation', '')]
 
     # Parse all citations and get the max year for sorting
     def get_max_citation_year(entry):
-        citations_str = entry.get('policycitation', '')
-        # Support multiple citations separated by ;;
-        citations = citations_str.split(';;')
         max_year = 0
-        for citation in citations:
-            parts = citation.split('|')
-            if len(parts) >= 3:
-                try:
-                    year = int(parts[2].strip())
-                    max_year = max(max_year, year)
-                except ValueError:
-                    pass
+        # Check policy citations
+        citations_str = entry.get('policycitation', '')
+        if citations_str:
+            citations = citations_str.split(';;')
+            for citation in citations:
+                parts = citation.split('|')
+                if len(parts) >= 3:
+                    try:
+                        year = int(parts[2].strip())
+                        max_year = max(max_year, year)
+                    except ValueError:
+                        pass
+        # Check patent citations (format: title|company|patent_id|year)
+        patent_str = entry.get('patentcitation', '')
+        if patent_str:
+            patents = patent_str.split(';;')
+            for patent in patents:
+                parts = patent.split('|')
+                if len(parts) >= 4:
+                    try:
+                        year = int(parts[3].strip())
+                        max_year = max(max_year, year)
+                    except ValueError:
+                        pass
         return max_year
 
-    policy_entries.sort(key=get_max_citation_year, reverse=True)
+    impact_entries.sort(key=get_max_citation_year, reverse=True)
 
     # Count total citations
-    total_citations = 0
-    for entry in policy_entries:
+    total_policy = 0
+    total_patents = 0
+    for entry in impact_entries:
         citations_str = entry.get('policycitation', '')
-        citations = citations_str.split(';;')
-        total_citations += len(citations)
+        if citations_str:
+            total_policy += len(citations_str.split(';;'))
+        patent_str = entry.get('patentcitation', '')
+        if patent_str:
+            total_patents += len(patent_str.split(';;'))
 
     lines = [
         "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)",
         "",
         "# Policy Impact",
         "",
-        "_Research cited in policy documents and governmental/intergovernmental publications_",
+        "_Research cited in policy documents, governmental/intergovernmental publications, and patents_",
         "",
         "---",
         "",
     ]
 
-    total = len(policy_entries)
-    for i, entry in enumerate(policy_entries):
+    total = len(impact_entries)
+    for i, entry in enumerate(impact_entries):
         num = total - i
         # Format the cited publication
         formatted = format_entry_apa(entry)
 
-        # Parse all policy citations (multiple separated by ;;)
-        citations_str = entry.get('policycitation', '')
-        citations = citations_str.split(';;')
-
         lines.append(f"**[{num}]** {formatted}")
         lines.append("")
 
-        for citation in citations:
-            parts = citation.split('|')
-            if len(parts) >= 3:
-                cite_title = parts[0].strip()
-                cite_source = parts[1].strip()
-                cite_year = parts[2].strip()
-            else:
-                cite_title = citation.strip()
-                cite_source = ""
-                cite_year = ""
+        # Parse all policy citations (multiple separated by ;;)
+        citations_str = entry.get('policycitation', '')
+        if citations_str:
+            citations = citations_str.split(';;')
+            for citation in citations:
+                parts = citation.split('|')
+                if len(parts) >= 3:
+                    cite_title = parts[0].strip()
+                    cite_source = parts[1].strip()
+                    cite_year = parts[2].strip()
+                else:
+                    cite_title = citation.strip()
+                    cite_source = ""
+                    cite_year = ""
+                lines.append(f"   * **Policy Citation:** {cite_title} ({cite_year}). *{cite_source}*")
+                lines.append("")
 
-            lines.append(f"   * **Cited by:** {cite_title} ({cite_year}). *{cite_source}*")
-            lines.append("")
+        # Parse all patent citations (format: title|company|patent_id|year)
+        patent_str = entry.get('patentcitation', '')
+        if patent_str:
+            patents = patent_str.split(';;')
+            for patent in patents:
+                parts = patent.split('|')
+                if len(parts) >= 4:
+                    patent_title = parts[0].strip()
+                    patent_company = parts[1].strip()
+                    patent_id = parts[2].strip()
+                    patent_year = parts[3].strip()
+                else:
+                    patent_title = patent.strip()
+                    patent_company = ""
+                    patent_id = ""
+                    patent_year = ""
+                lines.append(f"   * **Patent Citation (Prior Art):** {patent_title} ({patent_year}). *{patent_company}*, USPTO: [{patent_id}](https://patents.google.com/patent/{patent_id})")
+                lines.append("")
 
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines))
 
-    print(f"Generated {output_file} with {total_citations} policy citations across {len(policy_entries)} publications")
+    print(f"Generated {output_file} with {total_policy} policy citations and {total_patents} patent citations across {len(impact_entries)} publications")
 
 
 if __name__ == '__main__':
