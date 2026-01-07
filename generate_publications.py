@@ -542,6 +542,218 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
     print(f"Generated {output_file} with {total_policy} policy citations and {total_patents} patent citations across {len(impact_entries)} publications")
 
 
+def format_authors_latex(authors_str, highlight_author="Korfiatis"):
+    """Format authors in APA style for LaTeX: Last, F.I., Last, F.I., \\& Last, F.I.
+
+    Underlines the specified author name for highlighting.
+    """
+    if not authors_str:
+        return ""
+
+    # Split by ' and ' to get individual authors
+    authors = [a.strip() for a in authors_str.replace('\n', ' ').split(' and ')]
+    formatted = []
+
+    for author in authors:
+        # Handle "Last, First" format
+        if ',' in author:
+            parts = author.split(',', 1)
+            last = parts[0].strip()
+            first = parts[1].strip() if len(parts) > 1 else ""
+        else:
+            # Handle "First Last" format
+            parts = author.strip().split()
+            if len(parts) >= 2:
+                last = parts[-1]
+                first = ' '.join(parts[:-1])
+            else:
+                last = author
+                first = ""
+
+        # Get initials
+        if first:
+            initials = '.'.join([n[0].upper() for n in first.split() if n]) + '.'
+            author_formatted = f"{last}, {initials}"
+        else:
+            author_formatted = last
+
+        # Escape LaTeX special characters
+        author_formatted = author_formatted.replace('&', '\\&')
+
+        # Highlight the specified author with underline
+        if highlight_author and highlight_author.lower() in last.lower():
+            author_formatted = f"\\underline{{{author_formatted}}}"
+
+        formatted.append(author_formatted)
+
+    # APA style: use \& before last author
+    if len(formatted) > 1:
+        return ', '.join(formatted[:-1]) + ', \\& ' + formatted[-1]
+    return formatted[0] if formatted else ""
+
+
+def escape_latex(text):
+    """Escape LaTeX special characters in text."""
+    if not text:
+        return text
+    # Order matters - escape backslash first
+    text = text.replace('&', '\\&')
+    text = text.replace('%', '\\%')
+    text = text.replace('_', '\\_')
+    text = text.replace('#', '\\#')
+    text = text.replace('$', '\\$')
+    return text
+
+
+def format_entry_latex(entry):
+    """Format a single BibTeX entry in APA style for LaTeX."""
+    entry_type = entry.get('ENTRYTYPE', 'article').lower()
+
+    authors = format_authors_latex(entry.get('author', ''))
+    year = entry.get('year', '')
+    title = entry.get('title', '').replace('{', '').replace('}', '').replace('---', '---').replace('--', '--')
+    # Escape LaTeX special characters in title
+    title = escape_latex(title)
+
+    # Get optional fields
+    journal = entry.get('journal', '')
+    booktitle = entry.get('booktitle', '')
+    volume = escape_latex(entry.get('volume', ''))
+    number = escape_latex(entry.get('number', ''))
+    pages = entry.get('pages', '').replace('--', '--')
+    publisher = entry.get('publisher', '')
+    address = entry.get('address', '')
+    doi = entry.get('doi', '')
+    url = entry.get('url', '')
+    editor = entry.get('editor', '')
+
+    # Escape special chars in journal/booktitle
+    journal = escape_latex(journal)
+    booktitle = escape_latex(booktitle)
+
+    result = f"{authors} ({year}). {title}."
+
+    if entry_type == 'article':
+        if journal:
+            result += f" \\textit{{{journal}}}"
+            if volume:
+                result += f", Vol. {volume}"
+                if number:
+                    result += f", No. {number}"
+            if pages:
+                result += f", pp. {pages}"
+            result += "."
+
+    elif entry_type == 'inproceedings' or entry_type == 'conference':
+        if booktitle:
+            result += f" \\textit{{{booktitle}}}"
+            if pages:
+                result += f", {pages}"
+            result += "."
+        if address:
+            result += f" {address}."
+
+    elif entry_type == 'incollection' or entry_type == 'inbook':
+        if editor:
+            ed_formatted = format_authors_latex(editor, highlight_author=None)
+            result += f" In {ed_formatted} (Ed" + ("s" if ' and ' in editor else "") + f".), \\textit{{{booktitle}}}"
+        elif booktitle:
+            result += f" In \\textit{{{booktitle}}}"
+        if pages:
+            result += f", {pages}"
+        result += "."
+        if publisher:
+            result += f" {publisher}."
+
+    # Add DOI link if present
+    if doi:
+        result += f" \\href{{https://doi.org/{doi}}}{{DOI}}"
+
+    return result
+
+
+def generate_latex_publications(entries, output_file='cv_academic/publications_generated.tex'):
+    """Generate LaTeX publications file from BibTeX entries."""
+
+    # Organize entries by category
+    categories = defaultdict(list)
+
+    for entry in entries:
+        cat = entry.get('category', 'other').lower()
+        categories[cat].append(entry)
+
+    # Sort each category by year (descending)
+    for cat in categories:
+        categories[cat].sort(key=lambda x: int(x.get('year', '0')), reverse=True)
+
+    # Category order and titles for LaTeX
+    category_order = [
+        ('journal', 'Journal Articles'),
+        ('conference', 'Conference Proceedings'),
+        ('book', 'Books and Edited Volumes'),
+    ]
+
+    lines = [
+        "% Auto-generated publications list from publications.bib",
+        "% Generated by generate_publications.py",
+        "",
+    ]
+
+    # Generate Software first
+    if 'software' in categories:
+        lines.append("\\subsection{Software}")
+        lines.append("\\begin{enumerate}[leftmargin=*, topsep=0pt, itemsep=4pt, label={[\\arabic*]}]")
+        for entry in categories['software']:
+            formatted = format_entry_latex(entry)
+            lines.append(f"    \\item {formatted}")
+            lines.append("")
+        lines.append("\\end{enumerate}")
+        lines.append("")
+
+    # Generate Journal Articles
+    lines.append("\\subsection{Journal Articles}")
+    lines.append("\\begin{enumerate}[leftmargin=*, topsep=0pt, itemsep=4pt, label={[\\arabic*]}]")
+
+    if 'journal' in categories:
+        for entry in categories['journal']:
+            formatted = format_entry_latex(entry)
+            lines.append(f"    \\item {formatted}")
+            lines.append("")
+
+    lines.append("\\end{enumerate}")
+    lines.append("")
+
+    # Generate Conference Proceedings
+    lines.append("\\subsection{Conference Proceedings}")
+    lines.append("\\begin{enumerate}[leftmargin=*, topsep=0pt, itemsep=4pt, label={[\\arabic*]}]")
+
+    if 'conference' in categories:
+        for entry in categories['conference']:
+            formatted = format_entry_latex(entry)
+            lines.append(f"    \\item {formatted}")
+            lines.append("")
+
+    lines.append("\\end{enumerate}")
+    lines.append("")
+
+    # Generate Books
+    lines.append("\\subsection{Books and Edited Volumes}")
+    lines.append("\\begin{enumerate}[leftmargin=*, topsep=0pt, itemsep=4pt, label={[\\arabic*]}]")
+
+    if 'book' in categories:
+        for entry in categories['book']:
+            formatted = format_entry_latex(entry)
+            lines.append(f"    \\item {formatted}")
+            lines.append("")
+
+    lines.append("\\end{enumerate}")
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+
+    print(f"Generated {output_file} with LaTeX publications")
+
+
 if __name__ == '__main__':
     entries = load_bibtex('publications.bib')
     generate_markdown(entries)
@@ -549,3 +761,4 @@ if __name__ == '__main__':
     generate_cabs_ranked(entries)
     generate_by_year(entries)
     generate_policy_citations(entries)
+    generate_latex_publications(entries)

@@ -1,6 +1,6 @@
 # Welcome
 
-[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)
+[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)  [[Academic CV]](cv_academic/nikolaos_korfiatis_academic_cv.pdf)
 
 ---
 ## About

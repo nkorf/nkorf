@@ -1,3 +1,14 @@
 .venv/
 .DS_Store
 CLAUDE.md
+consultant_cv/
+cv_clinical/
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz

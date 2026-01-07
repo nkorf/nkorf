@@ -1,0 +1,222 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{longtable}
+
+% Page geometry
+\geometry{left=1in, right=1in, top=1in, bottom=1in}
+
+% Colors
+\definecolor{navy}{HTML}{1a365d}
+\definecolor{accent}{HTML}{2b6cb0}
+\definecolor{darkgray}{HTML}{2d3748}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries\color{navy}}{}{0em}{}[\color{accent}\titlerule]
+\titlespacing{\section}{0pt}{14pt}{8pt}
+
+\titleformat{\subsection}{\normalsize\bfseries\color{darkgray}}{}{0em}{}
+\titlespacing{\subsection}{0pt}{10pt}{4pt}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=accent,
+    urlcolor=accent
+}
+
+% Header/Footer
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\thepage\ of \pageref{LastPage}}
+\fancyfoot[R]{\small\color{darkgray}Nikolaos Korfiatis -- CV}
+
+\begin{document}
+
+% Title
+\begin{center}
+{\LARGE\bfseries\color{navy} Professor Nikolaos Korfiatis, FRSA FHEA}\\[4pt]
+{\large Curriculum Vitae}\\[8pt]
+{\small Last updated: January 2025}
+\end{center}
+
+\vspace{12pt}
+
+% Contact Information
+\section{Contact Information}
+\begin{tabular}{@{}ll@{\hspace{2cm}}ll@{}}
+\textbf{Position:} & Professor & \textbf{Phone:} & +44(0)7479018665 \\
+\textbf{Department:} & Informatics & \textbf{Email:} & n.korfiatis@ionio.gr \\
+\textbf{Institution:} & Ionian University & \textbf{Web:} & \href{https://nkorf.github.io/nkorf}{nkorf.github.io/nkorf} \\
+\textbf{Address:} & Corfu, Greece & \textbf{ORCID:} & \href{https://orcid.org/0000-0001-8142-8377}{0000-0001-8142-8377} \\
+\end{tabular}
+
+% Education
+\section{Education}
+\begin{itemize}[leftmargin=*, topsep=0pt, itemsep=6pt]
+    \item \textbf{PhD in Informatics}, Copenhagen Business School (CBS), Denmark, 2009\\
+    {\small Thesis: ``Information Exchange and Behavior: A Multi-method Inquiry on Online Communities''\\
+    Supervisor: Professor Volker Mahnke\\
+    PhD Series No. 13.2009, 305 pages}
+
+    \item \textbf{MSc in Interactive Systems Engineering}, Royal Institute of Technology (KTH), Sweden, 2005\\
+    {\small Specialization: Information Retrieval and Human-Computer Interaction\\
+    Thesis: ``The Opinion Evaluation Network: Ranking Imprecise Social Interactions''\\
+    Supervisor: Dr Ambj\"orn Naeve}
+
+    \item \textbf{BSc in Management Science \& Technology}, Athens University of Economics \& Business, 2004\\
+    {\small Specialization: Information Systems and Electronic Commerce}
+\end{itemize}
+
+% Academic Appointments
+\section{Academic Appointments}
+\begin{itemize}[leftmargin=*, topsep=0pt, itemsep=6pt]
+    \item \textbf{Professor in Data Management and Analytics} \hfill 2022 -- Present\\
+    Department of Informatics, Ionian University, Corfu, Greece
+
+    \item \textbf{Associate Professor in Business Analytics} \hfill 2016 -- 2022\\
+    Norwich Business School, University of East Anglia, United Kingdom
+
+    \item \textbf{Assistant Professor in Business Analytics} \hfill 2015 -- 2016\\
+    Norwich Business School, University of East Anglia, United Kingdom
+
+    \item \textbf{Director, Big Data Laboratory / Lecturer} \hfill 2011 -- 2015\\
+    Department of Informatics and Mathematics, Goethe University Frankfurt, Germany
+
+    \item \textbf{Postdoctoral Researcher} \hfill 2009 -- 2011\\
+    Centre for Experimental Economics, University of Copenhagen, Denmark
+\end{itemize}
+
+% Research Interests
+\section{Research Interests}
+\begin{itemize}[leftmargin=*, topsep=0pt, itemsep=2pt]
+    \item Business Analytics and Data Science
+    \item Natural Language Processing and Text Mining
+    \item Machine Learning and Artificial Intelligence (LLMs, RAG, Zero-shot Classification)
+    \item Online Consumer Behavior and Electronic Word-of-Mouth
+    \item Service Quality and Operations Management
+    \item Biostatistics and Clinical Trial Analysis
+\end{itemize}
+
+% Research Impact
+\section{Research Impact}
+\begin{itemize}[leftmargin=*, topsep=0pt, itemsep=4pt]
+    \item \textbf{Google Scholar}: 4,500+ citations, h-index 30
+    \item \textbf{Publications}: 89+ peer-reviewed articles
+    \item \textbf{CABS-Ranked Journals}: 7 publications in CABS 4* journals, 13 in CABS 3*, 6 in CABS 2*, 5 in CABS 1*
+    \item \textbf{Policy Impact}: Research cited by OECD, UNESCO, European Commission, Inter-American Development Bank
+    \item \textbf{Patent Citation}: IBM Patent US10755363B2 (Prior Art)
+    \item \textbf{Media Coverage}: The Telegraph, Guardian, Times of India, Sydney Morning Herald
+\end{itemize}
+
+% Clinical Trials
+\section{Clinical Trials}
+{\small Senior Biostatistician at Hellenic Cooperative Oncology Group (HeCOG). Work frequently presented at ASCO \& ESMO.}
+
+\begin{itemize}[leftmargin=*, topsep=0pt, itemsep=2pt]
+    \item \textbf{NCT03568097} -- PAVE: Intercalated Avelumab plus platinum-based chemotherapy in ES-SCLC (Phase II)
+    \item \textbf{NCT05372081} -- SNF-CLIMEDIN: Digital support and intervention in advanced NSCLC (Non-interventional)
+    \item \textbf{NCT03311750} -- A-REPEAT: Anti-EGFR re-challenge in RAS wild-type advanced CRC (Phase II)
+    \item \textbf{NCT02512458} -- CabaBone: Cabazitaxel in castration-resistant prostate cancer (Translational)
+    \item \textbf{NCT04829890} -- Dose-dense sequential adjuvant chemotherapy in early breast cancer (Phase III)
+\end{itemize}
+
+%=====================================================================
+% PUBLICATIONS (Auto-generated from publications.bib)
+%=====================================================================
+
+\section{Publications}
+
+% Include auto-generated publications from generate_publications.py
+\input{publications_generated.tex}
+
+% Policy Citations
+\section{Policy Citations}
+\begin{enumerate}[leftmargin=*, topsep=0pt, itemsep=4pt, label={[\arabic*]}]
+    \item \textbf{OECD} (2022). The 2022 paper ``Towards AI driven environmental sustainability'' (co-authored with Tsolakis, N., Zissis, D., and Papaeuthimiou, S.) in \textit{International Journal of Production Research} has been cited in ``Artificial Intelligence and International Trade: Some Preliminary Implications (OECD Trade Policy Paper No. 260)'' by \textit{Organization for Economic Cooperation and Development (OECD), Paris, France}.
+
+    \item \textbf{Inter-American Development Bank} (2021). The 2019 paper ``Job Satisfaction and Employee Turnover Determinants in High Contact Services'' (co-authored with Stamolampros, P., Chalvatzis, K., and Buhalis, D.) in \textit{Tourism Management} has been cited in ``Transformaci\'on digital y empleo p\'ublico: El futuro del trabajo del gobierno'' by \textit{Inter-American Development Bank}.
+
+    \item \textbf{State of South Carolina} (2023). The 2019 paper ``Measuring service quality from unstructured data'' (co-authored with Stamolampros, P., Kourouthanassis, P., and Sagiadinos, V.) in \textit{Expert Systems with Applications} has been cited in ``AGENDA Academic Standards \& Assessments Subcommittee Meeting''.
+
+    \item \textbf{IBM Patent} (2020). The 2013 paper ``Using Online Consumer Reviews as a Source for Demographic Recommendations'' (co-authored with Poulos, M.) in \textit{Expert Systems with Applications} has been cited as Prior Art in IBM patent ``Augmented Reviews with Cognitive Reasoning'' (US10755363B2).
+
+    \item \textbf{European Commission} (2018). The 2012 paper ``Evaluating content quality and helpfulness of online product reviews'' (co-authored with Garc\'ia-Bariocanal, E. and S\'anchez-Alonso, S.) in \textit{Electronic Commerce Research and Applications} has been cited in ``Behavioural study on the transparency of online platforms'' by \textit{European Commission, Consumers, Health, Agriculture and Food Executive Agency}.
+
+    \item \textbf{UNESCO} (2022). The 2006 paper ``Evaluating authoritative sources using social networks: an insight from Wikipedia'' (co-authored with Poulos, M. and Bokos, G.) in \textit{Online Information Review} has been cited in ``The International Science and Evidence-based Education Assessment: ISEE Assessment Working Group 2'' by \textit{UNESCO by Mahatma Gandhi Institute of Education for Peace and Sustainable Development}.
+\end{enumerate}
+
+% Teaching
+\section{Teaching Experience}
+\subsection{Ionian University (2022--Present)}
+\noindent Business Analytics, Data Science Methods, Machine Learning, Database Systems
+
+\subsection{University of East Anglia (2015--2022)}
+\noindent Business Analytics (MSc), Research Methods, Data Mining, Operations Management
+
+\subsection{Goethe University Frankfurt (2011--2015)}
+\noindent Big Data Analytics, Database Systems, Information Systems
+
+\subsection{Copenhagen Business School (2005--2009)}
+\noindent Database Systems, Information Systems (Teaching Assistant)
+
+% Supervision
+\section{PhD Supervision}
+\subsection{Completed (First Placement)}
+\begin{itemize}[leftmargin=*, topsep=0pt, itemsep=4pt]
+    \item Panagiotis Stamolampros (UEA, 2019) $\rightarrow$ University of Leeds
+    \item Yimeng Li (UEA, 2020) $\rightarrow$ School of Management, Guizhou University, Guiyang
+    \item Nancy Yang (UEA, 2021) $\rightarrow$ Warwick Business School
+    \item Rasem Quidah (UEA, 2023) $\rightarrow$ University of Suffolk
+    \item Fahad Alaboush (UEA, 2024) $\rightarrow$ University of Hail, Kingdom of Saudi Arabia
+    \item Rawan Quidah (UEA, 2024) $\rightarrow$ University of East Anglia
+\end{itemize}
+
+\subsection{Current}
+\begin{itemize}[leftmargin=*, topsep=0pt, itemsep=4pt]
+    \item Andreas Ringas (Ionian University, 2025--)
+    \item Alexandra Diavati (Ionian University, 2025--)
+\end{itemize}
+
+% Professional Activities
+\section{Professional Activities}
+\subsection{Editorial Boards}
+\noindent Associate Editor, \textit{Tourism Review} (2020--Present)
+
+\subsection{Reviewing}
+\noindent Management Information Systems Quarterly, European Journal of Operational Research, Tourism Management, Journal of Business Research, International Journal of Hospitality Management, Computers in Human Behavior, Journal of Travel Research, Annals of Tourism Research
+
+\subsection{Professional Memberships}
+\begin{itemize}[leftmargin=*, topsep=0pt, itemsep=2pt]
+    \item Fellow, Higher Education Academy (UK)
+    \item Member, Association for Information Systems (AIS)
+    \item Member, INFORMS
+\end{itemize}
+
+% Technical Skills
+\section{Technical Skills}
+\noindent\textbf{Programming:} R (primary), Python, SQL, Scala\\
+\textbf{ML/AI:} scikit-learn, TensorFlow, PyTorch, LangChain, Hugging Face, LLMs (GPT, LLAMA, BERT)\\
+\textbf{Statistics:} R/tidyverse, SAS, Stata, SPSS\\
+\textbf{Platforms:} Databricks, AWS (Bedrock, SageMaker), Azure OpenAI\\
+\textbf{Clinical Standards:} CDISC, SDTM, ADaM
+
+% Languages
+\section{Languages}
+\noindent English (Fluent) \textbullet\ German (Advanced) \textbullet\ Greek (Native)
+
+\vspace{20pt}
+\begin{center}
+{\small\color{darkgray} Full publication list available at \href{https://nkorf.github.io/nkorf}{nkorf.github.io/nkorf}}
+\end{center}
+
+\end{document}
