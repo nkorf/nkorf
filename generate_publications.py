@@ -473,11 +473,14 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
     total = len(impact_entries)
     for i, entry in enumerate(impact_entries):
         num = total - i
-        # Format the cited publication
-        formatted = format_entry_apa(entry)
+        # Get publication details
+        title = entry.get('title', '').replace('{', '').replace('}', '')
+        journal = entry.get('journal', '')
+        cabs = entry.get('cabs', '')
+        doi = entry.get('doi', '')
 
-        lines.append(f"**[{num}]** {formatted}")
-        lines.append("")
+        cabs_str = f" (CABS {cabs})" if cabs else ""
+        doi_link = f" [DOI](https://doi.org/{doi})" if doi else ""
 
         # Parse all policy citations (multiple separated by ;;)
         citations_str = entry.get('policycitation', '')
@@ -493,7 +496,7 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
                     cite_title = citation.strip()
                     cite_source = ""
                     cite_year = ""
-                lines.append(f"   * **Policy Citation:** {cite_title} ({cite_year}). *{cite_source}*")
+                lines.append(f"**[{num}]** The paper «{title}» published in *{journal}*{cabs_str} has been cited in the study «{cite_title}» ({cite_year}) by *{cite_source}*.{doi_link}")
                 lines.append("")
 
         # Parse all patent citations (format: title|company|patent_id|year)
@@ -512,7 +515,7 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
                     patent_company = ""
                     patent_id = ""
                     patent_year = ""
-                lines.append(f"   * **Patent Citation (Prior Art):** {patent_title} ({patent_year}). *{patent_company}*, USPTO: [{patent_id}](https://patents.google.com/patent/{patent_id})")
+                lines.append(f"**[{num}]** The paper «{title}» published in *{journal}*{cabs_str} has been cited as Prior Art in the *{patent_company}* patent titled «{patent_title}» with USPTO assignment code [{patent_id}](https://patents.google.com/patent/{patent_id}) ({patent_year}).{doi_link}")
                 lines.append("")
 
     with open(output_file, 'w', encoding='utf-8') as f:

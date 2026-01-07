@@ -6,26 +6,14 @@ _Research cited in policy documents, governmental/intergovernmental publications
 
 ---
 
-**[6]** <ins>Korfiatis, N.</ins>, Stamolampros, P., Kourouthanassis, P., & Sagiadinos, V. (2019). Measuring service quality from unstructured data: A topic modeling application on airline passengers' online reviews. *Expert Systems with Applications*, Vol. 116, pp. 472-486. **(CABS 1)** [DOI](https://doi.org/10.1016/j.eswa.2018.09.037)
+**[6]** The paper «Measuring service quality from unstructured data: A topic modeling application on airline passengers' online reviews» published in *Expert Systems with Applications* (CABS 1) has been cited in the study «AGENDA Academic Standards & Assessments Subcommittee Meeting» (2023) by *State of South Carolina*. [DOI](https://doi.org/10.1016/j.eswa.2018.09.037)
 
-   * **Policy Citation:** AGENDA Academic Standards & Assessments Subcommittee Meeting (2023). *State of South Carolina*
+**[5]** The paper «Towards AI driven environmental sustainability: an application of automated logistics in container port terminals» published in *International Journal of Production Research* (CABS 3) has been cited in the study «Artificial Intelligence and international trade» (2022) by *OECD*. [DOI](https://doi.org/10.1080/00207543.2021.1914355)
 
-**[5]** Tsolakis, N., Zissis, D., Papaeuthimiou, S., & <ins>Korfiatis, N.</ins> (2022). Towards AI driven environmental sustainability: an application of automated logistics in container port terminals. *International Journal of Production Research*, Vol. 60, No. 14, pp. 4508-4528. **(CABS 3)** [DOI](https://doi.org/10.1080/00207543.2021.1914355)
+**[4]** The paper «Evaluating authoritative sources using social networks: an insight from Wikipedia» published in *Online Information Review* (CABS 1) has been cited in the study «The International Science and Evidence-based Education Assessment: ISEE Assessment Working Group 2» (2022) by *UNESCO by Mahatma Gandhi Institute of Education for Peace and Sustainable Development*. [DOI](https://doi.org/10.1108/14684520610675780)
 
-   * **Policy Citation:** Artificial Intelligence and international trade (2022). *OECD*
+**[3]** The paper «Job Satisfaction and Employee Turnover Determinants in High Contact Services: Insights from Employees' Online Reviews» published in *Tourism Management* (CABS 4) has been cited in the study «Digital Transformation and Public Employment: The Future of Government Work» (2021) by *Inter-American Development Bank*. [DOI](https://doi.org/10.1016/j.tourman.2019.04.030)
 
-**[4]** <ins>Korfiatis, N.</ins>, Poulos, M., & Bokos, G. (2006). Evaluating authoritative sources using social networks: an insight from Wikipedia. *Online Information Review*, Vol. 30, No. 3, pp. 252-262. **(CABS 1)** [DOI](https://doi.org/10.1108/14684520610675780)
+**[2]** The paper «Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews» published in *Expert Systems with Applications* (CABS 3) has been cited as Prior Art in the *IBM* patent titled «Augmented Reviews with Cognitive Reasoning» with USPTO assignment code [US-10755363-B2](https://patents.google.com/patent/US-10755363-B2) (2020). [DOI](https://doi.org/10.1016/j.eswa.2013.03.046)
 
-   * **Policy Citation:** The International Science and Evidence-based Education Assessment: ISEE Assessment Working Group 2 (2022). *UNESCO by Mahatma Gandhi Institute of Education for Peace and Sustainable Development*
-
-**[3]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Chalvatzis, K., & Buhalis, D. (2019). Job Satisfaction and Employee Turnover Determinants in High Contact Services: Insights from Employees' Online Reviews. *Tourism Management*, Vol. 75, pp. 130-147. **(CABS 4)** [DOI](https://doi.org/10.1016/j.tourman.2019.04.030)
-
-   * **Policy Citation:** Digital Transformation and Public Employment: The Future of Government Work (2021). *Inter-American Development Bank*
-
-**[2]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, Vol. 40, No. 14, pp. 5507-5515. **(CABS 3)** [DOI](https://doi.org/10.1016/j.eswa.2013.03.046)
-
-   * **Patent Citation (Prior Art):** Augmented Reviews with Cognitive Reasoning (2020). *IBM*, USPTO: [US-10755363-B2](https://patents.google.com/patent/US-10755363-B2)
-
-**[1]** <ins>Korfiatis, N.</ins>, García-Bariocanal, E., & Sánchez-Alonso, S. (2012). Evaluating content quality and helpfulness of online product reviews: The interplay of review helpfulness vs. review content. *Electronic Commerce Research and Applications*, Vol. 11, No. 3, pp. 205-217. **(CABS 2)** [DOI](https://doi.org/10.1016/j.elerap.2011.10.003)
-
-   * **Policy Citation:** Behavioural study on the transparency of online platforms (2018). *European Commission, Consumers, Health, Agriculture and Food Executive Agency*
+**[1]** The paper «Evaluating content quality and helpfulness of online product reviews: The interplay of review helpfulness vs. review content» published in *Electronic Commerce Research and Applications* (CABS 2) has been cited in the study «Behavioural study on the transparency of online platforms» (2018) by *European Commission, Consumers, Health, Agriculture and Food Executive Agency*. [DOI](https://doi.org/10.1016/j.elerap.2011.10.003)
