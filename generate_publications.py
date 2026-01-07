@@ -246,13 +246,13 @@ def generate_markdown(entries, output_file='publications.md'):
 def generate_clinical_trials(entries, output_file='clinical_trials.md'):
     """Generate clinical trials markdown file from BibTeX entries."""
 
-    # Clinical trial metadata: NCT ID -> (name, cancer type)
+    # Clinical trial metadata: NCT ID -> (name, cancer type, phase)
     trial_info = {
-        '03568097': ('PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer', 'Lung Cancer'),
-        '05372081': ('SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC', 'Lung Cancer'),
-        '03311750': ('A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer', 'Colorectal Cancer'),
-        '02512458': ('CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases', 'Prostate Cancer'),
-        '04829890': ('Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer', 'Breast Cancer'),
+        '03568097': ('PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer', 'Lung Cancer', 'Phase II'),
+        '05372081': ('SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC', 'Lung Cancer', 'Non-interventional'),
+        '03311750': ('A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer', 'Colorectal Cancer', 'Phase II'),
+        '02512458': ('CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases', 'Prostate Cancer', 'Translational'),
+        '04829890': ('Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer', 'Breast Cancer', 'Phase III'),
     }
 
     # Group entries by NCT ID
@@ -296,8 +296,11 @@ def generate_clinical_trials(entries, output_file='clinical_trials.md'):
         lines.append("")
 
         for nct, pubs in cancer_types[cancer_type]:
-            trial_name = trial_info.get(nct, ('Unknown Trial', ''))[0]
-            lines.append(f"**[{trial_num}]** ClinicalTrials.gov Identifier: **[NCT{nct}](https://clinicaltrials.gov/study/NCT{nct})** - {trial_name}")
+            trial_data = trial_info.get(nct, ('Unknown Trial', '', ''))
+            trial_name = trial_data[0]
+            trial_phase = trial_data[2] if len(trial_data) > 2 else ''
+            phase_str = f" [{trial_phase}]" if trial_phase else ""
+            lines.append(f"**[{trial_num}]** ClinicalTrials.gov Identifier: **[NCT{nct}](https://clinicaltrials.gov/study/NCT{nct})** - {trial_name}{phase_str}")
             lines.append("")
 
             # List all publications for this trial
