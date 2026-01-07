@@ -26,31 +26,29 @@ _Publications ranked according to the Chartered Association of Business Schools 
 
 ## CABS 3
 
-**[14]** Dousios, D., <ins>Korfiatis, N.</ins>, & Spanaki, K. (2025). The Persuasive Impact of Text and Audio Features on Technology Crowdfunding Campaigns: An empirical study on Kickstarter. *IEEE Transactions on Engineering Management*, Vol. 72, pp. 2049-2064. [DOI](https://doi.org/10.1109/TEM.2025.3549597)
+**[13]** Dousios, D., <ins>Korfiatis, N.</ins>, & Spanaki, K. (2025). The Persuasive Impact of Text and Audio Features on Technology Crowdfunding Campaigns: An empirical study on Kickstarter. *IEEE Transactions on Engineering Management*, Vol. 72, pp. 2049-2064. [DOI](https://doi.org/10.1109/TEM.2025.3549597)
 
-**[13]** Yan, N., Dousios, D., <ins>Korfiatis, N.</ins>, & Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modeling approach. *Business Strategy and the Environment*, Vol. 33, No. 6, pp. 5405-5422. [DOI](https://doi.org/10.1002/bse.3748)
+**[12]** Yan, N., Dousios, D., <ins>Korfiatis, N.</ins>, & Chalvatzis, C. (2024). Mapping the signaling environment between sustainability-focused entrepreneurship and investment inputs: A topic modeling approach. *Business Strategy and the Environment*, Vol. 33, No. 6, pp. 5405-5422. [DOI](https://doi.org/10.1002/bse.3748)
 
-**[12]** Yang, N., <ins>Korfiatis, N.</ins>, Zissis, D., & Spanaki, K. (2024). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operations Research*, Vol. 339, pp. 631–662. [DOI](https://doi.org/10.1007/s10479-023-05336-z)
+**[11]** Yang, N., <ins>Korfiatis, N.</ins>, Zissis, D., & Spanaki, K. (2024). Incorporating Topic Membership in Review Rating Prediction from Unstructured Data: A Gradient Boosting Approach. *Annals of Operations Research*, Vol. 339, pp. 631–662. [DOI](https://doi.org/10.1007/s10479-023-05336-z)
 
-**[11]** Aykol, B., Leonidou, L., Samiee, S., & <ins>Korfiatis, N.</ins> (2022). A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review*, Vol. 62, No. 5, pp. 741–784. [DOI](https://doi.org/10.1007/s11575-022-00482-1)
+**[10]** Aykol, B., Leonidou, L., Samiee, S., & <ins>Korfiatis, N.</ins> (2022). A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review*, Vol. 62, No. 5, pp. 741–784. [DOI](https://doi.org/10.1007/s11575-022-00482-1)
 
-**[10]** Leonidou, L., Eteokleous, P., Christofi, A., & <ins>Korfiatis, N.</ins> (2022). Drivers, outcomes, and moderators of consumer intention to buy organic goods: Meta-analysis, implications, and future agenda. *Journal of Business Research*, Vol. 151, pp. 339-354. [DOI](https://doi.org/10.1016/j.jbusres.2022.06.027)
+**[9]** Leonidou, L., Eteokleous, P., Christofi, A., & <ins>Korfiatis, N.</ins> (2022). Drivers, outcomes, and moderators of consumer intention to buy organic goods: Meta-analysis, implications, and future agenda. *Journal of Business Research*, Vol. 151, pp. 339-354. [DOI](https://doi.org/10.1016/j.jbusres.2022.06.027)
 
-**[9]** Chopdar, P., Paul, J., <ins>Korfiatis, N.</ins>, & Lytras, M. (2022). Examining the role of consumer impulsiveness in multiple app usage behavior among mobile shoppers. *Journal of Business Research*, Vol. 140, pp. 657-669. [DOI](https://doi.org/10.1016/j.jbusres.2021.11.031)
+**[8]** Chopdar, P., Paul, J., <ins>Korfiatis, N.</ins>, & Lytras, M. (2022). Examining the role of consumer impulsiveness in multiple app usage behavior among mobile shoppers. *Journal of Business Research*, Vol. 140, pp. 657-669. [DOI](https://doi.org/10.1016/j.jbusres.2021.11.031)
 
-**[8]** Tsolakis, N., Zissis, D., Papaeuthimiou, S., & <ins>Korfiatis, N.</ins> (2022). Towards AI driven environmental sustainability: an application of automated logistics in container port terminals. *International Journal of Production Research*, Vol. 60, No. 14, pp. 4508-4528. [DOI](https://doi.org/10.1080/00207543.2021.1914355)
+**[7]** Tsolakis, N., Zissis, D., Papaeuthimiou, S., & <ins>Korfiatis, N.</ins> (2022). Towards AI driven environmental sustainability: an application of automated logistics in container port terminals. *International Journal of Production Research*, Vol. 60, No. 14, pp. 4508-4528. [DOI](https://doi.org/10.1080/00207543.2021.1914355)
 
-**[7]** Stamolampros, P., Dousios, D., & <ins>Korfiatis, N.</ins> (2020). Evaluating Domestic Bias on Airline Passengers' Online Reviews: The Moderating Effect of Cultural Value Orientation. *International Journal of Hospitality Management*, Vol. 87, pp. 102466. [DOI](https://doi.org/10.1016/j.ijhm.2020.102466)
+**[6]** Stamolampros, P., Dousios, D., & <ins>Korfiatis, N.</ins> (2020). Evaluating Domestic Bias on Airline Passengers' Online Reviews: The Moderating Effect of Cultural Value Orientation. *International Journal of Hospitality Management*, Vol. 87, pp. 102466. [DOI](https://doi.org/10.1016/j.ijhm.2020.102466)
 
-**[6]** Huang, G., <ins>Korfiatis, N.</ins>, & Chang, C. (2018). Mobile Shopping Cart Abandonment: The role of Conflicts, Ambivalence and Hesitation. *Journal of Business Research*, Vol. 85, No. C, pp. 165-174. [DOI](https://doi.org/10.1016/j.jbusres.2017.12.008)
+**[5]** Huang, G., <ins>Korfiatis, N.</ins>, & Chang, C. (2018). Mobile Shopping Cart Abandonment: The role of Conflicts, Ambivalence and Hesitation. *Journal of Business Research*, Vol. 85, No. C, pp. 165-174. [DOI](https://doi.org/10.1016/j.jbusres.2017.12.008)
 
-**[5]** Stamolampros, P., <ins>Korfiatis, N.</ins>, & Symitsi, E. (2018). Exploring the Behavioral Drivers of Review Valence: The Direct and Indirect Effects of Multiple Psychological Distances. *International Journal of Contemporary Hospitality Management*, Vol. 30, No. 10, pp. 3083-3099. [DOI](https://doi.org/10.1108/IJCHM-04-2017-0239)
+**[4]** Stamolampros, P., <ins>Korfiatis, N.</ins>, & Symitsi, E. (2018). Exploring the Behavioral Drivers of Review Valence: The Direct and Indirect Effects of Multiple Psychological Distances. *International Journal of Contemporary Hospitality Management*, Vol. 30, No. 10, pp. 3083-3099. [DOI](https://doi.org/10.1108/IJCHM-04-2017-0239)
 
-**[4]** Lavranos, C., Kostagiolas, P., <ins>Korfiatis, N.</ins>, & Papadatos, J. (2016). Information seeking for musical creativity: A systematic literature review. *Journal of the American Society for Information Science and Technology*, Vol. 67, No. 9, pp. 2105-2117. [DOI](https://doi.org/10.1002/asi.23534)
+**[3]** Lavranos, C., Kostagiolas, P., <ins>Korfiatis, N.</ins>, & Papadatos, J. (2016). Information seeking for musical creativity: A systematic literature review. *Journal of the American Society for Information Science and Technology*, Vol. 67, No. 9, pp. 2105-2117. [DOI](https://doi.org/10.1002/asi.23534)
 
-**[3]** Huang, G., & <ins>Korfiatis, N.</ins> (2015). Trying before buying: The moderating role of online reviews in trial attitude formation towards mobile apps. *International Journal of Electronic Commerce*, Vol. 19, No. 4, pp. 77-111. [DOI](https://doi.org/10.1080/10864415.2015.1029359)
-
-**[2]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, Vol. 40, No. 14, pp. 5507-5515. [DOI](https://doi.org/10.1016/j.eswa.2013.03.046)
+**[2]** Huang, G., & <ins>Korfiatis, N.</ins> (2015). Trying before buying: The moderating role of online reviews in trial attitude formation towards mobile apps. *International Journal of Electronic Commerce*, Vol. 19, No. 4, pp. 77-111. [DOI](https://doi.org/10.1080/10864415.2015.1029359)
 
 **[1]** Wu, P., & <ins>Korfiatis, N.</ins> (2013). You Scratch Someone's Back and We'll Scratch Yours: Collective Reciprocity in Social Q&A Communities. *Journal of the American Society for Information Science and Technology (JASIST)*, Vol. 64, No. 10, pp. 2069-2077. [DOI](https://doi.org/10.1002/asi.22913)
 
@@ -74,10 +72,12 @@ _Publications ranked according to the Chartered Association of Business Schools 
 
 ## CABS 1
 
-**[4]** Argyropoulou, M., Zissis, D., <ins>Korfiatis, N.</ins>, & Zampou, E. (2023). Horizontal collaboration in the last mile distribution: Gauging managerial response to disruption and abnormal demand. *Benchmarking: An International Journal*, Vol. 30, No. 2, pp. 460–474. [DOI](https://doi.org/10.1108/BIJ-06-2021-0328)
+**[5]** Argyropoulou, M., Zissis, D., <ins>Korfiatis, N.</ins>, & Zampou, E. (2023). Horizontal collaboration in the last mile distribution: Gauging managerial response to disruption and abnormal demand. *Benchmarking: An International Journal*, Vol. 30, No. 2, pp. 460–474. [DOI](https://doi.org/10.1108/BIJ-06-2021-0328)
 
-**[3]** Stamolampros, P., & <ins>Korfiatis, N.</ins> (2019). Airline service quality and economic factors: An ARDL approach on US airlines. *Journal of Air Transport Management*, Vol. 77, pp. 24-31. [DOI](https://doi.org/10.1016/j.jairtraman.2019.03.002)
+**[4]** Stamolampros, P., & <ins>Korfiatis, N.</ins> (2019). Airline service quality and economic factors: An ARDL approach on US airlines. *Journal of Air Transport Management*, Vol. 77, pp. 24-31. [DOI](https://doi.org/10.1016/j.jairtraman.2019.03.002)
 
-**[2]** <ins>Korfiatis, N.</ins>, Stamolampros, P., Kourouthanassis, P., & Sagiadinos, V. (2019). Measuring service quality from unstructured data: A topic modeling application on airline passengers' online reviews. *Expert Systems with Applications*, Vol. 116, pp. 472-486. [DOI](https://doi.org/10.1016/j.eswa.2018.09.037)
+**[3]** <ins>Korfiatis, N.</ins>, Stamolampros, P., Kourouthanassis, P., & Sagiadinos, V. (2019). Measuring service quality from unstructured data: A topic modeling application on airline passengers' online reviews. *Expert Systems with Applications*, Vol. 116, pp. 472-486. [DOI](https://doi.org/10.1016/j.eswa.2018.09.037)
+
+**[2]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, Vol. 40, No. 14, pp. 5507-5515. [DOI](https://doi.org/10.1016/j.eswa.2013.03.046)
 
 **[1]** <ins>Korfiatis, N.</ins>, Poulos, M., & Bokos, G. (2006). Evaluating authoritative sources using social networks: an insight from Wikipedia. *Online Information Review*, Vol. 30, No. 3, pp. 252-262. [DOI](https://doi.org/10.1108/14684520610675780)

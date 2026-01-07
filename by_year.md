@@ -166,7 +166,7 @@ _All publications grouped by year of publication_
 
 ## 2013
 
-**[5]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, Vol. 40, No. 14, pp. 5507-5515. **(CABS 3)** [DOI](https://doi.org/10.1016/j.eswa.2013.03.046)
+**[5]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, Vol. 40, No. 14, pp. 5507-5515. **(CABS 1)** [DOI](https://doi.org/10.1016/j.eswa.2013.03.046)
 
 **[4]** Wu, P., & <ins>Korfiatis, N.</ins> (2013). You Scratch Someone's Back and We'll Scratch Yours: Collective Reciprocity in Social Q&A Communities. *Journal of the American Society for Information Science and Technology (JASIST)*, Vol. 64, No. 10, pp. 2069-2077. **(CABS 3)** [DOI](https://doi.org/10.1002/asi.22913)
 

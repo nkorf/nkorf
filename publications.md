@@ -100,7 +100,7 @@ _Note: CABS denotes classification ranked according to the Chartered Association
 
 **[13]** Kostagiolas, P., <ins>Korfiatis, N.</ins>, Kourouthanassis, P., & Alexias, G. (2014). Work-related factors influencing doctors search behaviours and trust towards medical information resources. *International Journal of Information Management*, Vol. 34, No. 2, pp. 80–88. **(CABS 2)** [DOI](https://doi.org/10.1016/j.ijinfomgt.2013.11.009)
 
-**[12]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, Vol. 40, No. 14, pp. 5507-5515. **(CABS 3)** [DOI](https://doi.org/10.1016/j.eswa.2013.03.046)
+**[12]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, Vol. 40, No. 14, pp. 5507-5515. **(CABS 1)** [DOI](https://doi.org/10.1016/j.eswa.2013.03.046)
 
 **[11]** Wu, P., & <ins>Korfiatis, N.</ins> (2013). You Scratch Someone's Back and We'll Scratch Yours: Collective Reciprocity in Social Q&A Communities. *Journal of the American Society for Information Science and Technology (JASIST)*, Vol. 64, No. 10, pp. 2069-2077. **(CABS 3)** [DOI](https://doi.org/10.1002/asi.22913)
 
