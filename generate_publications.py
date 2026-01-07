@@ -470,17 +470,54 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
         "",
     ]
 
+    def format_coauthors(authors_str):
+        """Format co-authors, excluding Korfiatis."""
+        if not authors_str:
+            return ""
+        authors = [a.strip() for a in authors_str.replace('\n', ' ').split(' and ')]
+        coauthors = []
+        for author in authors:
+            if 'korfiatis' not in author.lower():
+                # Handle "Last, First" format
+                if ',' in author:
+                    parts = author.split(',', 1)
+                    last = parts[0].strip().replace('{', '').replace('}', '').replace("'", '').replace('\\', '')
+                    first = parts[1].strip() if len(parts) > 1 else ""
+                else:
+                    parts = author.strip().split()
+                    if len(parts) >= 2:
+                        last = parts[-1]
+                        first = ' '.join(parts[:-1])
+                    else:
+                        last = author
+                        first = ""
+                # Get initials
+                if first:
+                    initials = '.'.join([n[0].upper() for n in first.split() if n]) + '.'
+                    coauthors.append(f"{last}, {initials}")
+                else:
+                    coauthors.append(last)
+        if not coauthors:
+            return ""
+        if len(coauthors) == 1:
+            return coauthors[0]
+        return ', '.join(coauthors[:-1]) + ' and ' + coauthors[-1]
+
     total = len(impact_entries)
     for i, entry in enumerate(impact_entries):
         num = total - i
         # Get publication details
         title = entry.get('title', '').replace('{', '').replace('}', '')
         journal = entry.get('journal', '')
+        year = entry.get('year', '')
         cabs = entry.get('cabs', '')
         doi = entry.get('doi', '')
+        authors = entry.get('author', '')
 
         cabs_str = f" (CABS {cabs})" if cabs else ""
         doi_link = f" [DOI](https://doi.org/{doi})" if doi else ""
+        coauthors = format_coauthors(authors)
+        coauthor_str = f", co-authored with {coauthors}" if coauthors else ""
 
         # Parse all policy citations (multiple separated by ;;)
         citations_str = entry.get('policycitation', '')
@@ -496,7 +533,7 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
                     cite_title = citation.strip()
                     cite_source = ""
                     cite_year = ""
-                lines.append(f"**[{num}]** The paper «{title}» published in *{journal}*{cabs_str} has been cited in the document «{cite_title}» ({cite_year}) by *{cite_source}*.{doi_link}")
+                lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}, has been cited in the document «{cite_title}» ({cite_year}) by *{cite_source}*.{doi_link}")
                 lines.append("")
 
         # Parse all patent citations (format: title|company|patent_id|year)
@@ -515,7 +552,7 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
                     patent_company = ""
                     patent_id = ""
                     patent_year = ""
-                lines.append(f"**[{num}]** The paper «{title}» published in *{journal}*{cabs_str} has been cited as Prior Art in the *{patent_company}* patent titled «{patent_title}» with USPTO assignment code [{patent_id}](https://patents.google.com/patent/{patent_id}) ({patent_year}).{doi_link}")
+                lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}, has been cited as Prior Art in the *{patent_company}* patent titled «{patent_title}» with USPTO assignment code [{patent_id}](https://patents.google.com/patent/{patent_id}) ({patent_year}).{doi_link}")
                 lines.append("")
 
     with open(output_file, 'w', encoding='utf-8') as f:
