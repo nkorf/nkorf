@@ -417,36 +417,14 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
     # Filter entries with policy citations or patent citations
     impact_entries = [e for e in entries if e.get('policycitation', '') or e.get('patentcitation', '')]
 
-    # Parse all citations and get the max year for sorting
-    def get_max_citation_year(entry):
-        max_year = 0
-        # Check policy citations
-        citations_str = entry.get('policycitation', '')
-        if citations_str:
-            citations = citations_str.split(';;')
-            for citation in citations:
-                parts = citation.split('|')
-                if len(parts) >= 3:
-                    try:
-                        year = int(parts[2].strip())
-                        max_year = max(max_year, year)
-                    except ValueError:
-                        pass
-        # Check patent citations (format: title|company|patent_id|year)
-        patent_str = entry.get('patentcitation', '')
-        if patent_str:
-            patents = patent_str.split(';;')
-            for patent in patents:
-                parts = patent.split('|')
-                if len(parts) >= 4:
-                    try:
-                        year = int(parts[3].strip())
-                        max_year = max(max_year, year)
-                    except ValueError:
-                        pass
-        return max_year
+    # Sort by publication year (most recent first)
+    def get_publication_year(entry):
+        try:
+            return int(entry.get('year', '0'))
+        except ValueError:
+            return 0
 
-    impact_entries.sort(key=get_max_citation_year, reverse=True)
+    impact_entries.sort(key=get_publication_year, reverse=True)
 
     # Count total citations
     total_policy = 0
