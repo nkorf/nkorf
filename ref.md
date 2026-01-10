@@ -14,13 +14,13 @@ _Publications ranked according to the Chartered Association of Business Schools 
 
 **[5]** Symitsi, E., Stamolampros, P., Daskalakis, G., & <ins>Korfiatis, N.</ins> (2021). The informational value of employee online reviews. *European Journal of Operational Research*, Vol. 288, No. 2, pp. 605-619. [DOI](https://doi.org/10.1016/j.ejor.2020.06.001)
 
-**[4]** Stamolampros, P., Dousios, D., <ins>Korfiatis, N.</ins>, & Symitsi, E. (2020). The Joint Effect of Consumer and Service Providers' Culture on Online Service Evaluations: A Response Surface Analysis. *Tourism Management*, Vol. 78, pp. 104057. [DOI](https://doi.org/10.1016/j.tourman.2019.104057)
+**[4]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Chalvatzis, K., & Buhalis, D. (2020). Harnessing the Wisdom of Employees from Online Reviews. *Annals of Tourism Research*, Vol. 80, pp. 102694. [DOI](https://doi.org/10.1016/j.annals.2019.02.012)
 
-**[3]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Chalvatzis, K., & Buhalis, D. (2020). Harnessing the Wisdom of Employees from Online Reviews. *Annals of Tourism Research*, Vol. 80, pp. 102694. [DOI](https://doi.org/10.1016/j.annals.2019.02.012)
+**[3]** Stamolampros, P., Dousios, D., <ins>Korfiatis, N.</ins>, & Symitsi, E. (2020). The Joint Effect of Consumer and Service Providers' Culture on Online Service Evaluations: A Response Surface Analysis. *Tourism Management*, Vol. 78, pp. 104057. [DOI](https://doi.org/10.1016/j.tourman.2019.104057)
 
-**[2]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Chalvatzis, K., & Buhalis, D. (2019). Job Satisfaction and Employee Turnover Determinants in High Contact Services: Insights from Employees' Online Reviews. *Tourism Management*, Vol. 75, pp. 130-147. [DOI](https://doi.org/10.1016/j.tourman.2019.04.030)
+**[2]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Kourouthanassis, P., & Symitsi, E. (2019). Flying to Quality: Cultural Influences on Online Reviews. *Journal of Travel Research*, Vol. 58, No. 3, pp. 496-511. [DOI](https://doi.org/10.1177/0047287518764345)
 
-**[1]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Kourouthanassis, P., & Symitsi, E. (2019). Flying to Quality: Cultural Influences on Online Reviews. *Journal of Travel Research*, Vol. 58, No. 3, pp. 496-511. [DOI](https://doi.org/10.1177/0047287518764345)
+**[1]** Stamolampros, P., <ins>Korfiatis, N.</ins>, Chalvatzis, K., & Buhalis, D. (2019). Job Satisfaction and Employee Turnover Determinants in High Contact Services: Insights from Employees' Online Reviews. *Tourism Management*, Vol. 75, pp. 130-147. [DOI](https://doi.org/10.1016/j.tourman.2019.04.030)
 
 ---
 
@@ -34,9 +34,9 @@ _Publications ranked according to the Chartered Association of Business Schools 
 
 **[10]** Aykol, B., Leonidou, L., Samiee, S., & <ins>Korfiatis, N.</ins> (2022). A meta-analysis of the antecedents and outcomes of consumer foreign country image perceptions: The moderating role of macro-level country differences. *Management International Review*, Vol. 62, No. 5, pp. 741–784. [DOI](https://doi.org/10.1007/s11575-022-00482-1)
 
-**[9]** Leonidou, L., Eteokleous, P., Christofi, A., & <ins>Korfiatis, N.</ins> (2022). Drivers, outcomes, and moderators of consumer intention to buy organic goods: Meta-analysis, implications, and future agenda. *Journal of Business Research*, Vol. 151, pp. 339-354. [DOI](https://doi.org/10.1016/j.jbusres.2022.06.027)
+**[9]** Chopdar, P., Paul, J., <ins>Korfiatis, N.</ins>, & Lytras, M. (2022). Examining the role of consumer impulsiveness in multiple app usage behavior among mobile shoppers. *Journal of Business Research*, Vol. 140, pp. 657-669. [DOI](https://doi.org/10.1016/j.jbusres.2021.11.031)
 
-**[8]** Chopdar, P., Paul, J., <ins>Korfiatis, N.</ins>, & Lytras, M. (2022). Examining the role of consumer impulsiveness in multiple app usage behavior among mobile shoppers. *Journal of Business Research*, Vol. 140, pp. 657-669. [DOI](https://doi.org/10.1016/j.jbusres.2021.11.031)
+**[8]** Leonidou, L., Eteokleous, P., Christofi, A., & <ins>Korfiatis, N.</ins> (2022). Drivers, outcomes, and moderators of consumer intention to buy organic goods: Meta-analysis, implications, and future agenda. *Journal of Business Research*, Vol. 151, pp. 339-354. [DOI](https://doi.org/10.1016/j.jbusres.2022.06.027)
 
 **[7]** Tsolakis, N., Zissis, D., Papaeuthimiou, S., & <ins>Korfiatis, N.</ins> (2022). Towards AI driven environmental sustainability: an application of automated logistics in container port terminals. *International Journal of Production Research*, Vol. 60, No. 14, pp. 4508-4528. [DOI](https://doi.org/10.1080/00207543.2021.1914355)
 
@@ -74,9 +74,9 @@ _Publications ranked according to the Chartered Association of Business Schools 
 
 **[5]** Argyropoulou, M., Zissis, D., <ins>Korfiatis, N.</ins>, & Zampou, E. (2023). Horizontal collaboration in the last mile distribution: Gauging managerial response to disruption and abnormal demand. *Benchmarking: An International Journal*, Vol. 30, No. 2, pp. 460–474. [DOI](https://doi.org/10.1108/BIJ-06-2021-0328)
 
-**[4]** Stamolampros, P., & <ins>Korfiatis, N.</ins> (2019). Airline service quality and economic factors: An ARDL approach on US airlines. *Journal of Air Transport Management*, Vol. 77, pp. 24-31. [DOI](https://doi.org/10.1016/j.jairtraman.2019.03.002)
+**[4]** <ins>Korfiatis, N.</ins>, Stamolampros, P., Kourouthanassis, P., & Sagiadinos, V. (2019). Measuring service quality from unstructured data: A topic modeling application on airline passengers' online reviews. *Expert Systems with Applications*, Vol. 116, pp. 472-486. [DOI](https://doi.org/10.1016/j.eswa.2018.09.037)
 
-**[3]** <ins>Korfiatis, N.</ins>, Stamolampros, P., Kourouthanassis, P., & Sagiadinos, V. (2019). Measuring service quality from unstructured data: A topic modeling application on airline passengers' online reviews. *Expert Systems with Applications*, Vol. 116, pp. 472-486. [DOI](https://doi.org/10.1016/j.eswa.2018.09.037)
+**[3]** Stamolampros, P., & <ins>Korfiatis, N.</ins> (2019). Airline service quality and economic factors: An ARDL approach on US airlines. *Journal of Air Transport Management*, Vol. 77, pp. 24-31. [DOI](https://doi.org/10.1016/j.jairtraman.2019.03.002)
 
 **[2]** <ins>Korfiatis, N.</ins>, & Poulos, M. (2013). Using Online Consumer Reviews as a Source for Demographic Recommendations: A Case Study Using Online Travel Reviews. *Expert Systems with Applications*, Vol. 40, No. 14, pp. 5507-5515. [DOI](https://doi.org/10.1016/j.eswa.2013.03.046)
 

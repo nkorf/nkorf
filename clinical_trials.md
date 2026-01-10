@@ -8,23 +8,23 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
 ## Lung Cancer
 
-**[5]** ClinicalTrials.gov Identifier: **[NCT03568097](https://clinicaltrials.gov/study/NCT03568097)** - PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer [Phase II]
-
-   * Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final Outcome, Immunophenotypic and biomarker analysis. *European Journal of Cancer*, Vol. 228, pp. 115660.
-
-   * Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2024). Final outcome, immunophenotypic and biomarker analysis of intercalated avelumab plus platinum-based chemotherapy in patients with extensive-stage small cell lung cancer (PAVE). *ESMO Open*, Vol. 9, pp. 102770. [DOI](https://doi.org/10.1016/j.esmoop.2024.102770)
-
-**[4]** ClinicalTrials.gov Identifier: **[NCT05372081](https://clinicaltrials.gov/study/NCT05372081)** - SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC [Non-interventional]
+**[5]** ClinicalTrials.gov Identifier: **[NCT05372081](https://clinicaltrials.gov/study/NCT05372081)** - SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC [Non-interventional]
 
    * Kosmidis, P., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2025). SNF-CLIMEDIN: A HECOG prospective randomized trial of digital support and intervention in patients with advanced NSCLC—Final results. *Journal of Clinical Oncology*, Vol. 43, No. 16_suppl, pp. 1515-1515.
 
    * Kosmidis, P., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2025). Frequency of Adverse Events Reported Digitally by Patients with Advanced NSCLC: Analysis From CLIMEDIN, a HeCOG Study. *Journal of Thoracic Oncology*, Vol. 20, No. 10, pp. S392.
 
-   * Linardou, H., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Kosmidis, P. (2024). Analysis of evolution of patient reported side effects during treatment for advanced NSCLC. *Annals of Oncology*, Vol. 35, pp. S863-S864.
-
    * Kosmidis, P., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2024). SNF-CLIMEDIN: A prospective randomized trial of digital intervention in patients with advanced NSCLC—A HeCOG study. *Journal of Clinical Oncology*, Vol. 42, No. 16_suppl, pp. 1520-1520.
 
+   * Linardou, H., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Kosmidis, P. (2024). Analysis of evolution of patient reported side effects during treatment for advanced NSCLC. *Annals of Oncology*, Vol. 35, pp. S863-S864.
+
    * Linardou, H., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Vozikis, A., Fountzilas, G., & Kosmidis, P. (2023). Clinical and molecular study with digital support of advanced non-small cell lung cancer patients: SNF-CLIMEDIN, a prospective randomized Hellenic Cooperative Oncology Group study. *Annals of Oncology*, Vol. 34, pp. S816-S817.
+
+**[4]** ClinicalTrials.gov Identifier: **[NCT03568097](https://clinicaltrials.gov/study/NCT03568097)** - PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer [Phase II]
+
+   * Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final Outcome, Immunophenotypic and biomarker analysis. *European Journal of Cancer*, Vol. 228, pp. 115660.
+
+   * Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2024). Final outcome, immunophenotypic and biomarker analysis of intercalated avelumab plus platinum-based chemotherapy in patients with extensive-stage small cell lung cancer (PAVE). *ESMO Open*, Vol. 9, pp. 102770. [DOI](https://doi.org/10.1016/j.esmoop.2024.102770)
 
 ---
 

@@ -10,6 +10,9 @@
 \usepackage{fancyhdr}
 \usepackage{lastpage}
 \usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{fontawesome5}
 
 % Page geometry
 \geometry{left=1in, right=1in, top=1in, bottom=1in}
@@ -42,31 +45,30 @@
 
 \begin{document}
 
-% Title
-\begin{center}
-{\LARGE\bfseries\color{navy} Professor Nikolaos Korfiatis, FRSA FHEA}\\[4pt]
-{\large Curriculum Vitae}\\[8pt]
-{\small Last updated: January 2025}
-\end{center}
-
-\vspace{12pt}
-
-% Contact Information
-\section{Contact Information}
-\begin{tabular}{@{}ll@{\hspace{2cm}}ll@{}}
-\textbf{Position:} & Professor & \textbf{Phone:} & +44(0)7479018665 \\
-\textbf{Department:} & Informatics & \textbf{Email:} & n.korfiatis@ionio.gr \\
-\textbf{Institution:} & Ionian University & \textbf{Web:} & \href{https://nkorf.github.io/nkorf}{nkorf.github.io/nkorf} \\
-\textbf{Address:} & Corfu, Greece & \textbf{ORCID:} & \href{https://orcid.org/0000-0001-8142-8377}{0000-0001-8142-8377} \\
-\end{tabular}
+% Header with photo
+\noindent
+\begin{minipage}[t]{0.22\textwidth}
+\vspace{0pt}
+\includegraphics[width=\linewidth]{photo.jpg}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.74\textwidth}
+\raggedright
+\vspace{0pt}
+{\LARGE\bfseries\color{navy} Professor Nikolaos Korfiatis}{\normalsize\color{darkgray}, FRSA, FHEA}\\[6pt]
+Professor of Data Management, Department of Informatics,\\
+School of Information Science and Informatics, Ionian University\\
+Plateia Iatrou Tsirigoti 7, GR-49100, Corfu, Greece\\[8pt]
+{\color{accent}\faPhone}\ +30 26610 87758 \quad {\color{accent}\faEnvelope}\ \href{mailto:n.korfiatis@ionio.gr}{n.korfiatis@ionio.gr}\\[2pt]
+{\color{accent}\faGithub}\ \href{https://github.com/nkorf}{github.com/nkorf} \quad {\color{accent}\faGraduationCap}\ \href{https://scholar.google.com/citations?user=T4VGRUIAAAAJ}{Google Scholar} \quad {\color{accent}\faOrcid}\ \href{https://orcid.org/0000-0001-8142-8377}{0000-0001-8142-8377}
+\end{minipage}
 
 % Education
 \section{Education}
 \begin{itemize}[leftmargin=*, topsep=0pt, itemsep=6pt]
     \item \textbf{PhD in Informatics}, Copenhagen Business School (CBS), Denmark, 2009\\
     {\small Thesis: ``Information Exchange and Behavior: A Multi-method Inquiry on Online Communities''\\
-    Supervisor: Professor Volker Mahnke\\
-    PhD Series No. 13.2009, 305 pages}
+    Supervisor: Professor Volker Mahnke (Committee: Torkil Clemensen (CBS), Hans van der Heijden (Surrey), Roberto Zicari (Frankfurt))}
 
     \item \textbf{MSc in Interactive Systems Engineering}, Royal Institute of Technology (KTH), Sweden, 2005\\
     {\small Specialization: Information Retrieval and Human-Computer Interaction\\
@@ -89,7 +91,7 @@
     \item \textbf{Assistant Professor in Business Analytics} \hfill 2015 -- 2016\\
     Norwich Business School, University of East Anglia, United Kingdom
 
-    \item \textbf{Director, Big Data Laboratory / Lecturer} \hfill 2011 -- 2015\\
+    \item \textbf{Director, Big Data Laboratory / Senior Researcher} \hfill 2011 -- 2015\\
     Department of Informatics and Mathematics, Goethe University Frankfurt, Germany
 
     \item \textbf{Postdoctoral Researcher} \hfill 2009 -- 2011\\
@@ -108,15 +110,14 @@
 \end{itemize}
 
 % Research Impact
-\section{Research Impact}
+\section{Research Impact and Bibliometrics}
 \begin{itemize}[leftmargin=*, topsep=0pt, itemsep=4pt]
     \item \textbf{Google Scholar}: 4,500+ citations, h-index 30
-    \item \textbf{Publications}: 89+ peer-reviewed articles
+    \item \textbf{Publications}: 89+ peer-reviewed articles in international journals and conferences (75\% in Scimago Q1 journals)
     \item \textbf{CABS-Ranked Journals}: 7 publications in CABS 4* journals, 13 in CABS 3*, 6 in CABS 2*, 5 in CABS 1*
-    \item \textbf{Policy Impact}: Research cited by OECD, UNESCO, European Commission, Inter-American Development Bank
-    \item \textbf{Patent Citation}: IBM Patent US10755363B2 (Prior Art)
-    \item \textbf{Media Coverage}: The Telegraph, Guardian, Times of India, Sydney Morning Herald
 \end{itemize}
+\vspace{4pt}
+\noindent Research cited by OECD, UNESCO, European Commission, and Inter-American Development Bank. Referenced as prior art in IBM Patent US10755363B2. Media coverage includes The Telegraph, Guardian, Times of India, and Sydney Morning Herald.
 
 % Clinical Trials
 \section{Clinical Trials}
@@ -173,18 +174,20 @@
 \section{PhD Supervision}
 \subsection{Completed (First Placement)}
 \begin{itemize}[leftmargin=*, topsep=0pt, itemsep=4pt]
-    \item Panagiotis Stamolampros (UEA, 2019) $\rightarrow$ University of Leeds
-    \item Yimeng Li (UEA, 2020) $\rightarrow$ School of Management, Guizhou University, Guiyang
-    \item Nancy Yang (UEA, 2021) $\rightarrow$ Warwick Business School
-    \item Rasem Quidah (UEA, 2023) $\rightarrow$ University of Suffolk
-    \item Fahad Alaboush (UEA, 2024) $\rightarrow$ University of Hail, Kingdom of Saudi Arabia
-    \item Rawan Quidah (UEA, 2024) $\rightarrow$ University of East Anglia
+    \item Panagiotis Stamolampros (University of East Anglia, 2019) $\rightarrow$ University of Leeds
+    \item Yimeng Li (University of East Anglia, 2020) $\rightarrow$ School of Management, Guizhou University, Guiyang
+    \item Nancy Yang (University of East Anglia, 2021) $\rightarrow$ Warwick Business School
+    \item Rasem Quidah (University of East Anglia, 2023) $\rightarrow$ University of Suffolk
+    \item Fahad Alaboush (University of East Anglia, 2024) $\rightarrow$ University of Hail, Kingdom of Saudi Arabia
+    \item Rawan Quidah (University of East Anglia, 2024) $\rightarrow$ University of East Anglia
 \end{itemize}
 
 \subsection{Current}
 \begin{itemize}[leftmargin=*, topsep=0pt, itemsep=4pt]
-    \item Andreas Ringas (Ionian University, 2025--)
-    \item Alexandra Diavati (Ionian University, 2025--)
+    \item Halla Obeidat (Norwich Business School, University of East Anglia, 2021--)
+    \item Andreas Ringas (Department of Informatics, Ionian University, 2025--)
+    \item Alexandra Diavati (Department of Informatics, Ionian University, 2025--)
+    \item Angelos Papavlassopoulos (Department of Information Science, Ionian University, 2026--) [co-supervisor]
 \end{itemize}
 
 % Professional Activities

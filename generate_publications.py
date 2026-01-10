@@ -626,6 +626,8 @@ def format_entry_latex(entry):
     doi = entry.get('doi', '')
     url = entry.get('url', '')
     editor = entry.get('editor', '')
+    cabs = entry.get('cabs', '')  # CABS ranking
+    scimago = entry.get('scimago', '')  # Scimago quartile
 
     # Escape special chars in journal/booktitle
     journal = escape_latex(journal)
@@ -665,9 +667,28 @@ def format_entry_latex(entry):
         if publisher:
             result += f" {publisher}."
 
-    # Add DOI link if present
+    # Add CABS ranking and Scimago quartile if present
+    rankings = []
+    if cabs:
+        rankings.append(f"CABS {cabs}")
+    if scimago:
+        rankings.append(f"Scimago {scimago}")
+    if rankings:
+        result += f" \\textbf{{({', '.join(rankings)})}}"
+
+    # Add URL links if present
+    urls = []
     if doi:
-        result += f" \\href{{https://doi.org/{doi}}}{{DOI}}"
+        urls.append(f"\\href{{https://doi.org/{doi}}}{{DOI}}")
+    if url:
+        urlname = entry.get('urlname', 'Link')
+        urls.append(f"\\href{{{url}}}{{{urlname}}}")
+    url2 = entry.get('url2', '')
+    if url2:
+        urlname2 = entry.get('urlname2', 'Link')
+        urls.append(f"\\href{{{url2}}}{{{urlname2}}}")
+    if urls:
+        result += " " + " | ".join(urls)
 
     return result
 
