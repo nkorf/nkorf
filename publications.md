@@ -134,7 +134,11 @@ _Note: CABS denotes classification ranked according to the Chartered Association
 
 ## Conference Proceedings
 
-**[24]** Kleitsikas, C., <ins>Korfiatis, N.</ins>, Leonardos, S., & Ventre, C. (2025). Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data. *IEEE International Conference on Blockchain and Cryptocurrency 2025*.
+**[26]** Fountzilas, E., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Christopoulou, A., Moirogiorgou, E., Tsoukalas, N., Petrakis, G., Gouedard, C., Zagouri, F., Stefanou, D., Kyriakou, F., Vorrias, E., Karageorgopoulou, S., Dimitrakopoulos, F., Vernadou, A., Murray, S., & Fountzilas, G. (2025). Detection of germline and somatic pathogenic variants in patients with de novo metastatic breast cancer (dnMBC) and assessment of their prognostic relevance: A Hellenic Cooperative Oncology Group (HeCOG) translational cohort study. *48th Annual San Antonio Breast Cancer Symposium (SABCS)*. San Antonio, Texas.
+
+**[25]** Kleitsikas, C., <ins>Korfiatis, N.</ins>, Leonardos, S., & Ventre, C. (2025). Bitcoin's Edge: Embedded Sentiment in Blockchain Transactional Data. *IEEE International Conference on Blockchain and Cryptocurrency 2025*.
+
+**[24]** Lakis, S., Tsolaki, E., <ins>Korfiatis, N.</ins>, Goussia, A., Kourea, H., Batistatou, A., Bobos, M., Papadopoulou, K., Charchanti, A., Bai, M., Tzaida, O., Petraki, K., Arapantoni, P., Koletsa, T., Pectasides, D., Koutras, A., Kalapanida, D., Dimitrakopoulos, F., Aravantinou-Fatorou, E., Spathas, N., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2025). Clinico-pathological and genomic features of HER2-low early Breast Cancer (eBC). Results of retrospective analysis of seven adjuvant trials by the Hellenic Cooperative Oncology Group (HeCOG). *48th Annual San Antonio Breast Cancer Symposium (SABCS)*. San Antonio, Texas.
 
 **[23]** Palla, G., <ins>Korfiatis, N.</ins>, Hatzithomas, L., Palla, P., & Lekakos, G. (2024). The Device Effect on Visitor Critique: A Study of Mobile and Desktop Museum Reviews on TripAdvisor. *Design, Operation and Evaluation of Mobile Communications. Proceedings of the 26th International Conference on Human-Computer Interaction (HCI International 2024)*, 290-300. [DOI](https://doi.org/10.1007/978-3-031-60487-4_22)
 
