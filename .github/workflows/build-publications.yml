@@ -1,0 +1,66 @@
+name: Build Publications and CV
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'publications.bib'
+      - 'generate_publications.py'
+      - 'cv_academic/nikolaos_korfiatis_academic_cv.tex'
+      - 'cv_academic/photo.jpg'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install bibtexparser>=1.4.0
+
+      - name: Generate publications (MD and LaTeX)
+        run: |
+          python generate_publications.py
+
+      - name: Setup TinyTeX
+        uses: r-lib/actions/setup-tinytex@v2
+
+      - name: Install LaTeX packages
+        run: |
+          tlmgr install fontawesome5 enumitem fancyhdr lastpage wrapfig titlesec geometry hyperref xcolor longtable graphicx
+
+      - name: Build Academic CV
+        working-directory: cv_academic
+        run: |
+          pdflatex -interaction=nonstopmode nikolaos_korfiatis_academic_cv.tex || true
+          pdflatex -interaction=nonstopmode nikolaos_korfiatis_academic_cv.tex
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add generated files
+          git add publications.md by_year.md ref.md clinical_trials.md policy_citations.md
+          git add cv_academic/publications_generated.tex
+          git add cv_academic/nikolaos_korfiatis_academic_cv.pdf
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-generate publications and CV from BibTeX"
+            git push
+          fi
