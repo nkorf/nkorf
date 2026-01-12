@@ -39,7 +39,7 @@ jobs:
 
       - name: Install LaTeX packages
         run: |
-          tlmgr install fontawesome5 enumitem fancyhdr lastpage wrapfig titlesec geometry hyperref xcolor longtable graphicx
+          tlmgr install fontawesome5 enumitem fancyhdr lastpage wrapfig titlesec tools graphics || true
 
       - name: Build Academic CV
         working-directory: cv_academic
