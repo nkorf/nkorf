@@ -8,7 +8,7 @@ _All publications grouped by year of publication_
 
 ## 2026
 
-**[1]** <ins>Korfiatis, N.</ins> (2026). grangersearch: An R Package for Exhaustive Granger Causality Testing with Tidyverse Integration. *arXiv Preprint*. [arXiv](https://arxiv.org/abs/2601.01604) | [GitHub](https://github.com/nkorf/grangersearch)
+**[1]** <ins>Korfiatis, N.</ins> (2026). grangersearch: An R Package for Exhaustive Granger Causality Testing with Tidyverse Integration. *arXiv Preprint*. R package version 0.1.0 [arXiv](https://arxiv.org/abs/2601.01604) | [GitHub](https://github.com/nkorf/grangersearch) | [CRAN](https://doi.org/10.32614/CRAN.package.grangersearch)
 
 ---
 

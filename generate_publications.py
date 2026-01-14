@@ -168,6 +168,9 @@ def format_entry_apa(entry):
     url2 = entry.get('url2', '')
     if url2:
         urls.append(f"[{entry.get('urlname2', 'Link')}]({url2})")
+    url3 = entry.get('url3', '')
+    if url3:
+        urls.append(f"[{entry.get('urlname3', 'Link')}]({url3})")
     if urls:
         result += " " + " | ".join(urls)
 
@@ -687,6 +690,10 @@ def format_entry_latex(entry):
     if url2:
         urlname2 = entry.get('urlname2', 'Link')
         urls.append(f"\\href{{{url2}}}{{{urlname2}}}")
+    url3 = entry.get('url3', '')
+    if url3:
+        urlname3 = entry.get('urlname3', 'Link')
+        urls.append(f"\\href{{{url3}}}{{{urlname3}}}")
     if urls:
         result += " " + " | ".join(urls)
 
