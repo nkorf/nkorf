@@ -37,3 +37,6 @@ ClinicalTrials.gov Identifier: **[NCT03311750](https://clinicaltrials.gov/study/
 * Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Fountzilas, G., & Linardou, H. (2025). SNF-CLIMEDIN: A HECOG prospective randomized trial of digital support and intervention in patients with advanced NSCLC. _Journal of Clinical Oncology_, 43(16_suppl), 1515-1515.
 
 [See Full List](publications.md)
+
+
+![](https://komarev.com/ghpvc/?username=nkorf)
