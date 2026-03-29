@@ -56,6 +56,8 @@ _Publications ranked according to the Chartered Association of Business Schools 
 
 ## CABS 2
 
+**[7]** Palla, E., Hatzithomas, L., Lekakos, G., & <ins>Korfiatis, N.</ins> (2026). Museum Service Recovery: Emotion Regulation in Responses to Online Negative Reviews. *Tourism Review*.
+
 **[6]** Poulos, M., <ins>Korfiatis, N.</ins>, & Papavlassopoulos, S. (2020). Assessing Stationarity in Web Analytics: A study of Bounce Rates. *Expert Systems*, Vol. 37, No. 3, pp. e12502. [DOI](https://doi.org/10.1111/exsy.12502)
 
 **[5]** Chopdar, P., <ins>Korfiatis, N.</ins>, Sivakumar, V., & Lytras, M. (2018). Mobile shopping apps adoption and perceived risks: A cross-country perspective utilising the Unified Theory of Acceptance and Use of Technology. *Computers in Human Behavior*, Vol. 86, pp. 109-128. [DOI](https://doi.org/10.1016/j.chb.2018.04.017)
