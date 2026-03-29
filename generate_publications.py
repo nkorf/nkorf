@@ -100,6 +100,8 @@ def format_entry_apa(entry):
             if pages:
                 result += f", pp. {pages}"
             result += "."
+            if note:
+                result += f" {note}."
 
     elif entry_type == 'inproceedings' or entry_type == 'conference':
         if booktitle:
@@ -638,6 +640,7 @@ def format_entry_latex(entry):
 
     result = f"{authors} ({year}). {title}."
 
+    note = entry.get('note', '')
     if entry_type == 'article':
         if journal:
             result += f" \\textit{{{journal}}}"
@@ -648,6 +651,8 @@ def format_entry_latex(entry):
             if pages:
                 result += f", pp. {pages}"
             result += "."
+            if note:
+                result += f" {escape_latex(note)}."
 
     elif entry_type == 'inproceedings' or entry_type == 'conference':
         if booktitle:

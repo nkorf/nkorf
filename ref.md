@@ -56,7 +56,7 @@ _Publications ranked according to the Chartered Association of Business Schools 
 
 ## CABS 2
 
-**[7]** Palla, E., Hatzithomas, L., Lekakos, G., & <ins>Korfiatis, N.</ins> (2026). Museum Service Recovery: Emotion Regulation in Responses to Online Negative Reviews. *Tourism Review*.
+**[7]** Palla, E., Hatzithomas, L., Lekakos, G., & <ins>Korfiatis, N.</ins> (2026). Museum Service Recovery: Emotion Regulation in Responses to Online Negative Reviews. *Tourism Review*. Forthcoming.
 
 **[6]** Poulos, M., <ins>Korfiatis, N.</ins>, & Papavlassopoulos, S. (2020). Assessing Stationarity in Web Analytics: A study of Bounce Rates. *Expert Systems*, Vol. 37, No. 3, pp. e12502. [DOI](https://doi.org/10.1111/exsy.12502)
 

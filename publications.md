@@ -28,7 +28,7 @@ _Note: CABS denotes classification ranked according to the Chartered Association
 
 **[53]** Kosmidis, P., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2026). SNF-CLIMEDIN: A Randomized Trial of Digital Support and Intervention in Patients With Advanced Non–Small Cell Lung Cancer. A Hellenic Cooperative Oncology Group Study. *Journal of Clinical Oncology: Clinical Cancer Informatics*, Vol. 10, pp. e2500234. **(NCT05372081)**
 
-**[52]** Palla, E., Hatzithomas, L., Lekakos, G., & <ins>Korfiatis, N.</ins> (2026). Museum Service Recovery: Emotion Regulation in Responses to Online Negative Reviews. *Tourism Review*. **(CABS 2)**
+**[52]** Palla, E., Hatzithomas, L., Lekakos, G., & <ins>Korfiatis, N.</ins> (2026). Museum Service Recovery: Emotion Regulation in Responses to Online Negative Reviews. *Tourism Review*. Forthcoming. **(CABS 2)**
 
 **[51]** Dousios, D., <ins>Korfiatis, N.</ins>, & Spanaki, K. (2025). The Persuasive Impact of Text and Audio Features on Technology Crowdfunding Campaigns: An empirical study on Kickstarter. *IEEE Transactions on Engineering Management*, Vol. 72, pp. 2049-2064. **(CABS 3)** [DOI](https://doi.org/10.1109/TEM.2025.3549597)
 
