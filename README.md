@@ -30,6 +30,8 @@ ClinicalTrials.gov Identifier: **[NCT03311750](https://clinicaltrials.gov/study/
 ---
 ## Recent and Forthcoming Publications
 
+* Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Economopoulou, P., Fountzila, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Petrakis, G., Fountzilas, G., & Linardou, H. (2026). Comprehensive Molecular Profiling of Advanced NSCLC in Greek Patients: A Prospective HeCOG Study. _Cancer Treatment and Research Communications_. Forthcoming.
+
 * Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Fountzilas, G., & Linardou, H. (2026). SNF-CLIMEDIN: A Randomized Trial of Digital Support and Intervention in Patients With Advanced Non–Small Cell Lung Cancer. A Hellenic Cooperative Oncology Group Study. _Journal of Clinical Oncology: Clinical Cancer Informatics_, 10, e2500234.
 
 * Fountzilas, E., Papadopoulou, K., Korfiatis, N., Goussia, A., Christopoulou, A., Moirogiorgou, E., Tsoukalas, N., Petrakis, G., Gouedard, C., Zagouri, F., Stefanou, D., Kyriakou, F., Vorrias, E., Karageorgopoulou, S., Dimitrakopoulos, F., Vernadou, A., Murray, S., & Fountzilas, G. (2026). Detection of germline and somatic pathogenic variants in patients with de novo metastatic breast cancer (dnMBC) and assessment of their prognostic relevance: A HeCOG translational cohort study. _Clinical Cancer Research_, 32(4_Supplement), PS4-02-18.
