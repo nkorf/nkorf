@@ -16,6 +16,17 @@ from collections import defaultdict
 import re
 
 
+# Clinical trial metadata: NCT ID -> (name, cancer type, phase)
+TRIAL_INFO = {
+    '03568097': ('PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer', 'Lung Cancer', 'Phase II'),
+    '05372081': ('SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC', 'Lung Cancer', 'Non-interventional'),
+    '03311750': ('A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer', 'Colorectal Cancer', 'Phase II'),
+    '02512458': ('CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases', 'Prostate Cancer', 'Translational'),
+    '04829890': ('Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer', 'Breast Cancer', 'Phase III'),
+}
+CANCER_ORDER = ['Lung Cancer', 'Colorectal Cancer', 'Prostate Cancer', 'Breast Cancer']
+
+
 def format_authors_apa(authors_str, highlight_author="Korfiatis"):
     """Format authors in APA style: Last, F.I., Last, F.I., & Last, F.I.
 
@@ -252,14 +263,7 @@ def generate_markdown(entries, output_file='publications.md'):
 def generate_clinical_trials(entries, output_file='clinical_trials.md'):
     """Generate clinical trials markdown file from BibTeX entries."""
 
-    # Clinical trial metadata: NCT ID -> (name, cancer type, phase)
-    trial_info = {
-        '03568097': ('PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer', 'Lung Cancer', 'Phase II'),
-        '05372081': ('SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC', 'Lung Cancer', 'Non-interventional'),
-        '03311750': ('A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer', 'Colorectal Cancer', 'Phase II'),
-        '02512458': ('CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases', 'Prostate Cancer', 'Translational'),
-        '04829890': ('Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer', 'Breast Cancer', 'Phase III'),
-    }
+    trial_info = TRIAL_INFO
 
     # Group entries by NCT ID
     trials = defaultdict(list)
@@ -280,7 +284,7 @@ def generate_clinical_trials(entries, output_file='clinical_trials.md'):
             cancer_types[cancer_type].append((nct, pubs))
 
     # Order cancer types
-    cancer_order = ['Lung Cancer', 'Colorectal Cancer', 'Prostate Cancer', 'Breast Cancer']
+    cancer_order = CANCER_ORDER
 
     lines = [
         "[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[By Year]](by_year.md)  [[Policy Impact]](policy_citations.md)",
@@ -799,6 +803,81 @@ def generate_latex_publications(entries, output_file='cv_academic/publications_g
     print(f"Generated {output_file} with LaTeX publications")
 
 
+def format_entry_readme(entry):
+    """Compact APA-ish single-line format used in the README (no author underline,
+    no CABS/NCT badges): 'Authors (year). Title. *Journal*, vol(number), pages.'"""
+    authors = format_authors_apa(entry.get('author', ''), highlight_author='')
+    year = entry.get('year', '')
+    title = entry.get('title', '').replace('{', '').replace('}', '').replace('---', '—').replace('--', '–')
+    journal = entry.get('journal', '')
+    volume = entry.get('volume', '')
+    number = entry.get('number', '')
+    pages = entry.get('pages', '').replace('--', '–')
+    note = entry.get('note', '')
+
+    result = f"{authors} ({year}). {title}. *{journal}*"
+    if volume:
+        result += f", {volume}"
+        if number:
+            result += f"({number})"
+    if pages:
+        result += f", {pages}"
+    result += "."
+    if note:
+        result += f" {note}."
+    return result
+
+
+def build_readme_clinical_trials_block(entries):
+    """Build the README 'Clinical Trials (Most Recent)' section: for every trial,
+    its single most-recent publication, trials ordered by that publication's year
+    (desc), tie-broken by cancer-area order."""
+    trials = defaultdict(list)
+    for entry in entries:
+        nct = entry.get('nct', '')
+        if nct:
+            trials[nct].append(entry)
+    for nct in trials:
+        trials[nct].sort(key=lambda x: int(x.get('year', '0')), reverse=True)
+
+    ordered = sorted(
+        (nct for nct in trials if nct in TRIAL_INFO),
+        key=lambda nct: (-int(trials[nct][0].get('year', '0')),
+                         CANCER_ORDER.index(TRIAL_INFO[nct][1]) if TRIAL_INFO[nct][1] in CANCER_ORDER else 99),
+    )
+
+    lines = ["## Clinical Trials (Most Recent)", ""]
+    for nct in ordered:
+        name = TRIAL_INFO[nct][0]
+        most_recent = trials[nct][0]
+        lines.append(f"ClinicalTrials.gov Identifier: **[NCT{nct}](https://clinicaltrials.gov/study/NCT{nct})** - {name}")
+        lines.append(f"   * {format_entry_readme(most_recent)}")
+        lines.append("")
+    lines.append("[See Full List](clinical_trials.md)")
+    return '\n'.join(lines)
+
+
+def update_readme_clinical_trials(entries, readme_file='README.md'):
+    """Splice the generated Clinical Trials block into README.md between the
+    <!-- CLINICAL_TRIALS_START --> / <!-- CLINICAL_TRIALS_END --> sentinels."""
+    start, end = '<!-- CLINICAL_TRIALS_START -->', '<!-- CLINICAL_TRIALS_END -->'
+    with open(readme_file, 'r', encoding='utf-8') as f:
+        text = f.read()
+    if start not in text or end not in text:
+        print(f"WARNING: sentinels not found in {readme_file}; skipping README clinical-trials update")
+        return
+    block = build_readme_clinical_trials_block(entries)
+    pre = text.split(start)[0]
+    post = text.split(end, 1)[1]
+    new = f"{pre}{start}\n{block}\n{end}{post}"
+    if new != text:
+        with open(readme_file, 'w', encoding='utf-8') as f:
+            f.write(new)
+        print(f"Updated {readme_file} Clinical Trials (Most Recent) section")
+    else:
+        print(f"{readme_file} Clinical Trials section already current")
+
+
 if __name__ == '__main__':
     entries = load_bibtex('publications.bib')
     generate_markdown(entries)
@@ -807,3 +886,4 @@ if __name__ == '__main__':
     generate_by_year(entries)
     generate_policy_citations(entries)
     generate_latex_publications(entries)
+    update_readme_clinical_trials(entries)
