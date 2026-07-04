@@ -30,6 +30,12 @@ ClinicalTrials.gov Identifier: **[NCT03311750](https://clinicaltrials.gov/study/
 ---
 ## Recent and Forthcoming Publications
 
+* Korfiatis, N., Avlonitis, M., Kourouthanassis, P., Karyotis, V., Ghinis, S., Gjoni, V., & Gkinis, S. (2026). G3 Corfu Butterflies: A Small-Scale Benchmark for Long-Tailed Multi-Label Attribute Recognition. _Harvard Dataverse_, V1. [DOI](https://doi.org/10.7910/DVN/W6UMIR)
+
+* Papadopoulou, K., Kourea, H., Goussia, A., Korfiatis, N., Koletsa, T., Tzaida, O., Bobos, M., Batistatou, A., Koumarianou, A., Aravantinou-Fatorou, E., Pectasides, D., Christopoulou, A., Linardou, H., Fountzila, E., Pentheroudakis, G., Koutras, A., Psyrri, A., Gogas, H., & Fountzilas, G. (2026). Profiling of 1491 tumors from four HeCOG early breast cancer (eBC) studies using targeted DNA sequencing and central pathology review. _ESMO Open_, 11.
+
+* Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Economopoulou, P., Fountzila, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Fountzilas, G., Petrakis, G., & Linardou, H. (2026). Association patterns among patient-reported adverse events in advanced NSCLC: A post-hoc analysis of the CLIMEDIN randomized controlled trial. _Journal of Clinical Oncology_, 44(16_suppl), e23271.
+
 * Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Economopoulou, P., Fountzila, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Petrakis, G., Fountzilas, G., & Linardou, H. (2026). Comprehensive Molecular Profiling of Advanced NSCLC in Greek Patients: A Prospective HeCOG Study. _Cancer Treatment and Research Communications_. Forthcoming.
 
 * Kosmidis, P.A., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G.S., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C.G., Koufaki, M.I., Fountzilas, G., & Linardou, H. (2026). SNF-CLIMEDIN: A Randomized Trial of Digital Support and Intervention in Patients With Advanced Non–Small Cell Lung Cancer. A Hellenic Cooperative Oncology Group Study. _Journal of Clinical Oncology: Clinical Cancer Informatics_, 10, e2500234.

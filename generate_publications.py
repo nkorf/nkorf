@@ -207,6 +207,7 @@ def generate_markdown(entries, output_file='publications.md'):
     # Category order and titles
     category_order = [
         ('software', 'Released Software'),
+        ('dataset', 'Datasets and Benchmarks'),
         ('dissertation', 'Dissertations'),
         ('journal', 'Journal Articles'),
         ('workingpaper', 'Working Papers'),
@@ -737,6 +738,17 @@ def generate_latex_publications(entries, output_file='cv_academic/publications_g
         lines.append("\\subsection{Software}")
         lines.append("\\begin{enumerate}[leftmargin=*, topsep=0pt, itemsep=4pt, label={[\\arabic*]}]")
         for entry in categories['software']:
+            formatted = format_entry_latex(entry)
+            lines.append(f"    \\item {formatted}")
+            lines.append("")
+        lines.append("\\end{enumerate}")
+        lines.append("")
+
+    # Generate Datasets and Benchmarks
+    if 'dataset' in categories:
+        lines.append("\\subsection{Datasets and Benchmarks}")
+        lines.append("\\begin{enumerate}[leftmargin=*, topsep=0pt, itemsep=4pt, label={[\\arabic*]}]")
+        for entry in categories['dataset']:
             formatted = format_entry_latex(entry)
             lines.append(f"    \\item {formatted}")
             lines.append("")
