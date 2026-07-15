@@ -1,6 +1,6 @@
 # Welcome
 
-[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)  [[Academic CV]](cv_academic/nikolaos_korfiatis_academic_cv.pdf)
+[[Publications List]](publications.md)  [[CABS Ranked]](ref.md)  [[Clinical Trials]](clinical_trials.md)  [[Supervision]](#thesis-supervision)  [[Academic CV]](cv_academic/nikolaos_korfiatis_academic_cv.pdf)
 
 ---
 ## About
@@ -59,4 +59,23 @@ ClinicalTrials.gov Identifier: **[NCT04829890](https://clinicaltrials.gov/study/
 [See Full List](publications.md)
 
 
+---
+## Thesis Supervision
+
+### Primary supervisor (επιβλέπων)
+
+**AUEB — M.Sc. in Marketing Analytics**
+* Anagnostopoulos, V. (2026). *Πρόβλεψη και Ερμηνεία του Instagram Engagement Αλκοολούχων Brands μέσω Μηχανικής Μάθησης* — Prediction and interpretation of the Instagram engagement of alcoholic-beverage brands via machine learning.
+* Karkasina, M. A. (2026). *Αξιολόγηση Απόδοσης Ψηφιακών Καναλιών: Από τα Ευρετικά Μοντέλα στη Στατιστική Παλινδρόμηση για την Κατανομή του Διαφημιστικού Προϋπολογισμού* — Evaluating digital-channel performance: from heuristic models to statistical regression for advertising-budget allocation.
+
+**AUEB — M.Sc., Dept. of Management Science & Technology**
+* Papanikolaou, K. (2022). *Η απόδοση του ψηφιακού μάρκετινγκ και η αποτελεσματικότερη κατανομή προϋπολογισμού* — Digital-marketing performance and more effective budget allocation.
+
+**Ionian University — B.Sc. in Informatics (undergraduate theses)**
+* Tatsi, A. (2026). *UniBot: An Agent and RAG-Based Framework for Greek University Curriculum Guidance with Multi-Judge Evaluation*.
+
+### Committee member
+Additionally served as advisory-committee member / co-advisor on **17 further defended M.Sc. dissertations** at AUEB (Dept. of Management Science & Technology, 2021–2026), catalogued in the [Pyxida repository](https://pyxida.aueb.gr/).
+
+---
 ![](https://komarev.com/ghpvc/?username=nkorf)
