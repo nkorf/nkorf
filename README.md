@@ -62,20 +62,35 @@ ClinicalTrials.gov Identifier: **[NCT04829890](https://clinicaltrials.gov/study/
 ---
 ## Thesis Supervision
 
-### Primary supervisor (επιβλέπων)
+As **supervisor / thesis advisor** (επιβλέπων). AUEB dissertations are catalogued in the [Pyxida repository](https://pyxida.aueb.gr/), which records me as thesis advisor of record.
 
 **AUEB — M.Sc. in Marketing Analytics**
 * Anagnostopoulos, V. (2026). *Πρόβλεψη και Ερμηνεία του Instagram Engagement Αλκοολούχων Brands μέσω Μηχανικής Μάθησης* — Prediction and interpretation of the Instagram engagement of alcoholic-beverage brands via machine learning.
 * Karkasina, M. A. (2026). *Αξιολόγηση Απόδοσης Ψηφιακών Καναλιών: Από τα Ευρετικά Μοντέλα στη Στατιστική Παλινδρόμηση για την Κατανομή του Διαφημιστικού Προϋπολογισμού* — Evaluating digital-channel performance: from heuristic models to statistical regression for advertising-budget allocation.
 
 **AUEB — M.Sc., Dept. of Management Science & Technology**
-* Papanikolaou, K. (2022). *Η απόδοση του ψηφιακού μάρκετινγκ και η αποτελεσματικότερη κατανομή προϋπολογισμού* — Digital-marketing performance and more effective budget allocation.
+* Georgiou, S. (2021). *Topic modeling on Airbnb reviews during the pandemic*.
+* Theofilatou, Z. (2022). *Survival analysis and machine learning on employee turnover*.
+* Paida, K. (2022). *Αξιολόγηση της επίδρασης του COVID-19 στην τουριστική βιομηχανία της Ελλάδας: μια ανάλυση πρόβλεψης*.
+* Kokkas, I. (2022). *Εφαρμογή μεθόδων επιχειρηματικής αναλυτικής και ανάλυσης επιβίωσης στη διαχείριση πελατειακής βάσης*.
+* Georgiadis, T. (2022). *Explainable machine learning models for credit scoring*.
+* Kalogerogiannis, P. (2022). *Πρόβλεψη διαθεσιμότητας ζήτησης στον κλάδο ενοικίασης αυτοκινήτων*.
+* Papanikolaou, K. (2022). *Η απόδοση του ψηφιακού μάρκετινγκ και η αποτελεσματικότερη κατανομή προϋπολογισμού*.
+* Gatos, N. (2022). *Utilization of alternative data and machine learning for credit scoring in the Greek hospitality sector*.
+* Papadimas, S. (2023). *Application of SARIMA and Prophet models in forecasting road-traffic accidents in Greece*.
+* Houbtcheva, H. (2023). *Optimizing payment arrangements: a credit-scoring model*.
+* Kimpezis, I. (2023). *Ανάλυση ιστορικών δεδομένων και ανάπτυξη μοντέλου πρόβλεψης ζήτησης για εταιρεία λιανικού εμπορίου*.
+* Kleitsikas, C. (2024). *Crypto price prediction using sentiment analysis of arbitrary blockchain content*.
+* Maragoudakis, V. (2024). *Ανωνυμοποίηση δεδομένων σε περιβάλλον ηλεκτρονικού εμπορίου*.
+* Kavouras, V. (2024). *Ανωνυμοποίηση δεδομένων για χρήση σε πλατφόρμες επιχειρηματικής αναλυτικής*.
+* Paschalidou, C. (2024). *Granger causality: application on a Greek online pharmacy*.
+* Bourtzoulas, M. (2024). *Impact of GDPR variables in churn modelling: incomplete and missing data*.
+* Kamina, A. (2024). *Πρόβλεψη ζήτησης για προϊόντα νέας τεχνολογίας με χρήση του μοντέλου διάχυσης Bass*.
+* Sfakianakis, M. (2024). *Παράγοντες συμμόρφωσης προγραμματισμού χρονοθυρίδων στα ελληνικά αεροδρόμια*.
+* Giannopoulos, N. (2026). *Zero-shot vs. fine-tuned LLMs for customer complaint classification (CFPB dataset)*.
 
 **Ionian University — B.Sc. in Informatics (undergraduate theses)**
 * Tatsi, A. (2026). *UniBot: An Agent and RAG-Based Framework for Greek University Curriculum Guidance with Multi-Judge Evaluation*.
-
-### Committee member
-Additionally served as advisory-committee member / co-advisor on **17 further defended M.Sc. dissertations** at AUEB (Dept. of Management Science & Technology, 2021–2026), catalogued in the [Pyxida repository](https://pyxida.aueb.gr/).
 
 ---
 ![](https://komarev.com/ghpvc/?username=nkorf)
