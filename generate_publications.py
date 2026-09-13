@@ -31,10 +31,8 @@ TRIAL_INFO = {
     '07521397': ('Pooled analysis of adjuvant dose-dense sequential chemotherapy in early breast cancer (seven HeCOG studies)', 'Breast Cancer', 'Observational'),
     '04365790': ('HE10/13: Dose-dense chemotherapy in triple-negative and HER2-positive early breast cancer', 'Breast Cancer', 'Translational'),
     '04403984': ('HE10A13: Genomic alterations in luminal A and luminal B early breast cancer', 'Breast Cancer', 'Translational'),
-    '07630558': ('Prognostic value of genomic alteration and protein expression patterns in operated early breast cancer', 'Breast Cancer', 'Translational'),
-    '07528911': ('TR4G/23: Elements of adaptive immunity in epithelial ovarian cancer', 'Ovarian Cancer', 'Translational'),
 }
-CANCER_ORDER = ['Lung Cancer', 'Colorectal Cancer', 'Pancreatic Cancer', 'Prostate Cancer', 'Breast Cancer', 'Ovarian Cancer']
+CANCER_ORDER = ['Lung Cancer', 'Colorectal Cancer', 'Pancreatic Cancer', 'Prostate Cancer', 'Breast Cancer']
 
 
 def format_authors_apa(authors_str, highlight_author="Korfiatis"):
