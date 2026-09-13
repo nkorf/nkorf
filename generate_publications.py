@@ -23,8 +23,18 @@ TRIAL_INFO = {
     '03311750': ('A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer', 'Colorectal Cancer', 'Phase II'),
     '02512458': ('CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases', 'Prostate Cancer', 'Translational'),
     '04829890': ('Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer', 'Breast Cancer', 'Phase III'),
+    '03745430': ('RACING: Ramucirumab combined with nab-paclitaxel and gemcitabine as first-line chemotherapy in advanced pancreatic adenocarcinoma', 'Pancreatic Cancer', 'Phase I/II'),
+    '04983628': ('TR9/21 (ProProstate): Molecular profiling in prostate cancer', 'Prostate Cancer', 'Translational'),
+    '05758948': ('Germline and somatic pathogenic variants in patients with de novo metastatic breast cancer', 'Breast Cancer', 'Translational'),
+    '07561346': ('Clinico-pathological and genomic features of HER2-low early breast cancer', 'Breast Cancer', 'Translational'),
+    '07545434': ('Prognostic role of TILs and CD8+ T cells in operable breast cancer', 'Breast Cancer', 'Translational'),
+    '07521397': ('Pooled analysis of adjuvant dose-dense sequential chemotherapy in early breast cancer (seven HeCOG studies)', 'Breast Cancer', 'Observational'),
+    '04365790': ('HE10/13: Dose-dense chemotherapy in triple-negative and HER2-positive early breast cancer', 'Breast Cancer', 'Translational'),
+    '04403984': ('HE10A13: Genomic alterations in luminal A and luminal B early breast cancer', 'Breast Cancer', 'Translational'),
+    '07630558': ('Prognostic value of genomic alteration and protein expression patterns in operated early breast cancer', 'Breast Cancer', 'Translational'),
+    '07528911': ('TR4G/23: Elements of adaptive immunity in epithelial ovarian cancer', 'Ovarian Cancer', 'Translational'),
 }
-CANCER_ORDER = ['Lung Cancer', 'Colorectal Cancer', 'Prostate Cancer', 'Breast Cancer']
+CANCER_ORDER = ['Lung Cancer', 'Colorectal Cancer', 'Pancreatic Cancer', 'Prostate Cancer', 'Breast Cancer', 'Ovarian Cancer']
 
 
 def format_authors_apa(authors_str, highlight_author="Korfiatis"):

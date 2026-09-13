@@ -8,7 +8,7 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
 ## Lung Cancer
 
-**[5]** ClinicalTrials.gov Identifier: **[NCT05372081](https://clinicaltrials.gov/study/NCT05372081)** - SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC [Non-interventional]
+**[7]** ClinicalTrials.gov Identifier: **[NCT05372081](https://clinicaltrials.gov/study/NCT05372081)** - SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC [Non-interventional]
 
    * Kosmidis, P., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2026). SNF-CLIMEDIN: A Randomized Trial of Digital Support and Intervention in Patients With Advanced Non–Small Cell Lung Cancer. A Hellenic Cooperative Oncology Group Study. *Journal of Clinical Oncology: Clinical Cancer Informatics*, Vol. 10, pp. e2500234.
 
@@ -26,7 +26,7 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
    * Linardou, H., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Vozikis, A., Fountzilas, G., & Kosmidis, P. (2023). Clinical and molecular study with digital support of advanced non-small cell lung cancer patients: SNF-CLIMEDIN, a prospective randomized Hellenic Cooperative Oncology Group study. *Annals of Oncology*, Vol. 34, pp. S816-S817.
 
-**[4]** ClinicalTrials.gov Identifier: **[NCT03568097](https://clinicaltrials.gov/study/NCT03568097)** - PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer [Phase II]
+**[6]** ClinicalTrials.gov Identifier: **[NCT03568097](https://clinicaltrials.gov/study/NCT03568097)** - PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer [Phase II]
 
    * Mountzios, G., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Linardou, H. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final Outcome, Immunophenotypic and biomarker analysis. *European Journal of Cancer*, Vol. 228, pp. 115660.
 
@@ -36,7 +36,7 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
 ## Colorectal Cancer
 
-**[3]** ClinicalTrials.gov Identifier: **[NCT03311750](https://clinicaltrials.gov/study/NCT03311750)** - A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer [Phase II]
+**[5]** ClinicalTrials.gov Identifier: **[NCT03311750](https://clinicaltrials.gov/study/NCT03311750)** - A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer [Phase II]
 
    * Sgouros, J., Eliades, A., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Papamichael, D., Fountzilas, E., Tsolaki, E., Achilleos, A., Tsangaras, K., Loizides, C., Oikonomopoulos, G., Makatsoris, T., Kypri, E., Ioannides, M., Koumbaris, G., Fountzilas, G., Patsalis, P., & Pentheroudakis, G. (2025). Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer (A-REPEAT study): efficacy and correlations with tissue and plasma genotyping. *ESMO Gastrointestinal Oncology*, Vol. 7, pp. 100120. [DOI](https://doi.org/10.1016/j.esmogo.2024.100120)
 
@@ -44,7 +44,7 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
 ## Prostate Cancer
 
-**[2]** ClinicalTrials.gov Identifier: **[NCT02512458](https://clinicaltrials.gov/study/NCT02512458)** - CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases [Translational]
+**[4]** ClinicalTrials.gov Identifier: **[NCT02512458](https://clinicaltrials.gov/study/NCT02512458)** - CabaBone: Cabazitaxel in patients with castration-resistant prostate cancer and osseous metastases [Translational]
 
    * Liontos, M., Goussia, A., <ins>Korfiatis, N.</ins>, Papadopoulou, K., Kanellis, G., Visvikis, A., Petrakis, G., Tsiatas, M., Fountzilas, E., Samantas, E., Fountzilas, G., & Efstathiou, E. (2025). The role of Cabazitaxel in Patients With Castration-Resistant and Osseous Metastases Prostate Cancer: A Hellenic Cooperative Oncology Group Phase II Study. *Clinical Genitourinary Cancer*, Vol. 23, No. 1, pp. 102253. [DOI](https://doi.org/10.1016/j.clgc.2024.102253)
 
@@ -52,6 +52,18 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
 ## Breast Cancer
 
-**[1]** ClinicalTrials.gov Identifier: **[NCT04829890](https://clinicaltrials.gov/study/NCT04829890)** - Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer [Phase III]
+**[3]** ClinicalTrials.gov Identifier: **[NCT05758948](https://clinicaltrials.gov/study/NCT05758948)** - Germline and somatic pathogenic variants in patients with de novo metastatic breast cancer [Translational]
+
+   * Fountzilas, E., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Christopoulou, A., Moirogiorgou, E., Tsoukalas, N., Petrakis, G., Gouedard, C., Zagouri, F., Stefanou, D., Kyriakou, F., Vorrias, E., Karageorgopoulou, S., Dimitrakopoulos, F., Vernadou, A., Murray, S., & Fountzilas, G. (2026). Detection of germline and somatic pathogenic variants in patients with de novo metastatic breast cancer (dnMBC) and assessment of their prognostic relevance: A Hellenic Cooperative Oncology Group (HeCOG) translational cohort study. *Clinical Cancer Research*, Vol. 32, No. 4_Supplement, pp. PS4-02-18.
+
+   * Fountzilas, E., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Christopoulou, A., Moirogiorgou, E., Tsoukalas, N., Petrakis, G., Gouedard, C., Zagouri, F., Stefanou, D., Kyriakou, F., Vorrias, E., Karageorgopoulou, S., Dimitrakopoulos, F., Vernadou, A., Murray, S., & Fountzilas, G. (2025). Detection of germline and somatic pathogenic variants in patients with de novo metastatic breast cancer (dnMBC) and assessment of their prognostic relevance: A Hellenic Cooperative Oncology Group (HeCOG) translational cohort study. *48th Annual San Antonio Breast Cancer Symposium (SABCS)*. San Antonio, Texas.
+
+**[2]** ClinicalTrials.gov Identifier: **[NCT04829890](https://clinicaltrials.gov/study/NCT04829890)** - Dose-dense sequential adjuvant chemotherapy in patients with resected high-risk breast cancer [Phase III]
 
    * Goussia, A., Dimitrakopoulos, F., <ins>Korfiatis, N.</ins>, Koletsa, T., Batistatou, A., Kourea, H., Bobos, M., Papadopoulou, K., Charchanti, A., Bai, M., Tzaida, O., Petraki, K., Arapantoni-Dadioti, P., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2025). Clinical outcomes and important prognostic biomarkers following dose-dense sequential adjuvant chemotherapy (dds-CT) in early breast cancer (eBC): Pooled-analysis of individual patient data. *ESMO Open*, Vol. 10, pp. 104621. [DOI](https://doi.org/10.1016/j.esmoop.2025.104621)
+
+**[1]** ClinicalTrials.gov Identifier: **[NCT07561346](https://clinicaltrials.gov/study/NCT07561346)** - Clinico-pathological and genomic features of HER2-low early breast cancer [Translational]
+
+   * Lakis, S., Tsolaki, E., <ins>Korfiatis, N.</ins>, Goussia, A., Kourea, H., Batistatou, A., Bobos, M., Papadopoulou, K., Charchanti, A., Bai, M., Tzaida, O., Petraki, K., Arapantoni, P., Koletsa, T., Pectasides, D., Koutras, A., Kalapanida, D., Dimitrakopoulos, F., Aravantinou-Fatorou, E., Spathas, N., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2026). Clinico-pathological and genomic features of HER2-low early Breast Cancer (eBC). Results of retrospective analysis of seven adjuvant trials by the Hellenic Cooperative Oncology Group (HeCOG). *Clinical Cancer Research*, Vol. 32, No. 4_Supplement, pp. PS4-01-20.
+
+   * Lakis, S., Tsolaki, E., <ins>Korfiatis, N.</ins>, Goussia, A., Kourea, H., Batistatou, A., Bobos, M., Papadopoulou, K., Charchanti, A., Bai, M., Tzaida, O., Petraki, K., Arapantoni, P., Koletsa, T., Pectasides, D., Koutras, A., Kalapanida, D., Dimitrakopoulos, F., Aravantinou-Fatorou, E., Spathas, N., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2025). Clinico-pathological and genomic features of HER2-low early Breast Cancer (eBC). Results of retrospective analysis of seven adjuvant trials by the Hellenic Cooperative Oncology Group (HeCOG). *48th Annual San Antonio Breast Cancer Symposium (SABCS)*. San Antonio, Texas.
