@@ -28,7 +28,7 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install bibtexparser>=1.4.0
+          pip install -r requirements.txt
 
       - name: Generate publications (MD and LaTeX)
         run: |
