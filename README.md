@@ -38,6 +38,8 @@ ClinicalTrials.gov Identifier: **[NCT04829890](https://clinicaltrials.gov/study/
 ---
 ## Recent and Forthcoming Publications
 
+* Razis, E., Papadopoulou, K., Korfiatis, N., Christodoulou, C., Kourea, H., Goussia, A., Tzaida, O., Batistatou, A., Mamilos, A., Markopoulos, C., Venizelos, V., Xepapadakis, G., Skarlos, P., Pentheroudakis, G., Pectasides, D., Koutras, A., Christopoulou, A., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2026). Brain as a site of first recurrence after adjuvant therapy for early breast cancer: Mining the Hellenic Cooperative Oncology Group database. The BRACE study. _Breast Cancer Research and Treatment_. Forthcoming.
+
 * Korfiatis, N., Avlonitis, M., Kourouthanassis, P., Karyotis, V., Ghinis, S., Gjoni, V., & Gkinis, S. (2026). G3 Corfu Butterflies: A Small-Scale Benchmark for Long-Tailed Multi-Label Attribute Recognition. _Harvard Dataverse_, V1. [DOI](https://doi.org/10.7910/DVN/W6UMIR)
 
 * Papadopoulou, K., Kourea, H., Goussia, A., Korfiatis, N., Koletsa, T., Tzaida, O., Bobos, M., Batistatou, A., Koumarianou, A., Aravantinou-Fatorou, E., Pectasides, D., Christopoulou, A., Linardou, H., Fountzila, E., Pentheroudakis, G., Koutras, A., Psyrri, A., Gogas, H., & Fountzilas, G. (2026). Profiling of 1491 tumors from four HeCOG early breast cancer (eBC) studies using targeted DNA sequencing and central pathology review. _ESMO Open_, 11.
