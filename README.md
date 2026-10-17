@@ -20,6 +20,9 @@ If you are interested in any of the following, please don't hesitate to contact 
 ClinicalTrials.gov Identifier: **[NCT05372081](https://clinicaltrials.gov/study/NCT05372081)** - SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC
    * Kosmidis, P., Kosmidis, T., Papadopoulou, K., Korfiatis, N., Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2026). SNF-CLIMEDIN: A Randomized Trial of Digital Support and Intervention in Patients With Advanced Non–Small Cell Lung Cancer. A Hellenic Cooperative Oncology Group Study. *Journal of Clinical Oncology: Clinical Cancer Informatics*, 10, e2500234.
 
+ClinicalTrials.gov Identifier: **[NCT03745430](https://clinicaltrials.gov/study/NCT03745430)** - RACING: Ramucirumab combined with nab-paclitaxel and gemcitabine as first-line chemotherapy in advanced pancreatic adenocarcinoma
+   * Papaxoinis, G., Sgouros, J., Korfiatis, N., Papadopoulou, K., Psyrri, A., Zarkavelis, G., Ioannou, A., Petrakis, G., Kotsantis, I., Koumarianou, A., Fountzilas, E., Zagouri, F., Samantas, E., Fountzilas, G., & Pentheroudakis, G. (2026). Phase Ib-II Study of Ramucirumab Combined with Nab-paclitaxel and Gemcitabine as First-line Treatment in Patients With Advanced Pancreatic Adenocarcinoma (RACING). *Cancer Treatment and Research Communications*. Forthcoming.
+
 ClinicalTrials.gov Identifier: **[NCT05758948](https://clinicaltrials.gov/study/NCT05758948)** - Germline and somatic pathogenic variants in patients with de novo metastatic breast cancer
    * Fountzilas, E., Papadopoulou, K., Korfiatis, N., Goussia, A., Christopoulou, A., Moirogiorgou, E., Tsoukalas, N., Petrakis, G., Gouedard, C., Zagouri, F., Stefanou, D., Kyriakou, F., Vorrias, E., Karageorgopoulou, S., Dimitrakopoulos, F., Vernadou, A., Murray, S., & Fountzilas, G. (2026). Detection of germline and somatic pathogenic variants in patients with de novo metastatic breast cancer (dnMBC) and assessment of their prognostic relevance: A Hellenic Cooperative Oncology Group (HeCOG) translational cohort study. *Clinical Cancer Research*, 32(4_Supplement), PS4-02-18.
 
@@ -43,6 +46,8 @@ ClinicalTrials.gov Identifier: **[NCT04829890](https://clinicaltrials.gov/study/
 
 ---
 ## Recent and Forthcoming Publications
+
+* Papaxoinis, G., Sgouros, J., Korfiatis, N., Papadopoulou, K., Psyrri, A., Zarkavelis, G., Ioannou, A., Petrakis, G., Kotsantis, I., Koumarianou, A., Fountzilas, E., Zagouri, F., Samantas, E., Fountzilas, G., & Pentheroudakis, G. (2026). Phase Ib-II Study of Ramucirumab Combined with Nab-paclitaxel and Gemcitabine as First-line Treatment in Patients With Advanced Pancreatic Adenocarcinoma (RACING). _Cancer Treatment and Research Communications_. Forthcoming. ClinicalTrials.gov NCT03745430.
 
 * Razis, E., Papadopoulou, K., Korfiatis, N., Christodoulou, C., Kourea, H., Goussia, A., Tzaida, O., Batistatou, A., Mamilos, A., Markopoulos, C., Venizelos, V., Xepapadakis, G., Skarlos, P., Pentheroudakis, G., Pectasides, D., Koutras, A., Christopoulou, A., Psyrri, A., Gogas, H., Zagouri, F., & Fountzilas, G. (2026). Brain as a site of first recurrence after adjuvant therapy for early breast cancer: Mining the Hellenic Cooperative Oncology Group database. The BRACE study. _Breast Cancer Research and Treatment_. Forthcoming.
 

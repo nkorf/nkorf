@@ -8,7 +8,7 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
 ## Lung Cancer
 
-**[7]** ClinicalTrials.gov Identifier: **[NCT05372081](https://clinicaltrials.gov/study/NCT05372081)** - SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC [Non-interventional]
+**[8]** ClinicalTrials.gov Identifier: **[NCT05372081](https://clinicaltrials.gov/study/NCT05372081)** - SNF-CLIMEDIN: Digital support and intervention in patients with advanced NSCLC [Non-interventional]
 
    * Kosmidis, P., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Vozikis, A., Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Fountzilas, G., & Linardou, H. (2026). SNF-CLIMEDIN: A Randomized Trial of Digital Support and Intervention in Patients With Advanced Non–Small Cell Lung Cancer. A Hellenic Cooperative Oncology Group Study. *Journal of Clinical Oncology: Clinical Cancer Informatics*, Vol. 10, pp. e2500234. [DOI](https://doi.org/10.1200/CCI-25-00234)
 
@@ -26,7 +26,7 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
    * Linardou, H., Kosmidis, T., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Lampaki, S., Psyrri, A., Fountzilas, E., Christopoulou, A., Samantas, E., Vagionas, A., Mountzios, G., Gkoumas, G., Tsoukalas, N., Athanasiadis, I., Bafaloukos, D., Panopoulos, C., Koufaki, M., Vozikis, A., Fountzilas, G., & Kosmidis, P. (2023). Clinical and molecular study with digital support of advanced non-small cell lung cancer patients: SNF-CLIMEDIN, a prospective randomized Hellenic Cooperative Oncology Group study. *Annals of Oncology*, Vol. 34, pp. S816-S817. [DOI](https://doi.org/10.1016/j.annonc.2023.09.2466)
 
-**[6]** ClinicalTrials.gov Identifier: **[NCT03568097](https://clinicaltrials.gov/study/NCT03568097)** - PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer [Phase II]
+**[7]** ClinicalTrials.gov Identifier: **[NCT03568097](https://clinicaltrials.gov/study/NCT03568097)** - PAVE: Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung Cancer [Phase II]
 
    * Linardou, H., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Goussia, A., Samantas, E., Aravantinos, G., Christopoulou, A., Spathas, N., Fountzilas, E., Psyrri, A., Koliou, G., Meditskou, S., Kosmas, E., Bobos, M., Charchanti, A., Vamvakaris, I., Koumarianou, A., Bafaloukos, D., Kosmidis, P., Fountzilas, G., & Mountzios, G. (2025). Intercalated Avelumab plus platinum-based chemotherapy in patients with Extensive-Stage Small-Cell Lung cancer (PAVE): Final outcome, immunophenotypic and biomarker analysis of a multi-center phase II Hellenic Cooperative Oncology Group study. *European Journal of Cancer*, Vol. 228, pp. 115660. [DOI](https://doi.org/10.1016/j.ejca.2025.115660)
 
@@ -36,9 +36,17 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
 ## Colorectal Cancer
 
-**[5]** ClinicalTrials.gov Identifier: **[NCT03311750](https://clinicaltrials.gov/study/NCT03311750)** - A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer [Phase II]
+**[6]** ClinicalTrials.gov Identifier: **[NCT03311750](https://clinicaltrials.gov/study/NCT03311750)** - A-REPEAT: Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer [Phase II]
 
    * Sgouros, J., Eliades, A., Papadopoulou, K., <ins>Korfiatis, N.</ins>, Papamichael, D., Fountzilas, E., Tsolaki, E., Achilleos, A., Tsangaras, K., Loizides, C., Oikonomopoulos, G., Makatsoris, T., Kypri, E., Ioannides, M., Koumbaris, G., Fountzilas, G., Patsalis, P., & Pentheroudakis, G. (2025). Anti-EGFR re-challenge with chemotherapy in RAS wild-type advanced colorectal cancer (A-REPEAT study): efficacy and correlations with tissue and plasma genotyping. *ESMO Gastrointestinal Oncology*, Vol. 7, pp. 100120. [DOI](https://doi.org/10.1016/j.esmogo.2024.100120)
+
+---
+
+## Pancreatic Cancer
+
+**[5]** ClinicalTrials.gov Identifier: **[NCT03745430](https://clinicaltrials.gov/study/NCT03745430)** - RACING: Ramucirumab combined with nab-paclitaxel and gemcitabine as first-line chemotherapy in advanced pancreatic adenocarcinoma [Phase I/II]
+
+   * Papaxoinis, G., Sgouros, J., <ins>Korfiatis, N.</ins>, Papadopoulou, K., Psyrri, A., Zarkavelis, G., Ioannou, A., Petrakis, G., Kotsantis, I., Koumarianou, A., Fountzilas, E., Zagouri, F., Samantas, E., Fountzilas, G., & Pentheroudakis, G. (2026). Phase Ib-II Study of Ramucirumab Combined with Nab-paclitaxel and Gemcitabine as First-line Treatment in Patients With Advanced Pancreatic Adenocarcinoma (RACING). *Cancer Treatment and Research Communications*. Forthcoming.
 
 ---
 
