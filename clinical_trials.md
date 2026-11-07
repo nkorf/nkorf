@@ -46,7 +46,7 @@ _The following is a list of Clinical trials by therapeutic areas which I have co
 
 **[5]** ClinicalTrials.gov Identifier: **[NCT03745430](https://clinicaltrials.gov/study/NCT03745430)** - RACING: Ramucirumab combined with nab-paclitaxel and gemcitabine as first-line chemotherapy in advanced pancreatic adenocarcinoma [Phase I/II]
 
-   * Papaxoinis, G., Sgouros, J., <ins>Korfiatis, N.</ins>, Papadopoulou, K., Psyrri, A., Zarkavelis, G., Ioannou, A., Petrakis, G., Kotsantis, I., Koumarianou, A., Fountzilas, E., Zagouri, F., Samantas, E., Fountzilas, G., & Pentheroudakis, G. (2026). Phase Ib-II Study of Ramucirumab Combined with Nab-paclitaxel and Gemcitabine as First-line Treatment in Patients With Advanced Pancreatic Adenocarcinoma (RACING). *Cancer Treatment and Research Communications*. Forthcoming.
+   * Papaxoinis, G., Sgouros, J., <ins>Korfiatis, N.</ins>, Papadopoulou, K., Psyrri, A., Zarkavelis, G., Ioannou, A., Petrakis, G., Kotsantis, I., Koumarianou, A., Fountzilas, E., Zagouri, F., Samantas, E., Fountzilas, G., & Pentheroudakis, G. (2026). Phase Ib-II Study of Ramucirumab Combined with Nab-paclitaxel and Gemcitabine as First-line Treatment in Patients With Advanced Pancreatic Adenocarcinoma (RACING). *Cancer Treatment and Research Communications*, Vol. 49, pp. 101481. [DOI](https://doi.org/10.1016/j.ctarc.2026.101481)
 
 ---
 
