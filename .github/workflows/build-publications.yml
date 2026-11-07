@@ -40,6 +40,7 @@ jobs:
 
       - name: Install LaTeX packages
         run: |
+          tlmgr update --self
           tlmgr install \
             babel-english babel-greek greek-fontenc cbfonts cbfonts-fd cm-super \
             fontawesome5 enumitem fancyhdr lastpage wrapfig titlesec tools graphics \
