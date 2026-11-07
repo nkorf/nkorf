@@ -142,6 +142,8 @@ def format_entry_apa(entry):
         result += "."
         if publisher:
             result += f" {publisher}."
+        if note:
+            result += f" {note}."
 
     elif entry_type == 'phdthesis' or entry_type == 'mastersthesis':
         if address:
@@ -687,6 +689,8 @@ def format_entry_latex(entry):
         result += "."
         if publisher:
             result += f" {publisher}."
+        if note:
+            result += f" {escape_latex(note)}."
 
     # Add CABS ranking and Scimago quartile if present
     rankings = []
