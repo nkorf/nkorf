@@ -211,31 +211,46 @@ def load_bibtex(filename):
     return bib_database.entries
 
 
+# Section order and titles of the full list (publications.md). The site
+# nkorf.github.io imports numbered_by_category() so both number alike.
+CATEGORY_ORDER = [
+    ('software', 'Released Software'),
+    ('dataset', 'Datasets and Benchmarks'),
+    ('dissertation', 'Dissertations'),
+    ('journal', 'Journal Articles'),
+    ('workingpaper', 'Working Papers'),
+    ('conference', 'Conference Proceedings'),
+    ('book', 'Contributions in Books and Edited Volumes'),
+    ('deliverable', 'Deliverables and Project Related Publications'),
+]
+
+
+def numbered_by_category(entries):
+    """Group entries into the CATEGORY_ORDER sections, newest first.
+
+    Returns a list of (category_key, category_title, [(number, entry), ...]).
+    Numbers run in reverse, so the newest entry of a section carries the
+    highest number. Within a year, entries keep their publications.bib order.
+    Categories outside CATEGORY_ORDER are left out.
+    """
+    categories = defaultdict(list)
+    for entry in entries:
+        categories[entry.get('category', 'other').lower()].append(entry)
+
+    groups = []
+    for cat_key, cat_title in CATEGORY_ORDER:
+        cat_entries = sorted(categories.get(cat_key, []),
+                             key=lambda x: int(x.get('year', '0')), reverse=True)
+        if not cat_entries:
+            continue
+        total = len(cat_entries)
+        groups.append((cat_key, cat_title,
+                       [(total - i, entry) for i, entry in enumerate(cat_entries)]))
+    return groups
+
+
 def generate_markdown(entries, output_file='publications.md'):
     """Generate markdown file from BibTeX entries."""
-
-    # Organize entries by category
-    categories = defaultdict(list)
-
-    for entry in entries:
-        cat = entry.get('category', 'other').lower()
-        categories[cat].append(entry)
-
-    # Sort each category by year (descending)
-    for cat in categories:
-        categories[cat].sort(key=lambda x: int(x.get('year', '0')), reverse=True)
-
-    # Category order and titles
-    category_order = [
-        ('software', 'Released Software'),
-        ('dataset', 'Datasets and Benchmarks'),
-        ('dissertation', 'Dissertations'),
-        ('journal', 'Journal Articles'),
-        ('workingpaper', 'Working Papers'),
-        ('conference', 'Conference Proceedings'),
-        ('book', 'Contributions in Books and Edited Volumes'),
-        ('deliverable', 'Deliverables and Project Related Publications'),
-    ]
 
     lines = [
         "[[CABS Ranked]](ref.md)  [[By Year]](by_year.md)  [[Clinical Trials]](clinical_trials.md)  [[Policy Impact]](policy_citations.md)",
@@ -246,20 +261,13 @@ def generate_markdown(entries, output_file='publications.md'):
         "",
     ]
 
-    for cat_key, cat_title in category_order:
-        if cat_key not in categories:
-            continue
-
+    for _, cat_title, numbered in numbered_by_category(entries):
         lines.append("---")
         lines.append("")
         lines.append(f"## {cat_title}")
         lines.append("")
 
-        cat_entries = categories[cat_key]
-        total = len(cat_entries)
-
-        for i, entry in enumerate(cat_entries):
-            num = total - i
+        for num, entry in numbered:
             formatted = format_entry_apa(entry)
             lines.append(f"**[{num}]** {formatted}")
             lines.append("")
