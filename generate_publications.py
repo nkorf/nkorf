@@ -442,6 +442,14 @@ def generate_by_year(entries, output_file='by_year.md'):
     print(f"Generated {output_file} with publications across {len(sorted_years)} years")
 
 
+PATENT_OFFICES = {'US': 'USPTO', 'WO': 'WIPO', 'EP': 'EPO', 'CN': 'CNIPA', 'JP': 'JPO', 'KR': 'KIPO'}
+
+
+def patent_office(patent_id):
+    """Issuing office of a patent number, from its two-letter prefix."""
+    return PATENT_OFFICES.get(patent_id[:2].upper(), 'patent')
+
+
 def generate_policy_citations(entries, output_file='policy_citations.md'):
     """Generate policy and patent citations markdown file from BibTeX entries."""
 
@@ -557,7 +565,7 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
                     patents.append((patent.strip(), "", "", ""))
             if len(patents) == 1:
                 patent_title, patent_company, patent_id, patent_year = patents[0]
-                lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}, has been cited as Prior Art in the *{patent_company}* patent titled «{patent_title}» with USPTO assignment code [{patent_id}](https://patents.google.com/patent/{patent_id}) ({patent_year}).{doi_link}")
+                lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}, has been cited as Prior Art in the *{patent_company}* patent titled «{patent_title}», {patent_office(patent_id)} [{patent_id}](https://patents.google.com/patent/{patent_id}) ({patent_year}).{doi_link}")
             else:
                 # Several patents for one paper: the paper once, then one line per patent by grant year.
                 patents.sort(key=lambda p: (p[3], p[2]))
@@ -567,7 +575,7 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
                 lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}{doi_paren}, has been cited as Prior Art in {len(patents)}{company_str} patents:")
                 lines.append("")
                 for t, _, pid, y in patents:
-                    lines.append(f"- «{t}», USPTO [{pid}](https://patents.google.com/patent/{pid}) ({y})")
+                    lines.append(f"- «{t}», {patent_office(pid)} [{pid}](https://patents.google.com/patent/{pid}) ({y})")
             lines.append("")
 
     with open(output_file, 'w', encoding='utf-8') as f:
