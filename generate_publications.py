@@ -559,14 +559,15 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
                 patent_title, patent_company, patent_id, patent_year = patents[0]
                 lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}, has been cited as Prior Art in the *{patent_company}* patent titled «{patent_title}» with USPTO assignment code [{patent_id}](https://patents.google.com/patent/{patent_id}) ({patent_year}).{doi_link}")
             else:
-                # Several patents for one paper: one sentence, listed by grant year.
+                # Several patents for one paper: the paper once, then one line per patent by grant year.
                 patents.sort(key=lambda p: (p[3], p[2]))
                 companies = sorted({p[1] for p in patents if p[1]})
                 company_str = f" *{' and '.join(companies)}*" if companies else ""
-                listed = "; ".join(
-                    f"«{t}» [{pid}](https://patents.google.com/patent/{pid}) ({y})"
-                    for t, _, pid, y in patents)
-                lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}, has been cited as Prior Art in {len(patents)}{company_str} patents: {listed}.{doi_link}")
+                doi_paren = f" ([DOI](https://doi.org/{doi}))" if doi else ""
+                lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}{doi_paren}, has been cited as Prior Art in {len(patents)}{company_str} patents:")
+                lines.append("")
+                for t, _, pid, y in patents:
+                    lines.append(f"- «{t}», USPTO [{pid}](https://patents.google.com/patent/{pid}) ({y})")
             lines.append("")
 
     with open(output_file, 'w', encoding='utf-8') as f:
