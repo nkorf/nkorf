@@ -517,7 +517,7 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
         num = total - i
         # Get publication details
         title = entry.get('title', '').replace('{', '').replace('}', '')
-        journal = entry.get('journal', '')
+        journal = (entry.get('journal', '') or entry.get('booktitle', '')).replace('{', '').replace('}', '')
         year = entry.get('year', '')
         cabs = entry.get('cabs', '')
         doi = entry.get('doi', '')
@@ -548,21 +548,26 @@ def generate_policy_citations(entries, output_file='policy_citations.md'):
         # Parse all patent citations (format: title|company|patent_id|year)
         patent_str = entry.get('patentcitation', '')
         if patent_str:
-            patents = patent_str.split(';;')
-            for patent in patents:
-                parts = patent.split('|')
+            patents = []
+            for patent in patent_str.split(';;'):
+                parts = [p.strip() for p in patent.split('|')]
                 if len(parts) >= 4:
-                    patent_title = parts[0].strip()
-                    patent_company = parts[1].strip()
-                    patent_id = parts[2].strip()
-                    patent_year = parts[3].strip()
+                    patents.append(tuple(parts[:4]))
                 else:
-                    patent_title = patent.strip()
-                    patent_company = ""
-                    patent_id = ""
-                    patent_year = ""
+                    patents.append((patent.strip(), "", "", ""))
+            if len(patents) == 1:
+                patent_title, patent_company, patent_id, patent_year = patents[0]
                 lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}, has been cited as Prior Art in the *{patent_company}* patent titled «{patent_title}» with USPTO assignment code [{patent_id}](https://patents.google.com/patent/{patent_id}) ({patent_year}).{doi_link}")
-                lines.append("")
+            else:
+                # Several patents for one paper: one sentence, listed by grant year.
+                patents.sort(key=lambda p: (p[3], p[2]))
+                companies = sorted({p[1] for p in patents if p[1]})
+                company_str = f" *{' and '.join(companies)}*" if companies else ""
+                listed = "; ".join(
+                    f"«{t}» [{pid}](https://patents.google.com/patent/{pid}) ({y})"
+                    for t, _, pid, y in patents)
+                lines.append(f"**[{num}]** The {year} paper «{title}»{coauthor_str}, published in *{journal}*{cabs_str}, has been cited as Prior Art in {len(patents)}{company_str} patents: {listed}.{doi_link}")
+            lines.append("")
 
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines))
